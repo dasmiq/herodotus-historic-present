@@ -221,34 +221,21 @@ Before we draw any general conclusions about the historic present, let us examin
 
 The second historic present occurs when Candaules' wife confronts Gyges with his transgression and gives him the choice of treason or death.
 
-MEpLEîVaL.
-
-But when he could not deter her, and saw that dire necessity was truly upon him either to kill his master or himself be killed by others, he chooses his own life.
-
-(Hdt. 1.11.4)
+> οὔκων δὴ ἔπειθε, ἀλλ᾽ ὥρα ἀναγκαίην ἀληθέως προκειμένην ἢ τὸν δεσπότεα ἀπολλύναι ἢ αὐτὸν ὑπ᾽ ἄλλων ἀπόλλυσθαι: <ins>αἱρέεται</ins> αὐτὸς περιεῖναι.\
+> But when he could not deter her, and saw that dire necessity was truly upon him either to kill his master or himself be killed by others, he <ins>chooses</ins> his own life.\
+> ([Hdt. 1.11.4](http://data.perseus.org/citations/urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:1.11.4))
 
 The final working out of the plan to kill Candaules is capped with a third historic present.
 
-WS SEMpUEaUTU ELBOUAny, VUKTOS YEVOMENnE EITETO ES TOU
+> ὡς δὲ ἤρτυσαν τὴν ἐπιβουλήν, νυκτὸς γενομένης ... εἵπετο ἐς τὸν θάλαμον τῇ γυναικί, καί μιν ἐκείνη, ἐγχειρίδιον δοῦσα, <ins>κατακρύπτει</ins> ὑπὸ τὴν αὐτὴν θύρην.\
+> When they had prepared this plot, and night had fallen, Gyges followed the woman into the chamber... She gave him a dagger and <ins>hides</ins> him behind the same door.\
+> ([Hdt. 1.12.1](http://data.perseus.org/citations/urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:1.12.1))
 
-Baauor nyuvaiki, Kai uv EKeivn, BYXELpiGLov Bovea, KaraKounteL ino
+Note that these historic presents do not occur, as some would hate it, at the peak of the narrative; rather, they describe events which are decisive in terms of the later turns of the story.[^28] As for the syntactic context of these historic presents, it is enough for now to observe that the verbs immediately precedig them are in the imperfect. This juxtaposition throws the historic present into higher relief than an aorist-present combination would have.
 
-เกิน autทิน Bupnv.
+[^28]: De Jong (1991: 41), in her analysis of the historic present, draws a distinction between important or decisive actions and actions marked by the narrator as important or decisive. In the case of Herodotus (as opposed to de Jong's Euripidean messengers), this distinction is not very useful. The very presence of an event in the _Histories_, let alone that event's relative importance or decisiveness, is determined by the will of the narrator.
 
-
-
-
-The Historic Present and Narrative Grounding
-
-23
-
-When they had prepared this plot, and night had fallen, Gyges followed the woman into the chamber... She gave him a dagger and hides him behind the same door.
-
-(Hdt. 1.12.1)
-
-Note that these historic presents do not occur, as some would hate it, at the peak of the narrative; rather, they describe events which are decisive in terms of the later turns of the story.28 As for the syntactic context of these historic presents, it is enough for now to observe that the verbs immediately precedig them are in the imperfect. This juxtaposition throws the historic present into higher relief than an aorist-present combination would have.
-
-Nevertheless, Herodotus does not use the historic present solely as a marker for isolated events. The massacre of the Magi by Darius and his fellow conspirators provides many examples of the historic present usec., it seems, purely for the sake of vividness. The conspirators enter the palace without opposition, but when they are confronted by the eunuch messengers, they draw their knives and simultaneously start the killing and the historic presents.
+Nevertheless, Herodotus does not use the historic present solely as a marker for isolated events. The massacre of the Magi by Darius and his fellow conspirators provides many examples of the historic present used, it seems, purely for the sake of vividness. The conspirators enter the palace without opposition, but when they are confronted by the eunuch messengers, they draw their knives and simultaneously start the killing and the historic presents.
 
 ทนUVETO Kai TOUTO LEU
 
@@ -262,17 +249,7 @@ aoaMoves aUTTE KEAd, TOU HETwariasTผนOบ
 
 MEÍTOVEL Kai dUvaGins ElVEKEV Kai pUraKis ths aponórios...
 
-These, giving each other the word, and drawing their knives, stab the eunuchs who barred their way,...One rushes to take down a bow, the other went for a spear....but the other defended himself with his spear and wounds Aspathines in the thigh and Intaphrenes in the eye...So one of the Magi wounds these; the other flces... Two of the seven rush into the room with him, Darius and Gobryas...So Darius complying stabbed
-
-28 De Jong (1991: 41), in her analysis of the historic present, draws a distinction between important or decisive actions and actions marked by the narrator as important or decisive. In the case of Herodotus (as opposed to de Jong's Euripidean messengers), this distinction is not very useful. The very presence of an event in the Histories, let alone that event's relative importance or decisiveness, is determined by the will of the narrator.
-
-
-
-The Historic Present and Narrative Grounding
-
-24
-
-with his knife and somehow stuck the Magus. When they had killed the Magi and cut off their heads, they leave their wounded there because of their infirmity and for the sake of guarding the acropolis...
+These, giving each other the word, and drawing their knives, stab the eunuchs who barred their way,...One rushes to take down a bow, the other went for a spear....but the other defended himself with his spear and wounds Aspathines in the thigh and Intaphrenes in the eye...So one of the Magi wounds these; the other flces... Two of the seven rush into the room with him, Darius and Gobryas...So Darius complying stabbed with his knife and somehow stuck the Magus. When they had killed the Magi and cut off their heads, they leave their wounded there because of their infirmity and for the sake of guarding the acropolis...
 
 (Hdt. 3.77.3-79.1)
 
