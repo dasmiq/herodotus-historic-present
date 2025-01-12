@@ -65,7 +65,7 @@ Avoiding this diachronic issue, I will try to determine whether conjunction redu
 
 [^4]: The injunctive is the term for Indo-European forms "which in effect neutralize the verbal categories of tense and mood, expressing only person, number, and voice." (Kiparsky, 1968: 36)
 
-[^5]: Ironically, Levin was writing to strengthen Kiparsky's case, but one of his first examples does the exact opposite. Levin (1969: 386) justifies this sentence by saying that "such usages of the present form have been recognized by grammarians of modern times to have no connotation of
+[^5]: Ironically, Levin was writing to strengthen Kiparsky's case, but one of his first examples does the exact opposite. Levin (1969: 386) justifies this sentence by saying that "such usages of the present form have been recognized by grammarians of modern times to have no connotation of drama or vividness." Granted, this is a good refutation of vividness, but does that mean that conjunction reduction is true? See the discussion of the annalistic present in Chapter Three.
 
 > Δαρείου καὶ Παρυσάτιδος <ins>γίγνονται</ins> παῖδες δύο, πρεσβύτερος μὲν Ἀρταξέρξης, νεώτερος δὲ Κῦρος.\
 > Two children of Darius and Parysatis <ins>are born</ins> — the elder, Artaxerxes; the younger, Cyrus.\
@@ -73,120 +73,46 @@ Avoiding this diachronic issue, I will try to determine whether conjunction redu
 
 Since this is the first sentence of the _Anabasis_, there is no opportunity for conjunction reduction, yet we find a past event (the birth of Artaxerxes and his brother) told in the present tense. Within Herodotus, we find not only the sequence past-conjunction-present but present-conjunction-past. Surely a language cannot eliminate information as redundant before it appears! We may illustrate this point with a few examples.
 
-aUTOs TE TO ETaiDe, TOU nu n Yuun avEn, iTOSEKETCL SWTiUnU BROELU
+> αὐτός τε τῷ ἑταίρῳ, τοῦ ἦν ἡ γυνὴ αὕτη, <ins>ὑποδέκεται</ins> δωτίνην δώσειν τῶν ἑωυτοῦ πάντων ἕν, τὸ ἂν αὐτὸς ἐκεῖνος ἕληται, καὶ τὸν ἑταῖρον ἑωυτῷ ἐκέλευε ὡσαύτως τὴν ὁμοίην διδόναι\
+> He <ins>promises</ins> to give to his comrade (whose wife she was) any one thing out of all he owned, whatever Agetus might choose, and he bade his comrade make him the same promise.\
+> ([Hdt. 6.62.1](http://data.perseus.org/citations/urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:6.62.1))
 
-เพิน ENUTOU HaVIV EV, TO dv auTos EkEivos Eana, Kai rov Eraipou
+> καὶ τοῦτο μὲν ἐν τούτῳ τῷ πόνῳ ὁ πολέμαρχος <ins>διαφθείρεται</ins>, ἀνὴρ γενόμενος ἀγαθός, ἀπὸ δ᾽ ἔθανε τῶν στρατηγῶν Στησίλεως ὁ Θρασύλεω\
+> In this labor Callimachus the polemarch <ins>is slain</ins>, a brave man, and of the generals Stesilaus son of Thrasylaus died.\
+> ([Hdt. 6.114.1](http://data.perseus.org/citations/urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:6.114.1))
 
-CUT KEAVE ผสาพเทนอนเทน 6oral
+> τῶν δὲ κατύπερθέ οἱ προγόνων τὰ οὐνόματα εἴρηται ἐς Λεωνίδην: ὡυτοὶ γάρ σφι τυγχάνουσι ἐόντες. <ins>ἀποθνήσκει</ins> δὲ Μαρδόνιος ὑπὸ Ἀειμνήστου ἀνδρὸς ἐν Σπάρτῃ λογίμου...\
+> I have named the rest of Pausanias' ancestors in the lineage of Leonidas; for they are the same for both. As for Mardonius, he <ins>is slain</ins> by Aeimnestus, a Spartan of note...\
+> ([Hdt. 9.64.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:9.64.2))
 
-He promises to give to his comrade (whose wife she was) any one thing out of all he owned, whatever Agetus might choose, and he bade his comrade make him the same promise.
+The first passage comes from the very beginning of a narrative, so there is no past tense from which to reduce. The second passage is drawn from the middle of a narrative, but the parallel structure assures us that if conjunction reduction were to occur at all, it would have to be in the reverse order.[^6] In the third passage, we see that narrative and not syntactic context determines the use of the historic present, for the present of Herodotus' aside is directly followed by the historic present of Mardonius death. Were the historic present simply a zero-tense, zero-aspect formation, we would expect an aorist after the aside in order to resume the narrative in the past. The historic present suffices to indicate the resumption of the story. In the narrative contexts, where past, completed events are the norm, the past perfective (arist) forms are unmarked whereas imperfective (present, imperfect) forms are marked (Comrie, 1976: 120-22; Fleischman, 1990: 54-5). These narrative contexts, therefore, rather than universal syntactic laws, provide the foundation on which any theory of the historic present must be built.
 
-(Hdt. 6.62.1)
-
-KAI TOUTO MÈUÉU TOÚTH TÙ HÓVW Ó MOMÉMAPXOS GLADDEÍDETOL, dUNP
-
-YEVÓMEVOS dYaRÓS, anò 6'ÉPaVE TEN aTPaTnyw ETnaÍnEWS ó
-
-In this labor Callimachus the polemarch is slain, a brave man, and of the generals Stesilaus son of Thrasylaus died.
-
-(Hdt. 6.115.1)
-
-Tผิง 6E KarunepeE oi mpoyovwr ra ouvouara cipntal is Aewvinv wuroi
-
-YÁP COI TUY XÁVOUƠL OUTES. ANOBUNCKEL 6È MaPSOVIOS ÚMÒ'AELMUNOTOU
-
-Baneformod the tor Mania, alsatin y e linese potas for they are the
-
-The first passage comes from the very beginning of a narrative, so there is no past tense from which to reduce. The second passage is drawn from the middle of a
-
-drama or vividness." Granted, this is a good refutation of vividness, but does that mean that conjunction reduction is true? See the discussion of the annalistic present in Chapter Three.
-
-8
-
-Syntax and Narrative
-
-narrative, but the parallel structure assures us that if conjunction reduction were to occur at all, it would have to be in the reverse order. In the third passage, we see that narrative and not syntactic context determines the use of the historic present, for the present of Herodotus' aside is directly followed by the historic present of Mardonius death. Were the historic present simply a zero-tense, zero-aspect formation, we would expect an aorist after the aside in order to resume the narrative in the past. The historic present suffices to indicate the resumption of the story. In the narrative contexts, where past, completed events are the norm, the past perfective (arist) forms are unmarked whereas imperfective (present, imperfect) forms are marked (Comrie, 1976: 120-22; Fleischman, 1990:
-
-54-5). These narrative contexts, therefore, rather than universal syntactic laws, provide the foundation on which any theory of the historic present must be built.
+[^6]: Compare Comrie (1985: 104) on verbs with neutralized tense: "its time reference is simply location at the time established by the immediately preceding sentence-internal context; the requirement that there be a preceding sentence-internal context excludes this category from occurring sentence-initially," By Comrie's reasoning, therefore, the present in the second example cannot be a result of conjunction reduction.
 
 Before we let narrative enter the fray, we must outline general linguistic theories of syntax and narrative and their application to Herodotus. The results of pragmatic linguistics may be summarized by the remark of Longacre and Levinsohn (1977: 107).
 
-Significant chunks of the whole verb system of a language can be classified in terms of functions in discourse and paragraph. Thus, each discourse type has its favored tense/aspect for the mainline of its development and other tense/ aspects for other functions. The occurrence of a given tense/aspect immediately tells us something about the classification of the text as to discourse type, provides cohesion throughout that text, and may tell us roughly what part of the discourse or paragraph we are looking at.
+> Significant chunks of the whole verb system of a language can be classified in terms of functions in discourse and paragraph. Thus, each discourse type has its favored tense/aspect for the mainline of its development and other tense/aspects for other functions. The occurrence of a given tense/aspect immediately tells us something about the classification of the text as to discourse type, provides cohesion throughout that text, and may tell us roughly what part of the discourse or paragraph we are looking at.
 
-We should note two points of this analysis. Firstly, the pragmatic functions of tense and aspect operate at both the micro- and macro-level, and, secondly, the interpretation of a given tense or aspect cannot be divorced from its context.
+We should note two points of this analysis. Firstly, the pragmatic functions of tense and aspect operate at both the micro- and macro-level, and, secondly, the interpretation of a given tense or aspect cannot be divorced from its context. Verb forms do, of course, bring a certain amount of "baggage" to a context, for part of the shock of a historic present lies in finding a tense, whose normal reference is the moment of discourse, referring to past narrative time. These expectations for the present tense are, nevertheless, built up by the multitude of sentences in which it does refer to the moment of discourse. We should say, then, that a tense or aspect possesses an inherent meaning defined by its general usage but that an occurrence of that tense or aspect in discourse reserves the right to alter its meaning for pragmatic effect.[^7]
 
-Verb forms do, of course, bring a certain amount of "baggage" to a context, for
+[^7]: Comrie (1985: 26) phrases this give-and-take of general meaning and context thus: "It is...possible that a tense will receive particular interpretations in particular contexts, but these are always explainable in terms of the interaction of context-independent meaning and context, and do not therefore form part of the meaning of the tense category in question." Of course, Comrie's "context-independent meaning" is defined in a particluar language by context. Even if there be a language-independent notion of discourse time reference, the context of many sentences must be consulted to determine that the morphological present tense in Greek can have discourse time reference.
 
-6 Compare Comrie (1985: 104) on verbs with neutralized tense: "its time reference is simply location at the time established by the immediately preceding sentence-internal context; the requirement that there be a preceding sentence-internal context excludes this category from occurring sentence-initially," By Comrie's reasoning, therefore, the present in the second example cannot be a result of conjunction reduction.
+For the purposes of narrative analyses, an important pragmatic concept is the distinction between foreground and background. As Hopper and Thompson (1980: 280) define them, foreground "supplies the main point of the discourse," whereas background "merely assists, amplifies, or comments on it. Linguistic features associated with the distinction between foreground and background are referred to as grounding."8 How do languages indicate the distinction between background and foreground? Hopper (1979: 213-6) cites languages that accomplish this with separate particles for foreground and background passages, but he also observes that "it is quite common for languages to realize the foreground-background distinction with specialized verb morphology." He goes on to consider the evidence of French and Russian to associate perfective aspect with foreground and imperfective aspect with background. Hopper and Thompson (1980: 284-8) consider not just aspect but nine other features that indicate narrative grounding. These features are: participants, the tendency for foregrounding to be associated with transitive verbs (two participants) and for backgrounding to be associated with intransitive verbs (one participant); kinesis, a change of place or condition in the foreground; punctuality, the distinction between single actions (foreground) and lasting or iterative actions (background); volitionality, the expression of wishes or intentions that predominates in the foreground; agency, the presence of a human actor in the foreground; mode, the predominance of indicative verbs in the foreground; affirmation, the absence of negations in the foreground; affectedness, the greater change that the object undergoes in the foreground; and individuation, the tendency for foreground objects to be definite and referential rather than abstract. Most of these criteria are difficult to validate mechanically, but, with the proper morphological information, aspect, punctuality, and mood are easily determined.
 
-
-
-Syntax and Narrative
-
-part of the shock of a historic present lies in finding a tense, whose normal reference is the moment of discourse, referring to past narrative time. These expectations for the present tense are, nevertheless, built up by the multitude of sentences in which it does refer to the moment of discourse. We should say, then, that a tense or aspect possesses an inherent meaning defined by its general usage but that an occurrence of that tense or aspect in discourse reserves the right to alter its meaning for pragmatic effect.?
-
-For the purposes of narrative analyses, an important pragmatic concept is the distinction between foreground and background. As Hopper and Thompson
-
-(1980: 280) define them, foreground "supplies the main point of the discourse," whereas background "merely assists, amplifies, or comments on it. Linguistic features associated with the distinction between foreground and background are referred to as grounding."8 How do languages indicate the distinction between background and foreground? Hopper (1979: 213-6) cites languages that accomplish this with separate particles for foreground and background passages, but he also observes that "it is quite common for languages to realize the foreground-background distinction with specialized verb morphology." He goes on to consider the evidence of French and Russian to associate perfective aspect with foreground and imperfective aspect with background. Hopper and Thompson (1980: 284-8) consider not just aspect but nine other features that indicate narrative grounding. These features are: participants, the tendency for
-
-7 Comrie (1985: 26) phrases this give-and-take of general meaning and context thus: "It is...possible that a tense will receive particular interpretations in particular contexts, but these are always explainable in terms of the interaction of context-independent meaning and context, and do not therefore form part of the meaning of the tense category in question." Of course, Comrie's
-
-"context-independent meaning" is defined in a particluar language by context. Even if there be a language-independent notion of discourse time reference, the context of many sentences must be consulted to determine that the morphological present tense in Greek can have discourse time
-
-8 What Hopper and Thompson refer to as "foreground" and "background," Longacre and Levinsohn (1977: 107) call "on-eventline" and "off-eventline" or "progression" and "digression."
+[^8]: What Hopper and Thompson refer to as "foreground" and "background," Longacre and Levinsohn (1977: 107) call "on-eventline" and "off-eventline" or "progression" and "digression."
 
 
+Let me make a brief digression on the nature of aspect, for this linguistic concept will be important in my analysis of the historic present. Hopper and Thompson's categories distinguish between aspect and punctuality, where the former represents the telic/atelic spectrum and the latter represents various degrees of punctuality or durativity. Telicity is the degree to which an action points toward some final goal, regardless of the amount of time that that action takes. Comrie (1976: 44) gives a good example of this antithesis with the two sentences, 'John is singing," and 'John is making a chair." If at any point in singing, John breaks off, we may truthfully say, 'John has sung," but if John stops working on the chair before it is completed, we cannot say, "John has made a chair." The former action is therefore atelic and the latter telic. Note that both actions are morphologically imperfective; telicity applies only at the level of semantics. Similarly, punctuality is a semantic concept associated with aspect. A punctual action is one that occurs at a moment in time and is not repeated whereas a durative action is one that occurs over a span of time. Note that punctual actions may be represented by imperfective verbs, but that their sense is then iterative. "She coughed" is a punctual event, and "She is coughing" is a series of punctual events represented by an imperfective aspect. In analyzing narrative grounding, we must pay attention not only to perfective and imperfective aspect but also to the telicity and punctuality of situations. Telicity and punctuality are harder to characterize than pure syntactic aspect, but examination of the inherent meanings of verbs can provide substantial information.
 
-Syntax and Narrative
+It is an easy step to apply these linguistic principles to the study of Greek texts. In past narrative, imperfective aspect is represented by the imperfect tense and perfective aspect by the aorist indicative and the pluperfect. Although authors tend to employ imperfective verbs in backgrounded passages, the pluperfect presents an exception. In conventional analysis, the pluperfect possesses the temporal role of "past of the perfect" (Smyth, 1956: 435) or "past-in-the-past" (Rijksbaron, 1984: 37). This role can be expanded to include "explanatory background situations that took place before the events of the current narrative plane" (Fleischman, 1990: 24), but even this definition is too restrictive. I have argued in an earlier paper that, while a verb in the pluperfect usually indicates background, it need not represent an event that occurred before the events around it in the narrative.[^9]
 
-10
+[^9]: My junior tutorial paper in Classics, "The Pluperfect and the Narrative Strand of Herodotus," presented the view of the pluperfect as a pure backgrounding marker. It is a good example of what can be done with a simple morphology-driven word-search program, without the benefit of the programs I have written for this thesis.
 
-foregrounding to be associated with transitive verbs (two participants) and for backgrounding to be associated with intransitive verbs (one participant); kinesis, a change of place or condition in the foreground; punctuality, the distinction between single actions (foreground) and lasting or iterative actions (background); volitionality, the expression of wishes or intentions that predominates in the foreground; agency, the presence of a human actor in the foreground; mode, the predominance of indicative verbs in the foreground; affirmation, the absence of negations in the foreground; affectedness, the greater change that the object undergoes in the foreground; and individuation, the tendency for foreground objects to be definite and referential rather than abstract. Most of these criteria are difficult to validate mechanically, but, with the proper morphological information, aspect, punctuality, and mood are easily determined
+Albert Rijksbaron's article, "The Discourse Function of the Imperfect," provides an impressive example of the power of narrative grounding theory applied to Greek — to Herodotus, no less. Rijksbaron argues that the Greek imperfect tense provides a "time anchor" in the background which situates all the foregrounded aorist events in time. This anchoring process occurs not just at the level of the sentence but at the level of book-length narratives, and Rijksbaron demonstrates this with a detailed tense map of the Scythian expedition (Hdt. 4.1.1-5.23.1). With great regularity, imperfect verbs delimit ("anchor") the various sections of this _logos_, for in addition to structuring a narrative, the imperfect virtually defines it (Rijksbaron, 1988: 249). Aorists and, of course, presents occur quite frequently in non-narrative contexts, but the imperfect almost always indicates a narrative by situating events squarely in the past. Events that follow an imperfect verb are thus indicated as also taking place in the past.[^10] The nub of Rijksbaron's argument is that the imperfect, while is does represent incomplete actions, serves the equally important discourse function of introducing and structuring narrative.
 
-Let me make a brief digression on the nature of aspect, for this linguistic
+Such a description of the imperfect tense in terms of narrative structure leads us to ask similar questions about the historic present. What are its syntactic and semantic characteristics? How does it fit into the framework of narrative grounding? What functions does it serve in discourse? Before we can answer these questions about historic presents, we must find a way to locate and classify them efficiently.
 
-concept will be important in my analysis of the historic present. Hopper and Thompson's categories distinguish between aspect and punctuality, where the former represents the telic/atelic spectrum and the latter represents various degrees of punctuality or durativity. Telicity is the degree to which an action points toward some final goal, regardless of the amount of time that that action takes. Comrie (1976: 44) gives a good example of this antithesis with the two sentences, 'John is singing," and 'John is making a chair." If at any point in singing, John breaks off, we may truthfully say, 'John has sung," but if John stops working on the chair before it is completed, we cannot say, "John has made a chair." The former action is therefore atelic and the latter telic. Note that both actions are morphologically imperfective; telicity applies only at the level of semantics. Similarly, punctuality is a semantic concept associated with aspect. A punctual action is one that occurs at a moment in time and is not repeated
-
-
-
-Syntax and Narrative
-
-11
-
-whereas a durative action is one that occurs over a span of time. Note that punctual actions may be represented by imperfective verbs, but that their sense is then iterative. "She coughed" is a punctual event, and "She is coughing" is a series of punctual events represented by an imperfective aspect. In analyzing narrative grounding, we must pay attention not only to perfective and imperfective aspect but also to the telicity and punctuality of situations. Telicity and punctuality are harder to characterize than pure syntactic aspect, but examination of the inherent meanings of verbs can provide substantial
-
-information.
-
-It is an easy step to apply these linguistic principles to the study of Greek texts. In past narrative, imperfective aspect is represented by the imperfect tense and perfective aspect by the aorist indicative and the pluperfect. Although authors tend to employ imperfective verbs in backgrounded passages, the pluperfect presents an exception. In conventional analysis, the pluperfect possesses the temporal role of "past of the perfect" (Smyth, 1956: 435) or "past-in-the-past" (Rijksbaron, 1984: 37). This role can be expanded to include
-
-"explanatory background situations that took place before the events of the current narrative plane" (Fleischman, 1990: 24), but even this definition is too restrictive. I have argued in an earlier paper that, while a verb in the pluperfect usually indicates background, it need not represent an event that occurred before the events around it in the narrative.
-
-Albert Rijksbaron's article, "The Discourse Function of the Imperfect," provides an impressive example of the power of narrative grounding theory applied to Greek — to Herodotus, no less. Rijksbaron argues that the Greek
-
-9 My junior tutorial paper in Classics, "The Pluperfect and the Narrative Strand of Herodotus," presented the view of the pluperfect as a pure backgrounding marker. It is a good example of what can be done with a simple morphology-driven word-search program, without the benefit of the programs I have written for this thesis.
-
-
-
-Syntax and Narrative
-
-12
-
-imperfect tense provides a "time anchor" in the background which situates all the foregrounded aorist events in time. This anchoring process occurs not just at the level of the sentence but at the level of book-length narratives, and Rijksbaron demonstrates this with a detailed tense map of the Scythian expedition (Hdt.
-
-4.1.1-5.23.1). With great regularity, imperfect verbs delimit ("anchor") the various sections of this logos, for in addition to structuring a narrative, the imperfect virtually defines it (Rijksbaron, 1988: 249). Aorists and, of course, presents occur quite frequently in non-narrative contexts, but the imperfect almost always indicates a narrative by situating events squarely in the past.
-
-Events that follow an imperfect verb are thus indicated as also taking place in the past. 10 The nub of Rijksbaron's argument is that the imperfect, while is does represent incomplete actions, serves the equally important discourse function of introducing and structuring narrative.
-
-Such a description of the imperfect tense in terms of narrative structure leads us to ask similar questions about the historic present. What are its syntactic and semantic characteristics? How does it fit into the framework of narrative
-
-grounding? What functions does it serve in discourse? Before we can answer these questions about historic presents, we must find a way to locate and classify them efficiently.
-
-
-
-I One may say that this is a theory of "narrative reduction" One imperfect "time anchor" serves to locate a series of events in the past, and the following aorists and presents need not duplicate
-
-his "pastness" infortation.
-
+[^10]: One may say that this is a theory of "narrative reduction." One imperfect "time anchor" serves to locate a series of events in the past, and the following aorists and presents need not duplicate this "pastness" infortation.
 
 
 ## Chapter Two: Resources and Methodology
@@ -195,25 +121,11 @@ On an abstract level, the three resources necessary for linguistic computing are
 
 For this research, I have used the textual materials accumulated and tagged by the Perseus Project and the Morpheus morphological aralyzer. To tie these resources together, I have written tagging, scanning, and data analysis programs, primarily in the C language, but also in Unix utilities such as lex and awk. I chose C for two reasons. Firstly, it allowed me to scan through the entire text of Herodotus in about five minutes, thus allowing me to ask and answer
 
-questions about a particular textual feature in a short time. Secordly, I had already, as a part of my duties at Perseus, written quite a substan jal library of lex code, which is an extension of the C language; it was more eccnomical and elegant to link this existing code with a compatible language. 11 All the programs that I wrote served essentially the same function: scanning throush the input text and detecting a specified syntactic pattern. In the following pages, "the program" is shorthand for any version of this scanning program.
+questions about a particular textual feature in a short time. Secordly, I had already, as a part of my duties at Perseus, written quite a substantial library of lex code, which is an extension of the C language; it was more economical and elegant to link this existing code with a compatible language.[^11] All the programs that I wrote served essentially the same function: scanning throush the input text and detecting a specified syntactic pattern. In the following pages, "the program" is shorthand for any version of this scanning program.
 
-11 What lex does, in essence, is to build regular expression and finite automaton capabilities into
+[^11]: What lex does, in essence, is to build regular expression and finite automaton capabilities into C. One writes input to lex as a series of regular expressions, perhaps with some specified state conditions, and a series of C routines to execute when the input matches those regular expressions. Regular expressions are patterns for matching text. For example, one uses the expression "a\*b*" to match any number of a's followed by any number of b's. The vagaries of regular expressions are not, however, important here. The lex program itself acts as a preprocessor and generates a C program that scans the input, matches it against the regular expressions, and performs the user-specified C routines. One may insert a routine that adds one to a section counter every time the lex program finds a "\<SECTION>" tag. Most of my programs were written in Vern Paxson's lex dialect, flex 2.1.
 
-C. One writes input to lex as a series of regular expressions, perhaps with some specified state conditions, and a series of C routines to execute when the input matches those regular expressions. Regular expressions arfe patterns for matching text. For example, one uses the expression "a"b*" to match any number of a's followed by any number of b's. The vagaries of regular expressions are not, however, important here. The lex program itself acts as a preprocessor and generates a C program that scans the input, matches it against the regular expressions, and performs the user-specified C routines. One may insert a routine that adds one to a section counter every time the lex program finds a "<SECTION>" tag. Most of my programs were written in Vern Paxson's lex dialect, flex 2.1.
-
-
-
-Resources and Methodology
-
-14
-
-Thankfully, one of the most arduous tasks in any computa ional linguistic
-
-research has been completed for Herodotus and other classical Greek historians.
-
-The Perseus Project possesses on-line texts of the vast majority of ancient Greek literature (in the original and in translation) down to the death of Alexander the Great, along with a good deal of later literature. The Greek text itself is represented in ASCIl with formatting conventions as in Beta Coda. 12 All this text has been tagged for basic structural and content features in the Standard Generalized Markup Language (SGML), 13 In general tags are ma:kers inserted in the text in order to delimit certain structural features. For example, a section
-
-that begins with "<SECTION N="1">" would end with "</SECT:ON>". Since SGML is rigorously hierarchical in the allowed order of tags, one can determine all the tags containing the current piece of text simply by knowing the tag that most immediately contains the current text. The basic structure of a book of Herodotus, or of any author who is referenced by < book>.<chapter>.<section> is as follows:
+Thankfully, one of the most arduous tasks in any computational linguistic research has been completed for Herodotus and other classical Greek historians. The Perseus Project possesses on-line texts of the vast majority of ancient Greek literature (in the original and in translation) down to the death of Alexander the Great, along with a good deal of later literature. The Greek text itself is represented in ASCIl with formatting conventions as in Beta Coda. 12 All this text has been tagged for basic structural and content features in the Standard Generalized Markup Language (SGML), 13 In general tags are ma:kers inserted in the text in order to delimit certain structural features. For example, a section that begins with "\<SECTION N="1">" would end with "\</SECTION>". Since SGML is rigorously hierarchical in the allowed order of tags, one can determine all the tags containing the current piece of text simply by knowing the tag that most immediately contains the current text. The basic structure of a book of Herodotus, or of any author who is referenced by <book>.<chapter>.<section> is as follows:
 
 12 For the sake of readability, all Greek in this paper has been converted into s andard minuscule type. In reality, all the programs described herein processed the Greek texts ir. their Beta Code representation. Beta Code represents Greek with the standard US character se.; the correspondences are intuitive with the following exceptions.
 
