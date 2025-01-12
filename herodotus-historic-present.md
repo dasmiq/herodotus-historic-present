@@ -216,7 +216,7 @@ Before we draw any general conclusions about the historic present, let us examin
 [^27]: The translations of Herodotus and other ancient authors are those of the Loeb edition. For the sake of convenience, I have changed verbs that translated a Greek historic present into an English historic present. Both the Greek and English historic presents are underlined.
 
 >  καὶ μετὰ ταῦτα αὐτίκα παρῆν καὶ ἡ γυνή. ἐσελθοῦσαν δὲ καὶ τιθεῖσαν τὰ εἵματα ἐθηεῖτο ὁ Γύγης. ὡς δὲ κατὰ νώτου ἐγένετο ἰούσης τῆς γυναικός ἐς τὴν κοίτην, ὑπεκδὺς ἐχώρεε ἔξω, καὶ ἡ γυνὴ <ins>ἐπορᾷ</ins> μιν ἐξιόντα.\
-> His wife followed presently, and when she had come in and was layir g aside her garments, Gyges saw her; when she turned her back upon him to go to bed, he slipped from the room. The woman <ins>glimpses</ins> him as he went out.\
+> His wife followed presently, and when she had come in and was laying aside her garments, Gyges saw her; when she turned her back upon him to go to bed, he slipped from the room. The woman <ins>glimpses</ins> him as he went out.\
 > ([Hdt. 1.10.1–2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:1.10))
 
 The second historic present occurs when Candaules' wife confronts Gyges with his transgression and gives him the choice of treason or death.
@@ -231,7 +231,7 @@ The final working out of the plan to kill Candaules is capped with a third histo
 > When they had prepared this plot, and night had fallen, Gyges followed the woman into the chamber... She gave him a dagger and <ins>hides</ins> him behind the same door.\
 > ([Hdt. 1.12.1](http://data.perseus.org/citations/urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:1.12.1))
 
-Note that these historic presents do not occur, as some would hate it, at the peak of the narrative; rather, they describe events which are decisive in terms of the later turns of the story.[^28] As for the syntactic context of these historic presents, it is enough for now to observe that the verbs immediately precedig them are in the imperfect. This juxtaposition throws the historic present into higher relief than an aorist-present combination would have.
+Note that these historic presents do not occur, as some would have it, at the peak of the narrative; rather, they describe events which are decisive in terms of the later turns of the story.[^28] As for the syntactic context of these historic presents, it is enough for now to observe that the verbs immediately preceding them are in the imperfect. This juxtaposition throws the historic present into higher relief than an aorist-present combination would have.
 
 [^28]: De Jong (1991: 41), in her analysis of the historic present, draws a distinction between important or decisive actions and actions marked by the narrator as important or decisive. In the case of Herodotus (as opposed to de Jong's Euripidean messengers), this distinction is not very useful. The very presence of an event in the _Histories_, let alone that event's relative importance or decisiveness, is determined by the will of the narrator.
 
@@ -255,9 +255,7 @@ These, giving each other the word, and drawing their knives, stab the eunuchs wh
 
 This passage, aside from demonstrating a vivid use of the historic present, presents two paradoxes. Firstly, why is Darius' killing of the Magus in the inner room in the aorist, while all other killings or woundings are in the historic present? Secondly, why does Herodotus use the historic present when, after the action is over, the conspirators leave their wounded behind? If w a maintain that the historic present must highlight decisive events, we should ex/ ect a historic present (and not an aorist) in the first case and an aorist or imperíect (and not a historic present) in the second.
 
-Although some may argue that Herodotus employs the hi: toric present arbitrarily, and even unconsciously, that seems not to be the case. Fleischman
-
-(1990: 76), writing about oral narrative, observes that "a speaker's use of tenses will not be consistent across multiple retellings of the same story." But Herodotus, where he does in fact present us with parallel stories seems to be consistent in his placement of the historic present. When Cambyses has a dream, which he believes to ne about Smerdis, he acts thus:
+Although some may argue that Herodotus employs the historic present arbitrarily, and even unconsciously, that seems not to be the case. Fleischman (1990: 76), writing about oral narrative, observes that "a speaker's use of tenses will not be consistent across multiple retellings of the same story." But Herodotus, where he does in fact present us with parallel stories seems to be consistent in his placement of the historic present. When Cambyses has a dream, which he believes to ne about Smerdis, he acts thus:
 
 TENTEL MonEdonea Es nepoas, os nv oi dvnp nepoEwv nototaros.
 
