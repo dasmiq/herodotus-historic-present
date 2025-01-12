@@ -56,29 +56,22 @@ His examples, however, are confined to "decisive actions" or "turning-points" wi
 
 Other theories of the historic present, besides the traditional vividness explanation, have been proposed. Perhaps the most intriguing and controversial is Paul Kiparsky's conjunction reduction theory. Kiparsky set out specifically to refute the idea that "the narrator...wished to convey to the listener the dramatic feeling of being an eyewitness." Instead, he insists on "the impossibility of adequately characterizing the so-called historical present on a semantic basis alone. Rather, a syntactic solution is called for." (Kiparsky, 1968: 33) Thus far, I agree with Kiparsky, for all data point to a broader function for the historic present than increased vividness. But then comes the (supposed) linguistic knock-out blow.
 
-Everything points to [the historic present's] being an underlying past tense, and its conversion into the present tense in the surface structure must be governed by a syntactic rule, evidently some form of conjunction reduction, which optionally reduces repeated occurrences of the same tense to the present...Schematically the sequence ..Past...and...Past... is reduced to ...Past...and...zero..., and since it is the present which is the zero tense, the reduced structure ...Past...and...zero... is realized morphologically as ...Past...and...Present....
+> Everything points to \[the historic present's] being an underlying past tense, and its conversion into the present tense in the surface structure must be governed by a syntactic rule, evidently some form of conjunction reduction, which optionally reduces repeated occurrences of the same tense to the present...Schematically the sequence ..Past...and...Past... is reduced to ...Past...and...zero..., and since it is the present which is the zero tense, the reduced structure ...Past...and...zero... is realized morphologically as ...Past...and...Present....\
+> (Kiparsky, 1968: 33-5)
 
-(Kiparsky, 1968: 33-5)
+Kiparsky then adduces some examples from Sanskrit and Old Irish to show that in Indo-European, such conjunction reduction occurred from past to injunctive.[^4]
 
-Kiparsky then adduces some examples from Sanskrit and Old Irish to show that in Indo-European, such conjunction reduction occurred from past to injunctive. 4
+Avoiding this diachronic issue, I will try to determine whether conjunction reduction is (synchronically) valid for Herodotus. Unfortunately for Kiparsky's tidy theory, Herodotus offers many examples to refute conjunction reduction. Saul Levin (1969: 386) presents us with the refutation _par excellence_ of conjunction reduction.[^5]
 
-Avoiding this diachronic issue, I will try to determine whether conjunction reduction is (synchronically) valid for Herodotus. Unfortunately for Kiparsky's tidy theory, Herodotus offers many examples to refute conjunction reduction. Saul Levin (1969: 386) presents us with the refutation par excellence of conjunction reduction.5
+[^4]: The injunctive is the term for Indo-European forms "which in effect neutralize the verbal categories of tense and mood, expressing only person, number, and voice." (Kiparsky, 1968: 36)
 
-  The injunctive is the term for Indo-European forms "which in effect neutralize the verbal categories of tense and mood, expressing only person, number, and voice." (Kiparsky, 1968: 36)
-  Ironically, Levin was writing to strengthen Kiparsky's case, but one of his first examples does the exact opposite. Levin (1969: 386) justifies this sentence by saying that "such usages of the present form have been recognized by grammarians of modern times to have no connotation of
+[^5]: Ironically, Levin was writing to strengthen Kiparsky's case, but one of his first examples does the exact opposite. Levin (1969: 386) justifies this sentence by saying that "such usages of the present form have been recognized by grammarians of modern times to have no connotation of
 
+> Δαρείου καὶ Παρυσάτιδος <ins>γίγνονται</ins> παῖδες δύο, πρεσβύτερος μὲν Ἀρταξέρξης, νεώτερος δὲ Κῦρος.\
+> Two children of Darius and Parysatis <ins>are born</ins> — the elder, Artaxerxes; the younger, Cyrus.\
+> ([Xen. Anab. 1.1.1](http://data.perseus.org/citations/urn:cts:greekLit:tlg0032.tlg006.perseus-grc1:1.1.1))
 
-Syntax and Narrative
-
-'ApTaéPEnS, VEÚTEPOS È KúPoS.
-
-Two children of Darius and Parysatis are born - the elder, Artaxerxes; the younger, Cyrus.
-
-7
-
-(Xen. Anab. 1.1.1)
-
-Since this is the first sentence of the Anabasis, there is no opportunity for conjunction reduction, yet we find a past event (the birth of Artaxerxes and his brother) told in the present tense. Within Herodotus, we find not only the sequence past-conjunction-present but present-conjunction-past. Surely a language cannot eliminate information as redundant before it appears! We may illustrate this point with a few examples.
+Since this is the first sentence of the _Anabasis_, there is no opportunity for conjunction reduction, yet we find a past event (the birth of Artaxerxes and his brother) told in the present tense. Within Herodotus, we find not only the sequence past-conjunction-present but present-conjunction-past. Surely a language cannot eliminate information as redundant before it appears! We may illustrate this point with a few examples.
 
 aUTOs TE TO ETaiDe, TOU nu n Yuun avEn, iTOSEKETCL SWTiUnU BROELU
 
