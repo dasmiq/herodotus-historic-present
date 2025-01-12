@@ -774,77 +774,51 @@ It is precisely the power of these tools that I wish to stress. Using morphologi
 
 Comrie, Bernard. _Aspect_. Cambridge: Cambridge University Press, 1976.
 
-Comrie, Bernard. Tense. Cambridge: Cambridge University Press, 1985.
+Comrie, Bernard. _Tense_. Cambridge: Cambridge University Press, 1985.
 
-Crane, Gregory. "Generating and Parsing Classical Greek". Literary and
+Crane, Gregory. "Generating and Parsing Classical Greek". _Literary and Linguistic Computing_ 6 (1991) 243–45.
 
-Linguistic Computing 6 (1991) 243-45.
+Denniston, J. D. _Greek Prose Style_. Oxford: Oxford University Press, 1952.
 
-Denniston, J. D. Greek Prose Style. Oxford: Oxford University Press, 1952.
+Fleischman, Suzanne. _Tense and Narrativity_. Austin: University of Texas Press, 1990.
 
-Fleischman, Suzanne. Tense and Narrativity. Austin: University of Texas Press,
+Fritz, Kurt von. "The So-Called Historical Present in Early Greek". _Word_ 5 (1949) 186–201.
 
-1990.
+Godley, A. D, trans. _Herodotus: With an English Translation by A. D. Godley in Four Volumes_. London: William Heinemann, 1926.
 
-Fritz, Kurt von. "The So-Called Historical Present in Early Greek". Word 5 (1949)
+Goldfarb, Charles F. _The SGML Handbook_. Oxford: Oxford University Press, 1990.
 
-186-201.
+Herwijnen, Eric van. _Practical SGML_. Dordrecht: Kluwer Acaderic Publishers, 1990.
 
-Godley, A. D, trans. Herodotus: With an English Translation by A. D. Godley in Four
+Hopper, Paul J. "Aspect and Foregrounding in Discourse". _Syntax and Semantics_ 12 (1979) 213-241.
 
-Volumes. London: William Heinemann, 1926.
+Hopper, P. J. and S. A. Thompson. "Transitivity in Grammar aná Discourse". _Language_ 56 (1980) 251-300.
 
-Goldfarb, Charles F. The SGML Handbook. Oxford: Oxford University Press,
+Hude, Charles, ed. _Herodoti Historiae_. Oxford: Oxford University Press, 1908.
 
-1990.
+Jong, Irene J. F. de. _Narrative in Drama: The Art of the Euripidean Nessenger-Speech_. Leiden: E. J. Brill, 1991.
 
-Herwijnen, Eric van. Practical SGML. Dordrecht: Kluwer Acaderic Publishers,
+Kiparsky, Paul. "Tense and Mood in Indo-European Syntax". _Foundations of Language_ 4 (1968) 30-57.
 
-1990.
+Levin, Saul. "Remarks on the 'Historical' Present and Comparable Phenomena of Syntax". _Foundations of Language_ 5 (1969) 386-90.
 
-Hopper, Paul J. "Aspect and Foregrounding in Discourse". Synt. x and Semantics
+Longacre, R. and S. Levinsohn. "Field Analysis of Discourse". ed. W. U. Dressler, _Current Trends in Textlinguistics_. Berlin, New York: De Gruyter (1977) 103-22.
 
-12 (1979) 213-241.
+McKay, K. L. "Further Remarks on the 'Historical' Present and Other Phenomena". _Foundations of Language_ 11 (1974) 247-51.
 
-Hopper, P. J. and S. A. Thompson. "Transitivity in Grammar aná Discourse".
+Rijksbaron, Albert. _The Syntax and Semantics of the Verb in Classical Greek_. Amsterdam: J. C. Gieben, 1984.
 
-Language 56 (1980) 251-300.
-
-Hude, Charles, ed. Herodoti Historiae. Oxford: Oxford University Press, 1908.
-
-Jong, Irene J. F. de. Narrative in Drama: The Art of the Euripidean Nessenger-Speech.
-
-Leiden: E. J. Brill, 1991.
-
-Kiparsky, Paul. "Tense and Mood in Indo-European Syntax". Foundations of
-
-Language 4 (1968) 30-57.
-
-Levin, Saul. "Remarks on the 'Historical' Present and Comparable Phenomena
-
-of Syntax". Foundations of Language 5 (1969) 386-90.
-
-Longacre, R. and S. Levinsohn. "Field Analysis of Discourse". ed. W. U. Dressler, Current Trends in Textlinguistics. Berlin, New York: De Gruyter (1977) 103-22.
-
-McKay, K. L. "Further Remarks on the 'Historical' Present and Other
-
-Phenomena". Foundations of Language 11 (1974) 247-51.
-
-Rijksbaron, Albert. The Syntax and Semantics of the Verb in Classica: Greek.
-
-Amsterdam: J. C. Gieben, 1984.
-
-Rijksbaron, A., H. A. Mulder, and G. C. Wakker, eds. In the Foots. ps of Raphael Kühner: Proceedings of the International Colloquium in Comme noration of the 150th Anniversary of the Publication of Raphael Kühner's Aus. ührliche Grammatik der Griechischen Sprache, II. Theil: Syntaxe. f_msterdam: J. C Gieben, 1988.
+Rijksbaron, A., H. A. Mulder, and G. C. Wakker, eds. _In the Footsteps of Raphael Kühner: Proceedings of the International Colloquium in Commemoration of the 150th Anniversary of the Publication of Raphael Kühner's Ausführliche Grammatik der Griechischen Sprache, II. Theil: Syntaxe_. Amsterdam: J. C Gieben, 1988.
 
 Rijksbaron, Albert. "The Discourse Function of the Imperfect". In: Rijksbaron, Mulder, and Wakker (eds.) (1988) 237-54.
 
-Smyth, Herbert Weir. Greek Grammar. Cambridge, Massachusetts: Harvard University Press, 1956.
+Smyth, Herbert Weir. _Greek Grammar_. Cambridge, Massachusetts: Harvard University Press, 1956.
 
-Sperberg-McQueen, C. M. and Lou Burnard. Guidelines for the En :oding and Interchange of Machine-Readable Texts. Draft version 1.0.
+Sperberg-McQueen, C. M. and Lou Burnard. _Guidelines for the Encoding and Interchange of Machine-Readable Texts_. Draft version 1.0.
 
 Stork, P. "Aspectual Variant Readings in Herodotus". In: Rijksbaron, Mulder, and Wakker (eds.) (1988) 265-89.
 
-Wolfson, Nessa. CHP: The Conversational Historic Present in Ameri an English Narrative. Dordrecht, Netherlands: Foris Publications, 198_.
+Wolfson, Nessa. _CHP: The Conversational Historic Present in American English Narrative_. Dordrecht, Netherlands: Foris Publications, 1982.
 
 
 ## Index Locorum
