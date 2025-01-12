@@ -101,50 +101,6 @@ The first passage comes from the very beginning of a narrative, so there is no p
 
 drama or vividness." Granted, this is a good refutation of vividness, but does that mean that conjunction reduction is true? See the discussion of the annalistic present in Chapter Three.
 
-
-
-Syntax and Narrative
-
-'ApTaéPEnS, VEÚTEPOS È KúPoS.
-
-Two children of Darius and Parysatis are born - the elder, Artaxerxes; the younger, Cyrus.
-
-7
-
-(Xen. Anab. 1.1.1)
-
-Since this is the first sentence of the Anabasis, there is no opportunity for conjunction reduction, yet we find a past event (the birth of Artaxerxes and his brother) told in the present tense. Within Herodotus, we find not only the sequence past-conjunction-present but present-conjunction-past. Surely a language cannot eliminate information as redundant before it appears! We may illustrate this point with a few examples.
-
-aUTOs TE TO ETaiDe, TOU nu n Yuun avEn, iTOSEKETCL SWTiUnU BROELU
-
-เพิน ENUTOU HaVIV EV, TO dv auTos EkEivos Eana, Kai rov Eraipou
-
-CUT KEAVE ผสาพเทนอนเทน 6oral
-
-He promises to give to his comrade (whose wife she was) any one thing out of all he owned, whatever Agetus might choose, and he bade his comrade make him the same promise.
-
-(Hdt. 6.62.1)
-
-KAI TOUTO MÈUÉU TOÚTH TÙ HÓVW Ó MOMÉMAPXOS GLADDEÍDETOL, dUNP
-
-YEVÓMEVOS dYaRÓS, anò 6'ÉPaVE TEN aTPaTnyw ETnaÍnEWS ó
-
-In this labor Callimachus the polemarch is slain, a brave man, and of the generals Stesilaus son of Thrasylaus died.
-
-(Hdt. 6.115.1)
-
-Tผิง 6E KarunepeE oi mpoyovwr ra ouvouara cipntal is Aewvinv wuroi
-
-YÁP COI TUY XÁVOUƠL OUTES. ANOBUNCKEL 6È MaPSOVIOS ÚMÒ'AELMUNOTOU
-
-Baneformod the tor Mania, alsatin y e linese potas for they are the
-
-The first passage comes from the very beginning of a narrative, so there is no past tense from which to reduce. The second passage is drawn from the middle of a
-
-drama or vividness." Granted, this is a good refutation of vividness, but does that mean that conjunction reduction is true? See the discussion of the annalistic present in Chapter Three.
-
-
-
 8
 
 Syntax and Narrative
@@ -233,11 +189,7 @@ his "pastness" infortation.
 
 
 
-Chapter Two
-
-Resources and Methodology
-
-
+## Chapter Two: Resources and Methodology
 
 On an abstract level, the three resources necessary for linguistic computing are a text base, a means for generating information about that text base, and a means for interpreting that information. Obviously, these needs are interdependent in numerous ways.
 
@@ -441,11 +393,7 @@ All of these tools are useful only insofar as they are used for the interpretati
    The test used most is this thesis (and in fact by humanists in general) is the chi-sqared test of independence. This test's most common application is for determining if a correlation between two variables is significant or merely random. If we want, therefore, to
 
 
-Chapter Three
-
-
-
-The Historic Present and Narrative Grounding
+## Chapter Three: The Historic Present and Narrative Grounding
 
 Before we draw any general conclusions about the historic present, let us examine its use in narrative contexts. The Gyges story, one of He¿odotus' most famous tales, provides three examples of the historic present.27 The first occurs when Gyges the unwilling voyeur is glimpsed by Candaules' wife.
 
@@ -1021,37 +969,20 @@ The death of Aristagoras of Miletus (Hdt. 5.126.1-6.1.1) is particul irly striki
 
 
 
-Conclusion
+## Conclusion
 
+We have seen how foregrounded passages advance the flow of the narrative whereas backgrounded passages merely comment on it; we have seen how the historic present possesses many of the features associated with the narrative foreground, such as perfectivity, telicity, and a preference for main clauses. If history is primarily the record of _erga megála te kai thômastá_, of "deeds great and wondrous," then we should expect the historian to focus his most striking narrative devices on just those events that advance his ta.a of marvelous deeds. When he employs the "annalistic present," Herodotus is i cording the raw data of history, the births, marriages, and deaths of great and powerful leaders. These events may not be inherently interesting to us, but they are history, the most objective data that inquiry can produce. Likewise, when Herodotus reports that Gyges chooses to kill Candaules or that Cambyses sends Prexaspes to kill Smerdis, he is recounting an objective, verifiable event. As Hopper and Thompson observe, unrealized or potential events rarely invade the narrative foreground. I argue, therefore, that Herodotus structurs his history, naturally enough, around those events that are the most unequivocally historical and that he reports a great number of these events in the historic present.
 
+The greatest weakness of my analysis springs from its greatest strength. My computer programs have been so successful at documenting the historic present that I have had precious little time to examine the overall structure of the _Histories_. As observed by Longacre and Levinsohn and by Rijksbaron, syntactic features can be used to structure both sentences and entire narratives. What my analysis gains by documenting the historic present's discourse function at the micro-level, it loses by slighting the macro-level. Any further treatment of this topic must take into account the large-scale compositional issues in Herodotus.
 
-We have seen how foregrounded passages advance the flow of the narrative whereas backgrounded passages merely comment on it; we have seen how the historic present possesses many of the features associated with the narrative foreground, such as perfectivity, telicity, and a preference for main clauses. If history is primarily the record of erga megála te kai thôn astá, of "deeds great and wondrous," then we should expect the historian to focus his most striking narrative devices on just those events that advance his ta.a of marvelous deeds. When he employs the "annalistic present," Herodotus is i cording the raw data of history, the births, marriages, and deaths of great and powerful leaders. These events may not be inherently interesting to us, but they are history, the most objective data that inquiry can produce. Likewise, when Herodotus reports that Gyges chooses to kill Candaules or that Cambyses sends Prexaspes to kill Smerdis, he is recounting an objective, verifiable event. As Hopper and Thompson observe, unrealized or potential events rarely invade the narrative foreground. I argue, therefore, that Herodotus structurs his history, naturally enough, around those events that are the most unequivocally historical and that he reports a great number of these events in the historic present.
-
-The greatest weakness of my analysis springs from its greatest strength.
-
-My computer programs have been so successful at documenting the historic present that I have had precious little time to examine the overall structure of the Histories. As observed by Longacre and Levinsohn and by Rijksbaron, syntactic features can be used to structure both sentences and entire narratives. What my
-
-analysis gains by documenting the historic present's discourse function at the micro-level, it loses by slighting the macro-level. Any further treatment of this topic must take into account the large-scale compositional issues in Herodotus.
-
-
-
-42
-
-Conclusion
-
-I could greatly enlarge knowledge of the historic present by applying the
-
-methodologies I have used for Herodotus to other historians. Thucydides and Xenophon are certainly rich in historic presents. Even Diodorus Siculus, late as he is, offers some tantalizing clues. In an experimental pass, I found under fifty historic presents in Diodorus; three of these were forms of pémpô. In any event, the tools that I have written for Herodotus need almost no adaptation to work for any other Greek prose author.
+I could greatly enlarge knowledge of the historic present by applying the methodologies I have used for Herodotus to other historians. Thucydides and Xenophon are certainly rich in historic presents. Even Diodorus Siculus, late as he is, offers some tantalizing clues. In an experimental pass, I found under fifty historic presents in Diodorus; three of these were forms of _pémpô_. In any event, the tools that I have written for Herodotus need almost no adaptation to work for any other Greek prose author.
 
 It is precisely the power of these tools that I wish to stress. Using morphological information and some simple ambiguity-breaking and pattern-matching routines, I have produced some very interesting data on an intriguing construction. While some may disagree with my interpretations, I hope that everyone interested in textual research may appreciate the aid electronic tools can give us in the art of reading.
 
 
+## Bibliography
 
-Bibliography
-
-
-
-Comrie, Bernard. Aspect. Cambridge: Cambridge University Press, 1976.
+Comrie, Bernard. _Aspect_. Cambridge: Cambridge University Press, 1976.
 
 Comrie, Bernard. Tense. Cambridge: Cambridge University Press, 1985.
 
@@ -1105,12 +1036,6 @@ of Syntax". Foundations of Language 5 (1969) 386-90.
 
 Longacre, R. and S. Levinsohn. "Field Analysis of Discourse". ed. W. U. Dressler, Current Trends in Textlinguistics. Berlin, New York: De Gruyter (1977) 103-22.
 
-
-
-Conclusion
-
-44
-
 McKay, K. L. "Further Remarks on the 'Historical' Present and Other
 
 Phenomena". Foundations of Language 11 (1974) 247-51.
@@ -1121,25 +1046,18 @@ Amsterdam: J. C. Gieben, 1984.
 
 Rijksbaron, A., H. A. Mulder, and G. C. Wakker, eds. In the Foots. ps of Raphael Kühner: Proceedings of the International Colloquium in Comme noration of the 150th Anniversary of the Publication of Raphael Kühner's Aus. ührliche Grammatik der Griechischen Sprache, II. Theil: Syntaxe. f_msterdam: J. C Gieben, 1988.
 
-Rijksbaron, Albert.
+Rijksbaron, Albert. "The Discourse Function of the Imperfect". In: Rijksbaron, Mulder, and Wakker (eds.) (1988) 237-54.
 
-. "The Discourse Function of the Imperfect". Li: Rijksbaron,
-
-Mulder, and Wakker (eds.) (1988) 237-54.
-
-Smyth, Herbert Weir. Greek Grammar. Cambridge, Massachusett.: Harvard
-
-University Press, 1956.
+Smyth, Herbert Weir. Greek Grammar. Cambridge, Massachusetts: Harvard University Press, 1956.
 
 Sperberg-McQueen, C. M. and Lou Burnard. Guidelines for the En :oding and Interchange of Machine-Readable Texts. Draft version 1.0.
 
-Stork, P. "Aspectual Variant Readings in Herodotus". In: Rijksb. ron, Mulder,
-
-and Wakker (eds.) (1988) 265-89.
+Stork, P. "Aspectual Variant Readings in Herodotus". In: Rijksbaron, Mulder, and Wakker (eds.) (1988) 265-89.
 
 Wolfson, Nessa. CHP: The Conversational Historic Present in Ameri an English Narrative. Dordrecht, Netherlands: Foris Publications, 198_.
 
 
+## Index Locorum
 
 Hdt. 1.10.1-2
 
