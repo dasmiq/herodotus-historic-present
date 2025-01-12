@@ -205,7 +205,7 @@ All of these tools are useful only insofar as they are used for the interpretati
 
 [^25]: Of course, the paratactic style of Herodotus means that backgrounded information is not subordinated much of the time.
 
-[^26]: The test used most is this thesis (and in fact by humanists in general) is the chi-sqared test of independence. This test's most common application is for determining if a correlation between two variables is significant or merely random. If we want, therefore, to \[The rest of this footnote seems to have been suppressed by the chapter break. —ed.]
+[^26]: The test used most is this thesis (and in fact by humanists in general) is the chi-sqared test of independence. This test's most common application is for determining if a correlation between two variables is significant or merely random. If we want, therefore, to \[The rest of this footnote seems to have been suppressed by the word processor due to the chapter break. —ed.]
 
 
 <!-- ## Chapter Three -->
@@ -215,15 +215,11 @@ Before we draw any general conclusions about the historic present, let us examin
 
 [^27]: The translations of Herodotus and other ancient authors are those of the Loeb edition. For the sake of convenience, I have changed verbs that translated a Greek historic present into an English historic present. Both the Greek and English historic presents are underlined.
 
-KAI META TAUTA GUTÍKA MAPÀU KAIÁ YUNN ¿GENDOUGaN SE KaI TIBEiTaN
+>  καὶ μετὰ ταῦτα αὐτίκα παρῆν καὶ ἡ γυνή. ἐσελθοῦσαν δὲ καὶ τιθεῖσαν τὰ εἵματα ἐθηεῖτο ὁ Γύγης. ὡς δὲ κατὰ νώτου ἐγένετο ἰούσης τῆς γυναικός ἐς τὴν κοίτην, ὑπεκδὺς ἐχώρεε ἔξω, καὶ ἡ γυνὴ <ins>ἐπορᾷ</ins> μιν ἐξιόντα.\
+> His wife followed presently, and when she had come in and was layir g aside her garments, Gyges saw her; when she turned her back upon him to go to bed, he slipped from the room. The woman <ins>glimpses</ins> him as he went out.\
+> ([Hdt. 1.10.1–2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:1.10))
 
-TA EÍNATO EANETTO O rUYNS. WE SE KATa VUTOU EYEVETO iCJanS TRS
-
-His wife followed presently, and when she had come in and was layir g aside her garments, Gyges saw her; when she turned her back upon him to go to bed, he slipped from the room. The woman glimpses him as he went out.
-
-(Hdt. 1.10.1-2)
-
-The second historic present occurs when Candaules' wife confror.ts Gyges with his transgression and gives him the choice of treason or death.
+The second historic present occurs when Candaules' wife confronts Gyges with his transgression and gives him the choice of treason or death.
 
 MEpLEîVaL.
 
