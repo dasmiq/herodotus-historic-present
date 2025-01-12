@@ -42,7 +42,8 @@ While this thesis concentrates, to a great extent, on a particular construction 
 As this thesis is intended for the general classicist, many of the methodological explanations will seem superfluous to a more technically-trained reader; likewise, the scholar of Greek may pass over the sketches of Greek syntax and morphology, which were included for the benefit of specialists in computational linguistics. Any reader who wishes to see my direct application of narrative grounding to the historic present in Herodotus should turn to Chapter Three.
 
 
-## Chapter One: Syntax and Narrative
+<!-- ## Chapter One -->
+## Syntax and Narrative
 
 The historic, or narrative, present exhibits more clearly than any other construction the interaction of syntax and style. It has often been stated that an author, or embedded narrator, should seek to increase the vividness of his narrative by casting it into the present and creating what Rijksbaron calls an "eyewitness-effect".[^2] Smyth (1956: 422) goes even farther and says that the historic present "may be used to represent a past action as going on at the moment of speaking or writing." It is also apparent that a special vividness is called for at climactic points in the narrative. Rijksbaron (1984: 22), however, hints at another function of the historic present.
 
@@ -114,13 +115,14 @@ Such a description of the imperfect tense in terms of narrative structure leads 
 [^10]: One may say that this is a theory of "narrative reduction." One imperfect "time anchor" serves to locate a series of events in the past, and the following aorists and presents need not duplicate this "pastness" infortation.
 
 
-## Chapter Two: Resources and Methodology
+<!-- ## Chapter Two -->
+## Resources and Methodology
 
 On an abstract level, the three resources necessary for linguistic computing are a text base, a means for generating information about that text base, and a means for interpreting that information. Obviously, these needs are interdependent in numerous ways.
 
 For this research, I have used the textual materials accumulated and tagged by the Perseus Project and the Morpheus morphological aralyzer. To tie these resources together, I have written tagging, scanning, and data analysis programs, primarily in the C language, but also in Unix utilities such as lex and awk. I chose C for two reasons. Firstly, it allowed me to scan through the entire text of Herodotus in about five minutes, thus allowing me to ask and answer questions about a particular textual feature in a short time. Secordly, I had already, as a part of my duties at Perseus, written quite a substantial library of lex code, which is an extension of the C language; it was more economical and elegant to link this existing code with a compatible language.[^11] All the programs that I wrote served essentially the same function: scanning throush the input text and detecting a specified syntactic pattern. In the following pages, "the program" is shorthand for any version of this scanning program.
 
-[^11]: What lex does, in essence, is to build regular expression and finite automaton capabilities into C. One writes input to lex as a series of regular expressions, perhaps with some specified state conditions, and a series of C routines to execute when the input matches those regular expressions. Regular expressions are patterns for matching text. For example, one uses the expression "a\*b*" to match any number of a's followed by any number of b's. The vagaries of regular expressions are not, however, important here. The lex program itself acts as a preprocessor and generates a C program that scans the input, matches it against the regular expressions, and performs the user-specified C routines. One may insert a routine that adds one to a section counter every time the lex program finds a `<SECTION>` tag. Most of my programs were written in Vern Paxson's lex dialect, flex 2.1.
+[^11]: What lex does, in essence, is to build regular expression and finite automaton capabilities into C. One writes input to lex as a series of regular expressions, perhaps with some specified state conditions, and a series of C routines to execute when the input matches those regular expressions. Regular expressions are patterns for matching text. For example, one uses the expression `a*b*` to match any number of a's followed by any number of b's. The vagaries of regular expressions are not, however, important here. The lex program itself acts as a preprocessor and generates a C program that scans the input, matches it against the regular expressions, and performs the user-specified C routines. One may insert a routine that adds one to a section counter every time the lex program finds a `<SECTION>` tag. Most of my programs were written in Vern Paxson's lex dialect, flex 2.1.
 
 Thankfully, one of the most arduous tasks in any computational linguistic research has been completed for Herodotus and other classical Greek historians. The Perseus Project possesses on-line texts of the vast majority of ancient Greek literature (in the original and in translation) down to the death of Alexander the Great, along with a good deal of later literature. The Greek text itself is represented in ASCIl with formatting conventions as in Beta Code.[^12] All this text has been tagged for basic structural and content features in the Standard Generalized Markup Language (SGML).[^13] In general tags are ma:kers inserted in the text in order to delimit certain structural features. For example, a section that begins with `<SECTION N="1">` would end with `</SECTION>`. Since SGML is rigorously hierarchical in the allowed order of tags, one can determine all the tags containing the current piece of text simply by knowing the tag that most immediately contains the current text. The basic structure of a book of Herodotus, or of any author who is referenced by `<book>.<chapter>.<section>` is as follows:
 
@@ -195,37 +197,23 @@ The disadvantages of tagging only verbs are obvious. Without information on the 
 
 The program that scans for historic presents acts essentially like a pattern matcher, which is why lex works so well for the purpose. The pattern that defines a historic present is this: over the set of indicative, third-person verbs, look for a string of past tenses (aorist, imperfect, or pluperfect) followed by a string of presents followed by a past tense. In other words, make sure that you are in a past context by seeing a string of past verbs; also make sure that you switch back to the past after having seen a certain number of present verbs. If the string of present verbs is too long, we may assume that the narrative is no longer historical, but is instead an ethnographical or geographical, or that the authorial voice has given way to direct speech. The two parameters in this definition of the historical present are therefore the number of past tenses that is necessary to establish a historical context and the maximum number of presents that can occur without switching out of a historical context. From some preliminary trials, I determined that a past narrative context could be established by as few as two past verbs, and that any more than four presents in a row were likely to indicate a non-narrative context.
 
-Both the lex and the C scanning programs produce the same output: a list of verbs in the historic present with the reference number at the beginning of the line. There may be more than one word per line if there are two or more historic present verbs in a row. This output can then be processed in a vaiety of ways.
+Both the lex and the C scanning programs produce the same output: a list of verbs in the historic present with the reference number at the beginning of the line. There may be more than one word per line if there are two or more historic present verbs in a row. This output can then be processed in a variety of ways. The most common procedure is to search the list for all occurrences of a single verb. This search can be done with simple string matching whereby someone looking for all occurrences of _pémpô_ would search for `pe/mp`, or with more elaborate lemmatized searches. To find all forms of, say, _didômi_, one searches the Morpheus output for that word and then uses the results to searci the historic present output file. Alternatively, one can reverse the procedure for lemmatized searches and produce lists of the number of times a lemma is used, regardless of what form it takes. Thus, if _teleutâi_ occurred in the historic present list 15 times and _teleutôsi_ appeared 5 times, the entry in this lemmatized list would read `teleuta/w: 20`. With complete morphological information, one can calculate the ratio of historic presents to aorists, imperfects, or any combination of tenses and draw conclusions of the relative frequencies of various verbs.
 
-The most common procedure is to search the list for all occurrences of a single verb. This search can be done with simple string matching whereby someone looking for all occurrences of pémpô would search for "pe/mp," or with more elaborate lemmatized searches. To find all forms of, say, didômi, one searches the Morpheus output for that word and then uses the results to searci the historic present output file. Alternatively, one can reverse the procedure ior lemmatized searches and produce lists of the number of times a lemma is usel, regardless of what form it takes. Thus, if teleutâi occurred in the historic preset.t list 15 times and teleutôsi appeared 5 times, the entry in this lemmatized list would read
+The C scanner can also produce information on clause government. When the scanner comes across a subordinating conjunction, it enters a special "subordinate" state that lasts until it sees a verb. One can use these data on subordinate clauses to gain insight into narrative grounding since backgrounded text tends to be subordinated more often than foregrounded text.[^25] Here again, we can see which verbs are more likely to occur in subordinate clauses.
 
-"teleuta/w: 20". With complete morphological information, one can calculate the ratio of historic presents to aorists, imperfects, or any combin.tion of tenses and draw conclusions of the relative frequencies of various verbs.
+All of these tools are useful only insofar as they are used for the interpretation of the text. Any results turned up by the programs must be tested for validity within the context of the narrative and quantitative data must be shown to be statistically significant.[^26] What these tools do allow us to do is to ask many questions, to have those questions answered sooner, and to have the time to refine and re-ask the questions. Almost all of the results to follow in the next chapter are derived from the output of the programs described here; but without any idea of how the Greek language works, without any theory of narrative, these data would make little sense. These programs simply allow us to test a theory of language in days where it once would have taken years.
 
-The C scanner can also produce information on clause government. When
+[^25]: Of course, the paratactic style of Herodotus means that backgrounded information is not subordinated much of the time.
 
-the scanner comes across a subordinating conjunction, it enters a special
-
-"subordinate" state that lasts until it sees a verb. One can use these data on subordinate clauses to gain insight into narrative grounding since backgrounded
+[^26]: The test used most is this thesis (and in fact by humanists in general) is the chi-sqared test of independence. This test's most common application is for determining if a correlation between two variables is significant or merely random. If we want, therefore, to \[The rest of this footnote seems to have been suppressed by the chapter break. —ed.]
 
 
+<!-- ## Chapter Three -->
+## The Historic Present and Narrative Grounding
 
-Resources and Methodology
+Before we draw any general conclusions about the historic present, let us examine its use in narrative contexts. The Gyges story, one of Herodotus' most famous tales, provides three examples of the historic present.[^27] The first occurs when Gyges the unwilling voyeur is glimpsed by Candaules' wife.
 
-21
-
-text tends to be subordinated more often than foregrounded text.25 Here again, we can see which verbs are more likely to occur in subordinate clauses.
-
-All of these tools are useful only insofar as they are used for the interpretation of the text. Any results turned up by the programs must be tested for validity within the context of the narrative and quantitative duta must be shown to be statistically significant.26 What these tools do allow as to do is to ask many questions, to have those questions answered sooner, ar. to have the time to refine and re-ask the questions. Almost all of the results to follow in the next chapter are derived from the output of the programs descrit ad here; but without any idea of how the Greek language works, without any theory of narrative, these data would make little sense. These programs sirply allow us to test a theory of language in days where it once would have taken years.
-
-
-
-   Of course, the paratactic style of Herodotus means that backgrounded information is not subordinated much of the time.
-   The test used most is this thesis (and in fact by humanists in general) is the chi-sqared test of independence. This test's most common application is for determining if a correlation between two variables is significant or merely random. If we want, therefore, to
-
-
-## Chapter Three: The Historic Present and Narrative Grounding
-
-Before we draw any general conclusions about the historic present, let us examine its use in narrative contexts. The Gyges story, one of He¿odotus' most famous tales, provides three examples of the historic present.27 The first occurs when Gyges the unwilling voyeur is glimpsed by Candaules' wife.
+[^27]: The translations of Herodotus and other ancient authors are those of the Loeb edition. For the sake of convenience, I have changed verbs that translated a Greek historic present into an English historic present. Both the Greek and English historic presents are underlined.
 
 KAI META TAUTA GUTÍKA MAPÀU KAIÁ YUNN ¿GENDOUGaN SE KaI TIBEiTaN
 
@@ -251,7 +239,6 @@ Baauor nyuvaiki, Kai uv EKeivn, BYXELpiGLov Bovea, KaraKounteL ino
 
 เกิน autทิน Bupnv.
 
-27 The translations of Herodotus and other ancient authors are those of the Loeb edition. For the sake of convenience, I have changed verbs that translated a Greek historic present into an English historic present. Both the Greek and English historic presents are underlined.
 
 
 
