@@ -139,95 +139,61 @@ Thankfully, one of the most arduous tasks in any computational linguistic resear
 
 [^12]: For the sake of readability, all Greek in this paper has been converted into standard minuscule type. In reality, all the programs described herein processed the Greek texts in their Beta Code representation. Beta Code represents Greek with the standard US character set; the correspondences are intuitive with the following exceptions.\
   h η\
-  c \
+  c ξ\
+  w ω\
+  q θ\
+  y ψ\
+  v ϝ\
   A slash ("/"), represents an acute accent, a backslash ("\\") a grave accent, an equals sign represents a circumflex, a vertical bar ("|") an iota subscript, and left and right parentheses represent rough and smooth breathings, respectively. An asterisk represents a capital letter and an apostrophe indicates an elision. Thus, the opening sentence of Herodotus in Beta Code would be: `*(hrodo/tou *(alikarnhsse/os i(stori/hs a)po/decis h(/de, w(s mh/te ta geno/mena e)c a)nqrw/pwn tw=| xro/nw| e)ci/thla ge/nhtai, mh/te e)/rga mega/la te kai\ qwmasta/, ta\ me\n *(/ellhsi ta\ de\ barba/roisi a)podexqe/nta, a)klea= ge/nhtai, ta/ te a)/lla kai\ di' h(\n ai)ti/hn e)pole/mhsan a)Ilh/loisi.`
 
 [^13]: Not only are the Perseus texts SGML-conformant, but the text tagging team has also tried as far as possible to follow the guidelines of the Text Encoding Initiative for literary material. For general literature on SGML, see Charles F. Goldfarb, _The SGML Handbook_, and Eric van Herwijnen, _Practical SGML_; for more on the TEI and related projects, see _Guidelines for the Encoding and Interchange of Machine-Readable Texts_, Sperberg-McQueen and Burnard, eds.
 
 The tags contained in angle brackets define the various chunks of the text. A section begins with `<SECTION N="section number">` and ends with `</SECTION>`, and analogous tags serve to mark chapters and books.[^14] Note that a section must end — i.e., a `</SECTION>` must be encountered — before a chapter may end, and similarly a `</DIV2>` must come before any `</DIV1>`. This description of the tagging of the structure of texts should make later references to tagging more comprehensible.
 
-
 [^14]: Sections have their own tags named after them, whereas chapter and book are merely attributes of the generic DIV x tags, because of an artifact of Greek prose formatting. All prose authors are divided by section, but not all possess chapter and book divisions. Thus the DIV1 for the text of the orators is of type "speech".
 
-Let me digress for a moment about what information we can derive from a classical text. When Herodotus wrote his _Histories_, all letters were upper-case and there were neither word breaks nor diacritical marks nor pur.ctuation. An entirely naive study of Herodotus, therefore, would not use any riodern typographical information. Nevertheless, I have used the word breaks and diacriticals as they appear in the Godley's Loeb text (1926), for reconstructing them all _de novo_ is beyond the scope of this thesis. On the other hund, l ignore the editorial information conveyed by punctuation and structural breaks such as books, chapters, and sections. I do not, for example, conclude that Herodotus ends his sentences wherever a full stop appears in the text, nor that sentences in parentheses may automatically be treated as background material. 15 This is not to say that this information is not usually accurate, but there are enough examples of grammatical constructions breaking the barriers of m.odern punctuation and structural segmentation to justify ignoring these barriers. 16 From a formal standpoint, therefore, I will treat the text of Herodstus as an uninterrupted stream of words.
+Let me digress for a moment about what information we can derive from a classical text. When Herodotus wrote his _Histories_, all letters were upper-case and there were neither word breaks nor diacritical marks nor pur.ctuation. An entirely naive study of Herodotus, therefore, would not use any riodern typographical information. Nevertheless, I have used the word breaks and diacriticals as they appear in the Godley's Loeb text (1926), for reconstructing them all _de novo_ is beyond the scope of this thesis. On the other hund, l ignore the editorial information conveyed by punctuation and structural breaks such as books, chapters, and sections. I do not, for example, conclude that Herodotus ends his sentences wherever a full stop appears in the text, nor that sentences in parentheses may automatically be treated as background material.[^15] This is not to say that this information is not usually accurate, but there are enough examples of grammatical constructions breaking the barriers of m.odern punctuation and structural segmentation to justify ignoring these barriers.[^16] From a formal standpoint, therefore, I will treat the text of Herodstus as an uninterrupted stream of words.
 
-Even with the tagged text of Herodotus and other authors on-line, one cannot work seriously on Greek syntax without considering the complex problem of Greek morphology. 17 For my research, I have used the Morpheus morphological analyzer developed by Gregory Crane, which was later incorporated into the Perseus Project. 18 Obviously, since the corp us under consideration is fixed, one could imagine a finite solution to mor hological analysis, consisting of a database containing all the unique strings in Greek and their parses. The corpus, nevertheless, is so large that creating such a database would be virtually impracticable. Morpheus relies, instead, on generating strings from its tables of stems and affixes and a set of rules for their eupionic
+[^15]: A study of the sentences that the editor has parenthesized is not totally with. out merit, especially as it is trivial to perform once the text is on-line.
 
-combination. This representation of morphology is not only more concise than a
+[^16]: We find, for example, a string of historic presents crossing the boundary between books five and six.
 
-15 A study of the sentences that the editor has parenthesized is not totally with. out merit, especially as it is trivial to perform once the text is on-line.
+Even with the tagged text of Herodotus and other authors on-line, one cannot work seriously on Greek syntax without considering the complex problem of Greek morphology.[^17] For my research, I have used the Morpheus morphological analyzer developed by Gregory Crane, which was later incorporated into the Perseus Project.[^18] Obviously, since the corp us under consideration is fixed, one could imagine a finite solution to mor hological analysis, consisting of a database containing all the unique strings in Greek and their parses. The corpus, nevertheless, is so large that creating such a database would be virtually impracticable. Morpheus relies, instead, on generating strings from its tables of stems and affixes and a set of rules for their euphonic combination. This representation of morphology is not only more concise than a table of forms but also infinite, for all practical purposes, in its generative powers.[^19] In fact, Morpheus recognizes strings by generating the possible forms based on its current knowledge of the stem and endings.[^20] Since we are interested primarily in recognition of existing morphemes, many of these generative capabilities are superfluous.
 
-   We find, for example, a string of historic presents crossing the boundary bet ween books five
-   Greek morphology may be classified into two general subsystems: verbal and nominal (including articles, pronouns, adjectives, and nouns). Nominals have four distinct cases: nominative, genitive, dative, and accusative, and a fifth case, the vocative, which is most often identical to the nominative. There are classes of number, singular and plural, and a third, the dual, which is much rarer. For non-nouns, forms for masculine, feminine, and neuter exist although many adjectives only display masculine/feminine and neuter endings. Verbs may have up to seven tense in the indicative mood and five tenses in the subjunctive, opiative, infinitive, imperative, and participial moods. The aorist and future tenses exhibit active, middle, and passive voices, and all other tenses exhibit active and medio-passive voices. Participles are also declined as adjectives. Dialectical variations may be ignored for most authors, with the notable exception of Homer. Most of the overproductivity of any Greek morphological system will be genera Cront oener in he aroping Classical Creek° 191) for more information on Morpheus. 
+[^17]: Greek morphology may be classified into two general subsystems: verbal and nominal (including articles, pronouns, adjectives, and nouns). Nominals have four distinct cases: nominative, genitive, dative, and accusative, and a fifth case, the vocative, which is most often identical to the nominative. There are classes of number, singular and plural, and a third, the dual, which is much rarer. For non-nouns, forms for masculine, feminine, and neuter exist although many adjectives only display masculine/feminine and neuter endings. Verbs may have up to seven tense in the indicative mood and five tenses in the subjunctive, opiative, infinitive, imperative, and participial moods. The aorist and future tenses exhibit active, middle, and passive voices, and all other tenses exhibit active and medio-passive voices. Participles are also declined as adjectives. Dialectical variations may be ignored for most authors, with the notable exception of Homer. Most of the overproductivity of any Greek morphological system will be generation of forms not in the appropriate dialect.
 
+[^18]: See Crane's "Generating and Parsing Classical Greek" (1991) for more information on Morpheus. 
 
-Resources and Methodology
+[^19]: As an example, Morpheus would, if allowed, generate an infinite number of verbs by adding more and more preverbs to the stem.
 
-17
+[^20]: Morpheus operates by taking the input string, and strips it of all possible prefixes (verbal augment, preverbs, crasis, etc.). It then scans through the string from the end and tries to make the characters seen so far match with its table of endings. If a match is found, the rest of the string is matched against the table of stems while trying all combinations of connecting vowels. Morpheus stops when all possible endings of the string have been examined.
 
-table of forms but also infinite, for all practical purposes, in its generative powers. 19 In fact, Morpheus recognizes strings by generating the possible forms based on its current knowledge of the stem and endings.20 Since we are
+One important weakness of Morpheus remains: it generates analyses of words taken out of context. About 37% of the unique forms in Herodotus can be parsed in more than one way. This ambiguity occurs less between different parts of speech (as in English) as it does between different forms of the same word.[^21] The verb ἦγον, for example, may be the first person singular active imperfect, or the third person plural active imperfect of ἄγω. Verb tenses, however, are not as subject to ambiguity, and we merely have to deal with the rare cases where what is actually a nominal could be parsed as a verb.[^22] In later versions of my scanning program, a great many of these cases were eliminated by the process of article-binding. When, in scanning the text, the program reaches an article, it notes the article's gender, number, and case. The program determines for each of the four successive words if that word could be parsed as a noun or adjective with the same gender, number, and case as the article, and if so, all other parses of that word are ruled out. This simple context-informed feature is one of the most useful additions that I wrote to my program.
 
-interested primarily in recognition of existing morphemes, many of these generative capabilities are superfluous.
+[^21]: Steven DeRose, (unpublished dissertation, Brown, 1988). Another interesting result of this dissertation is that although English and Greek lexical ambiguity may differ qualitatively, the rate of ambiguity for a given amount of text in either language is constant.
 
-One important weakness of Morpheus remains: it generates analyses of words taken out of context. About 37% of the unique forms in crodotus can be
+[^22]: The most exasperatingly common examples of nominals parsed as verbs were ἄλλα, parsed as an apocopic form of ἀναλάω, and ἄνδρα, parsed as a form of ἀναδράω. Later versions of my program did not admit forms where the verbs had suffered apocope (dropping of the final preverb vowel before a consonant).
 
-parsed in more than one way. This ambiguity occurs less between different parts of speech (as in English) as it does between different forms of the same word.21 The verb hy ov, for example, may be the first person singular active imperfect, or the third person plural active imperfect of ay w. Verb tenses, however, are not as subject to ambiguity, and we merely have to deal with the rare cases where what is actually a nominal could be parsed as a verb.2 In later versions of my scanning program, a great many of these cases were eliminated by the process of article-binding. When, in scanning the text, the program reaches an article, it notes the article's gender, number, and case. The program deterr. ines for each of the four successive words if that word could be parsed as a noun or adjective
+My scanning program itself exists in two principal versions, a simple one in lex and a more complex one written in C. Most interestingly, the lex program is not significantly inferior in performance to its more sophisticatud descendant. On the other hand, the lex program requires that the text input file receive more elaborate preparation than would be necessary for the C program, but in either case, some preliminary preparations are identical.
 
-with the same gender, number, and case as the article, and if so, all other parses
-
-   As an example, Morpheus would, if allowed, generate an infinite number of verbs by adding more and more preverbs to the stem.
-   Morpheus operates by taking the input string, and strips it of all possible prefixes (verbal augment, preverbs, crasis, etc.). It then scans through the string from the end and tries to make the characters seen so far match with its table of endings. If a match is found, the rest of the string is matched against the table of stems while trying all combinations of connecting vowels.
-Morpheus stops when all possible endings of the string have been examined.
-
-   Steven DeRose, (unpublished dissertation, Brown, 1988). Another interesting result of this dissertation is that although English and Greek lexical ambiguity may differ qualitatively, the rate of ambiguity for a given amount of text in either language is constant.
-   The most exasperatingly common examples of nominals parsed as verbs were a^ Ma, parsed as an apocopic form of avanáw, and avopa, parsed as a form of avapáw. Later versions of my program did not admit forms where the verbs had suffered apocope (dropping of the final preverb vowel before a consonant).
-
-
-18
-
-Resources and Methodology
-
-of that word are ruled out. This simple context-informed feature is one of the most useful additions that I wrote to my program.
-
-My scanning program itself exists in two principal versions, a simple one in lex and a more complex one written in C. Most interestingly, the lex program is not significantly inferior in performance to its more sophisticatud descendant.
-
-On the other hand, the lex program requires that the text input file receive more elaborate preparation than would be necessary for the C program, but in either case, some preliminary preparations are identical.
-
-First, the text of Herodotus is tokenized into words and so. ted, and all duplicate strings are removed. This list of unique strings in Herc lotus (with the exception of proper nouns23) is run through Morpheus. Each of the unique strings is also given a numerical key. For the general C program, the text was tagged so that each word was marked with its corresponding key; for example, each occurrence of foe in the text would be marked
-
+First, the text of Herodotus is tokenized into words and sorted, and all duplicate strings are removed. This list of unique strings in Herodotus (with the exception of proper nouns[^23]) is run through Morpheus. Each of the unique strings is also given a numerical key. For the general C program, the text was tagged so that each word was marked with its corresponding key; for example, each occurrence of ἥδε in the text would be marked
+```
 <W K="11072">h(/de</W>.
-
-The number in quotation marks is the unique key for this word. jor the lex program, I used a more direct tagging system. All the words that could be parsed as verbs were tagged with tense, mood, and voice information, with a slash separating different possible parses. The verb Aéyout would be tagged
-
-<V P="pres.ind act/pres.part.act*>le/gousi</V>.24
-
-   Thanks to some precautions taken by the Perseus text tagging, proper nouns are easily identifiable. In a normal Greek text, both proper nouns and the first words of paragraphs are capitalized. A list of capitalized words was produced for each text, and a human editor went through this list and deleted all proper nouns. A program then decapitalized all the remaining words. This scheme allows one to confidently search for all occurrences of, say, the river" AFlos without finding all occurrences of the common adjective dElos.
-   Both of these tagging processes were handled by a series of awk and lex pregrams. Basically, a list of words in Herodotus was produced such that the appropriate words were tagged (verbs in the one case and all non-proper nouns in the other). A lex program then reassembled the text of Herodotus with the tagged words.
-
-
-
-
-Resources and Methodology
-
-19
-
+```
+The number in quotation marks is the unique key for this word. For the lex program, I used a more direct tagging system. All the words that could be parsed as verbs were tagged with tense, mood, and voice information, with a slash separating different possible parses. The verb λέγουσι would be tagged
+```
+<V P="pres.ind act/pres.part.act*>le/gousi</V>.
+```
+[^24]
 The information in the quotation marks indicates that this word may be parsed as a present active indicative verb or as a present active participle.
 
-The disadvantages of tagging only verbs are obvious. Without information on the words around a verb, one cannot use contextual evidence to determine which parse of a verb is correct or if the word is, in fact, a verb at all.
+[^23]: Thanks to some precautions taken by the Perseus text tagging, proper nouns are easily identifiable. In a normal Greek text, both proper nouns and the first words of paragraphs are capitalized. A list of capitalized words was produced for each text, and a human editor went through this list and deleted all proper nouns. A program then decapitalized all the remaining words. This scheme allows one to confidently search for all occurrences of, say, the river Ἄξιος without finding all occurrences of the common adjective ἄξιος.
 
-Nevertheless, verb information is all one really needs to search for historic presents in a text. Later versions of the scanning program that took contextual information into account succeeded less in finding new occurrences of the historic present than in filtering out the noise that comes from Morpheus, which in many cases generates input that is inappropriate for the context. We gain a subtler advantage by using the keyed version of the text instead of the verb-tagged version: we are able to change the queries we make without changing the input. If the text is only tagged for tense, mood, and voice, one r.ust reconstruct the text from the ground up if one wants to ask about the person and number of a verb as well.
+[^24]: Both of these tagging processes were handled by a series of awk and lex pregrams. Basically, a list of words in Herodotus was produced such that the appropriate words were tagged (verbs in the one case and all non-proper nouns in the other). A lex program then reassembled the text of Herodotus with the tagged words.
 
-The program that scans for historic presents acts essentiall / like a pattern
+The disadvantages of tagging only verbs are obvious. Without information on the words around a verb, one cannot use contextual evidence to determine which parse of a verb is correct or if the word is, in fact, a verb at all. Nevertheless, verb information is all one really needs to search for historic presents in a text. Later versions of the scanning program that took contextual information into account succeeded less in finding new occurrences of the historic present than in filtering out the noise that comes from Morpheus, which in many cases generates input that is inappropriate for the context. We gain a subtler advantage by using the keyed version of the text instead of the verb-tagged version: we are able to change the queries we make without changing the input. If the text is only tagged for tense, mood, and voice, one r.ust reconstruct the text from the ground up if one wants to ask about the person and number of a verb as well.
 
-matcher, which is why lex works so well for the purpose. The pa.tern that defines a historic present is this: over the set of indicative, third-person verbs, look for a string of past tenses (aorist, imperfect, or pluperfect) fo lowed by a string of presents followed by a past tense. In other words, make sure that you are in a past context by seeing a string of past verbs; also make sure that you switch back to the past after having seen a certain number of present verbs. If the string of present verbs is too long, we may assume that the narrative is no longer historical, but is instead an ethnographical or geographical, or that the authorial voice has given way to direct speech. The two parameters in this definition of the historical present are therefore the number of past tenses that is necessary to establish a historical context and the maximum number of presents that can
-
-
-
-Resources and Methodology
-
-20
-
-occur without switching out of a historical context. From some preliminary trials, I determined that a past narrative context could be established by as few as two past verbs, and that any more than four presents in a row were likely to indicate a non-narrative context.
+The program that scans for historic presents acts essentially like a pattern matcher, which is why lex works so well for the purpose. The pattern that defines a historic present is this: over the set of indicative, third-person verbs, look for a string of past tenses (aorist, imperfect, or pluperfect) followed by a string of presents followed by a past tense. In other words, make sure that you are in a past context by seeing a string of past verbs; also make sure that you switch back to the past after having seen a certain number of present verbs. If the string of present verbs is too long, we may assume that the narrative is no longer historical, but is instead an ethnographical or geographical, or that the authorial voice has given way to direct speech. The two parameters in this definition of the historical present are therefore the number of past tenses that is necessary to establish a historical context and the maximum number of presents that can occur without switching out of a historical context. From some preliminary trials, I determined that a past narrative context could be established by as few as two past verbs, and that any more than four presents in a row were likely to indicate a non-narrative context.
 
 Both the lex and the C scanning programs produce the same output: a list of verbs in the historic present with the reference number at the beginning of the line. There may be more than one word per line if there are two or more historic present verbs in a row. This output can then be processed in a vaiety of ways.
 
