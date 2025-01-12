@@ -97,10 +97,9 @@ We should note two points of this analysis. Firstly, the pragmatic functions of 
 
 [^7]: Comrie (1985: 26) phrases this give-and-take of general meaning and context thus: "It is...possible that a tense will receive particular interpretations in particular contexts, but these are always explainable in terms of the interaction of context-independent meaning and context, and do not therefore form part of the meaning of the tense category in question." Of course, Comrie's "context-independent meaning" is defined in a particluar language by context. Even if there be a language-independent notion of discourse time reference, the context of many sentences must be consulted to determine that the morphological present tense in Greek can have discourse time reference.
 
-For the purposes of narrative analyses, an important pragmatic concept is the distinction between foreground and background. As Hopper and Thompson (1980: 280) define them, foreground "supplies the main point of the discourse," whereas background "merely assists, amplifies, or comments on it. Linguistic features associated with the distinction between foreground and background are referred to as grounding."8 How do languages indicate the distinction between background and foreground? Hopper (1979: 213-6) cites languages that accomplish this with separate particles for foreground and background passages, but he also observes that "it is quite common for languages to realize the foreground-background distinction with specialized verb morphology." He goes on to consider the evidence of French and Russian to associate perfective aspect with foreground and imperfective aspect with background. Hopper and Thompson (1980: 284-8) consider not just aspect but nine other features that indicate narrative grounding. These features are: participants, the tendency for foregrounding to be associated with transitive verbs (two participants) and for backgrounding to be associated with intransitive verbs (one participant); kinesis, a change of place or condition in the foreground; punctuality, the distinction between single actions (foreground) and lasting or iterative actions (background); volitionality, the expression of wishes or intentions that predominates in the foreground; agency, the presence of a human actor in the foreground; mode, the predominance of indicative verbs in the foreground; affirmation, the absence of negations in the foreground; affectedness, the greater change that the object undergoes in the foreground; and individuation, the tendency for foreground objects to be definite and referential rather than abstract. Most of these criteria are difficult to validate mechanically, but, with the proper morphological information, aspect, punctuality, and mood are easily determined.
+For the purposes of narrative analyses, an important pragmatic concept is the distinction between foreground and background. As Hopper and Thompson (1980: 280) define them, foreground "supplies the main point of the discourse," whereas background "merely assists, amplifies, or comments on it. Linguistic features associated with the distinction between foreground and background are referred to as grounding."[^8] How do languages indicate the distinction between background and foreground? Hopper (1979: 213-6) cites languages that accomplish this with separate particles for foreground and background passages, but he also observes that "it is quite common for languages to realize the foreground-background distinction with specialized verb morphology." He goes on to consider the evidence of French and Russian to associate perfective aspect with foreground and imperfective aspect with background. Hopper and Thompson (1980: 284-8) consider not just aspect but nine other features that indicate narrative grounding. These features are: participants, the tendency for foregrounding to be associated with transitive verbs (two participants) and for backgrounding to be associated with intransitive verbs (one participant); kinesis, a change of place or condition in the foreground; punctuality, the distinction between single actions (foreground) and lasting or iterative actions (background); volitionality, the expression of wishes or intentions that predominates in the foreground; agency, the presence of a human actor in the foreground; mode, the predominance of indicative verbs in the foreground; affirmation, the absence of negations in the foreground; affectedness, the greater change that the object undergoes in the foreground; and individuation, the tendency for foreground objects to be definite and referential rather than abstract. Most of these criteria are difficult to validate mechanically, but, with the proper morphological information, aspect, punctuality, and mood are easily determined.
 
 [^8]: What Hopper and Thompson refer to as "foreground" and "background," Longacre and Levinsohn (1977: 107) call "on-eventline" and "off-eventline" or "progression" and "digression."
-
 
 Let me make a brief digression on the nature of aspect, for this linguistic concept will be important in my analysis of the historic present. Hopper and Thompson's categories distinguish between aspect and punctuality, where the former represents the telic/atelic spectrum and the latter represents various degrees of punctuality or durativity. Telicity is the degree to which an action points toward some final goal, regardless of the amount of time that that action takes. Comrie (1976: 44) gives a good example of this antithesis with the two sentences, 'John is singing," and 'John is making a chair." If at any point in singing, John breaks off, we may truthfully say, 'John has sung," but if John stops working on the chair before it is completed, we cannot say, "John has made a chair." The former action is therefore atelic and the latter telic. Note that both actions are morphologically imperfective; telicity applies only at the level of semantics. Similarly, punctuality is a semantic concept associated with aspect. A punctual action is one that occurs at a moment in time and is not repeated whereas a durative action is one that occurs over a span of time. Note that punctual actions may be represented by imperfective verbs, but that their sense is then iterative. "She coughed" is a punctual event, and "She is coughing" is a series of punctual events represented by an imperfective aspect. In analyzing narrative grounding, we must pay attention not only to perfective and imperfective aspect but also to the telicity and punctuality of situations. Telicity and punctuality are harder to characterize than pure syntactic aspect, but examination of the inherent meanings of verbs can provide substantial information.
 
@@ -119,87 +118,40 @@ Such a description of the imperfect tense in terms of narrative structure leads 
 
 On an abstract level, the three resources necessary for linguistic computing are a text base, a means for generating information about that text base, and a means for interpreting that information. Obviously, these needs are interdependent in numerous ways.
 
-For this research, I have used the textual materials accumulated and tagged by the Perseus Project and the Morpheus morphological aralyzer. To tie these resources together, I have written tagging, scanning, and data analysis programs, primarily in the C language, but also in Unix utilities such as lex and awk. I chose C for two reasons. Firstly, it allowed me to scan through the entire text of Herodotus in about five minutes, thus allowing me to ask and answer
+For this research, I have used the textual materials accumulated and tagged by the Perseus Project and the Morpheus morphological aralyzer. To tie these resources together, I have written tagging, scanning, and data analysis programs, primarily in the C language, but also in Unix utilities such as lex and awk. I chose C for two reasons. Firstly, it allowed me to scan through the entire text of Herodotus in about five minutes, thus allowing me to ask and answer questions about a particular textual feature in a short time. Secordly, I had already, as a part of my duties at Perseus, written quite a substantial library of lex code, which is an extension of the C language; it was more economical and elegant to link this existing code with a compatible language.[^11] All the programs that I wrote served essentially the same function: scanning throush the input text and detecting a specified syntactic pattern. In the following pages, "the program" is shorthand for any version of this scanning program.
 
-questions about a particular textual feature in a short time. Secordly, I had already, as a part of my duties at Perseus, written quite a substantial library of lex code, which is an extension of the C language; it was more economical and elegant to link this existing code with a compatible language.[^11] All the programs that I wrote served essentially the same function: scanning throush the input text and detecting a specified syntactic pattern. In the following pages, "the program" is shorthand for any version of this scanning program.
+[^11]: What lex does, in essence, is to build regular expression and finite automaton capabilities into C. One writes input to lex as a series of regular expressions, perhaps with some specified state conditions, and a series of C routines to execute when the input matches those regular expressions. Regular expressions are patterns for matching text. For example, one uses the expression "a\*b*" to match any number of a's followed by any number of b's. The vagaries of regular expressions are not, however, important here. The lex program itself acts as a preprocessor and generates a C program that scans the input, matches it against the regular expressions, and performs the user-specified C routines. One may insert a routine that adds one to a section counter every time the lex program finds a `<SECTION>` tag. Most of my programs were written in Vern Paxson's lex dialect, flex 2.1.
 
-[^11]: What lex does, in essence, is to build regular expression and finite automaton capabilities into C. One writes input to lex as a series of regular expressions, perhaps with some specified state conditions, and a series of C routines to execute when the input matches those regular expressions. Regular expressions are patterns for matching text. For example, one uses the expression "a\*b*" to match any number of a's followed by any number of b's. The vagaries of regular expressions are not, however, important here. The lex program itself acts as a preprocessor and generates a C program that scans the input, matches it against the regular expressions, and performs the user-specified C routines. One may insert a routine that adds one to a section counter every time the lex program finds a "\<SECTION>" tag. Most of my programs were written in Vern Paxson's lex dialect, flex 2.1.
+Thankfully, one of the most arduous tasks in any computational linguistic research has been completed for Herodotus and other classical Greek historians. The Perseus Project possesses on-line texts of the vast majority of ancient Greek literature (in the original and in translation) down to the death of Alexander the Great, along with a good deal of later literature. The Greek text itself is represented in ASCIl with formatting conventions as in Beta Code.[^12] All this text has been tagged for basic structural and content features in the Standard Generalized Markup Language (SGML).[^13] In general tags are ma:kers inserted in the text in order to delimit certain structural features. For example, a section that begins with `<SECTION N="1">` would end with `</SECTION>`. Since SGML is rigorously hierarchical in the allowed order of tags, one can determine all the tags containing the current piece of text simply by knowing the tag that most immediately contains the current text. The basic structure of a book of Herodotus, or of any author who is referenced by `<book>.<chapter>.<section>` is as follows:
 
-Thankfully, one of the most arduous tasks in any computational linguistic research has been completed for Herodotus and other classical Greek historians. The Perseus Project possesses on-line texts of the vast majority of ancient Greek literature (in the original and in translation) down to the death of Alexander the Great, along with a good deal of later literature. The Greek text itself is represented in ASCIl with formatting conventions as in Beta Coda. 12 All this text has been tagged for basic structural and content features in the Standard Generalized Markup Language (SGML), 13 In general tags are ma:kers inserted in the text in order to delimit certain structural features. For example, a section that begins with "\<SECTION N="1">" would end with "\</SECTION>". Since SGML is rigorously hierarchical in the allowed order of tags, one can determine all the tags containing the current piece of text simply by knowing the tag that most immediately contains the current text. The basic structure of a book of Herodotus, or of any author who is referenced by <book>.<chapter>.<section> is as follows:
-
-12 For the sake of readability, all Greek in this paper has been converted into s andard minuscule type. In reality, all the programs described herein processed the Greek texts ir. their Beta Code representation. Beta Code represents Greek with the standard US character se.; the correspondences are intuitive with the following exceptions.
-
-h
-
-8
-
-E
-
-W
-
-W
-
-F
-
-A slash (" /"), represents an acute accent, a backslash ("\") a grave accent, an equals sign represents a circumflex, a vertical bar ("|") an iota subscript, and left and right parentheses represent rough and smooth breathings, respectively. An asterisk represents a capital letter and an apostrophe indicates an elision. Thus, the opening sentence of Herodotus in Beta Code would be: *Chrodo/tou *(alikarnhsse/ os i(stori/hs a)po/ decis h/de, w(s mh/te ta geno/ mena ec
-
-a)ngrw/pwn tw= | xro/nw| e)ci/thla ge/nhtai, mh/te e)/rga mega/la te kai \ qwmasta/, ta\
-
-me\n *(/ ellhsi ta \ de\ barba/roisi a)podexqe/nta, a)klea= ge/nhtai, ta/ te a)/lla kai \ di' h(\n
-
-ai)ti/hn e)pole/mhsan a)Ilh/loisi."
-
-13 Not only are the Perseus texts SGML-conformant, but the text tagging team has also tried as far as possible to follow the guidelines of the Text Encoding Initiative for literary material. For general literature on SGML, see Charles F. Goldfarb, The SGML Handbook, and Eric van Herwijnen, Practical SGML; for more on the TEI and related projects, see Guide. ines for the Encoding and Interchange of Machine-Readable Texts, Sperberg-McQueen and Burnard, eds.
-
-
-
-Resources and Methodology
-
-15
-
+```
 <DIV1 TYPE="book" N="1">
-
 <DIV2 TYPE="chapter" N="1">
-
-<SECTION N="0">
-
-‹SECTION N="1">
-
-</SECTION> </SECTION>
-
-</SECTION></DIV2>
-
+<SECTION N="0"> ... </SECTION>
+<SECTION N="1"> ... </SECTION>
+...                 </SECTION></DIV2>
 <DIV2 TYPE="chapter" N="2">
-
-¿DIV2 TYPE="chapter"N= "216">
-
-<SECTIONN"4>
-
 ...
+<DIV2 TYPE="chapter"N= "216">
+...
+<SECTIONN"4>    ... </SECTION></DIV2></DIV1>
+```
 
-</SECTION></DIV2></DIV1>
+[^12]: For the sake of readability, all Greek in this paper has been converted into standard minuscule type. In reality, all the programs described herein processed the Greek texts in their Beta Code representation. Beta Code represents Greek with the standard US character set; the correspondences are intuitive with the following exceptions.\
+  h η\
+  c \
+  A slash ("/"), represents an acute accent, a backslash ("\\") a grave accent, an equals sign represents a circumflex, a vertical bar ("|") an iota subscript, and left and right parentheses represent rough and smooth breathings, respectively. An asterisk represents a capital letter and an apostrophe indicates an elision. Thus, the opening sentence of Herodotus in Beta Code would be: `*(hrodo/tou *(alikarnhsse/os i(stori/hs a)po/decis h(/de, w(s mh/te ta geno/mena e)c a)nqrw/pwn tw=| xro/nw| e)ci/thla ge/nhtai, mh/te e)/rga mega/la te kai\ qwmasta/, ta\ me\n *(/ellhsi ta\ de\ barba/roisi a)podexqe/nta, a)klea= ge/nhtai, ta/ te a)/lla kai\ di' h(\n ai)ti/hn e)pole/mhsan a)Ilh/loisi.`
 
-The tags contained in angle brackets define the various chunks of the text. A section begins with < SECTION N="section number"> and ends with </SECTION>, and analogous tags serve to mark chapters and books. 14 Note that a section must end — i.e., a </SECTION> must be encounter ed - before a chapter may end, and similarly a </DIV2> must come before any </DIV1>. This description of the tagging of the structure of texts should make la er references to tagging more comprehensible.
+[^13]: Not only are the Perseus texts SGML-conformant, but the text tagging team has also tried as far as possible to follow the guidelines of the Text Encoding Initiative for literary material. For general literature on SGML, see Charles F. Goldfarb, _The SGML Handbook_, and Eric van Herwijnen, _Practical SGML_; for more on the TEI and related projects, see _Guidelines for the Encoding and Interchange of Machine-Readable Texts_, Sperberg-McQueen and Burnard, eds.
 
-Let me digress for a moment about what information we cun derive from a
-
-classical text. When Herodotus wrote his Histories, all letters were upper-case and there were neither word breaks nor diacritical marks nor pur.ctuation. An entirely naive study of Herodotus, therefore, would not use any riodern typographical information. Nevertheless, I have used the word breaks and diacriticals as they appear in the Godley's Loeb text (1926), for reconstructing them all de novo is beyond the scope of this thesis. On the other hund, l ignore the editorial information conveyed by punctuation and structural breaks such as books, chapters, and sections. I do not, for example, conclude that Herodotus ends his sentences wherever a full stop appears in the text, nor that sentences in
-
-
-
-14 Sections have their own tags named after them, whereas chapter and book are merely attributes of the generic DIV x tags, because of an artifact of Greek prose formatting. All prose authors are divided by section, but not all possess chapter and book divisions. Thus the DIV1 for the text of the orators is of type "speech".
+The tags contained in angle brackets define the various chunks of the text. A section begins with `<SECTION N="section number">` and ends with `</SECTION>`, and analogous tags serve to mark chapters and books.[^14] Note that a section must end — i.e., a `</SECTION>` must be encountered — before a chapter may end, and similarly a `</DIV2>` must come before any `</DIV1>`. This description of the tagging of the structure of texts should make later references to tagging more comprehensible.
 
 
+[^14]: Sections have their own tags named after them, whereas chapter and book are merely attributes of the generic DIV x tags, because of an artifact of Greek prose formatting. All prose authors are divided by section, but not all possess chapter and book divisions. Thus the DIV1 for the text of the orators is of type "speech".
 
-Resources and Methodology
+Let me digress for a moment about what information we can derive from a classical text. When Herodotus wrote his _Histories_, all letters were upper-case and there were neither word breaks nor diacritical marks nor pur.ctuation. An entirely naive study of Herodotus, therefore, would not use any riodern typographical information. Nevertheless, I have used the word breaks and diacriticals as they appear in the Godley's Loeb text (1926), for reconstructing them all _de novo_ is beyond the scope of this thesis. On the other hund, l ignore the editorial information conveyed by punctuation and structural breaks such as books, chapters, and sections. I do not, for example, conclude that Herodotus ends his sentences wherever a full stop appears in the text, nor that sentences in parentheses may automatically be treated as background material. 15 This is not to say that this information is not usually accurate, but there are enough examples of grammatical constructions breaking the barriers of m.odern punctuation and structural segmentation to justify ignoring these barriers. 16 From a formal standpoint, therefore, I will treat the text of Herodstus as an uninterrupted stream of words.
 
-16
-
-parentheses may automatically be treated as background material. 15 This is not to say that this information is not usually accurate, but there are enough examples of grammatical constructions breaking the barriers of m.odern punctuation and structural segmentation to justify ignoring these barriers. 16 From a formal standpoint, therefore, I will treat the text of Herodstus as an uninterrupted stream of words.
-
-Even with the tagged text of Herodotus and other authors on-line, one
-
-cannot work seriously on Greek syntax without considering the complex problem of Greek morphology. 17 For my research, I have used the Morpheus morphological analyzer developed by Gregory Crane, which was later incorporated into the Perseus Project. 18 Obviously, since the corp us under consideration is fixed, one could imagine a finite solution to mor hological analysis, consisting of a database containing all the unique strings in Greek and their parses. The corpus, nevertheless, is so large that creating such a database would be virtually impracticable. Morpheus relies, instead, on generating strings from its tables of stems and affixes and a set of rules for their eupionic
+Even with the tagged text of Herodotus and other authors on-line, one cannot work seriously on Greek syntax without considering the complex problem of Greek morphology. 17 For my research, I have used the Morpheus morphological analyzer developed by Gregory Crane, which was later incorporated into the Perseus Project. 18 Obviously, since the corp us under consideration is fixed, one could imagine a finite solution to mor hological analysis, consisting of a database containing all the unique strings in Greek and their parses. The corpus, nevertheless, is so large that creating such a database would be virtually impracticable. Morpheus relies, instead, on generating strings from its tables of stems and affixes and a set of rules for their eupionic
 
 combination. This representation of morphology is not only more concise than a
 
