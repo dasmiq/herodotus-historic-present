@@ -1,6 +1,4 @@
-Syntax and Narrative:
-
-The Historic Present in Herodotus
+# Syntax and Narrative: The Historic Present in Herodotus
 
 A thesis presented
 
@@ -19,140 +17,42 @@ Cambridge, Massachusetts
 March, 1994
 
 
+## Introduction
 
-Introduction ..
+Speakers and writers use the historic present when they describe past events with the present tense. Some narratives in Ancient Greek have no instances of the historic present, some have a scattered few, and some have long strings of them. However they are distributed, a general consensus holds that historic presents occur in "lively or dramatic narration" (Smyth, 1956: 422). The only serious challenge to this theory of the "vividness" of the historic present came in 1968, when Paul Kiparsky published "Tense and Mood in Indo-European Syntax" in _Foundations of Language_.[^1] This article presented the argument that the historical present construction was not, in archaic Greek, a marker of vivid narrative, but rather the heir of the Indo-European injunctive as an unmarked narrative tense. One year after Kiparsky's article appeared, Saul Levin, writing in the same journal, offered his approval of Kiparsky's analysis, along with some corrections and refinements of his own. Five years later, K. L. McKay dismissed the arguments of Kiparsky and Levin on the grounds that they did not pay due regard to the function of aspect.
 
-Syntax and Narrative...
+Though I will later consider these arguments of these three men on their merits, for now, the arguments are less important than the evidence that they used. This controversy was founded on thirty sentences of Greek, of which twenty were directly quoted. A few sentences might be enough to support or reject a claim about syntax on the sentence level, but these few sentences are woefully inadequate for analysis at the narrative level. Specifically, one sentence may suffice to refute Kiparsky's claim that the inherited functions of the injunctive account for all instances of the historic present, but we cannot assert without looking at a substantial body of evidence that the historic present generally marks vivid narrative, nor that it is a narrative tense unmarked for time, nor that it is used in synopses of events. In fact, we cannot, on the basis of such limited evidence as has been offered, propound any theory that has been advanced as to the historic present's discourse function. Since the historic present is optional, as Kiparsky and Wolfson (1982) have observed, we cannot simply examine a few out-of-context examples of this construction. We must train our sights on both the situations where it is used and those where it seems to be prohibited.
 
-Resources and Methodology
+[^1]: "Tense and Mood in Indo-European Syntax" appeared in _Foundations of Language_ 4, pp. 30-57. A note on the article states that Kiparsky's work was supported by various government agencies, including the NSF, NIH, NASA, and the U.S. Air Force. It makes one yearn for the days when the space program could support research in Ancient Greek, Sanskrit, and Old Irish.
 
-The Historic Present and Narrative Grounding.
+Why then did I choose to study this grammatical feature in Herodotus? First and foremost, the Histories are the first complete work of Greek prose that we have. That is to say, Herodotus is the first author for whom we may avoid the considerations of meter. Secondly, as a historian, he provides a generous sample of narrative passages on which to test a hypothesis. And thirdly, Herodotus' narrative structure is precisely what makes him so interesting as an author. In contrast, Denniston (1952: 2) characterizes prose writing before Herodotus thus:
 
-Conclusion..
+> These writers made little attempt at organized structure. And the cause of that lies in the quality of their thought. They expound truth in oracles rather than proceed to it by the ordered march of logic. Hence their writing gives the effect of stiffly piled-up masses: it is static, not dynamic. And it is safe to say, though no continuous passage of any great length has survived, that its unit was the sentence rather than the paragraph.
 
-Bibliography.
+Herodotus is the first testing-ground for theories about narrative, for the _Histories_ in my opinion are, rather than "stiffly piled-up masses", a vast and intricate edifice.
 
-Index Locorum
+The description of a grammatical construction in an author is the domain of stylistics. Close studies of an author's diction have often been carried out, to great success at the lexical level (e.g. K. J. Dover's study of the _corpus Lysiacum_ or Mark Griffith's of _Prometheus Bound_) and at the level of the larger narrative, or _logos_ (e.g. Immerwahr's _Form and Thought in Herodotus_). The Intermediate stage of syntax, however, is often ignored as a marker of style, partly due to lack of resources and partly due to the impressive success of lexical stylistics.
 
-... 1
+I propose, therefore, to examine one syntactic construction — the historic present — as it appears in all of Herodotus. So great a labor would it be for a team of scholars that an undergraduate might well despair. Nevertheless, armed with basic morphological data and the tools to apply these data to a large body of text, I believe that I have produced some interesting results. Yet any amount of data stands idle without a theory for its application, and in this I owe a great debt to one of the few practitioners of syntactic stylistics, Albert Rijksbaron of the University of Amsterdam. His work on the discourse function of the imperfect in Herodotus (1988) was particularly helpful in clarifying some of my ideas on the relation of syntactic structures to narrative events.
 
-... 5
+In the following chapters, I will first outline some previous theories of the historic present and some theories of narrative in general. Specifically, I will present the concept of narrative grounding as an amenable framework for syntactic analysis. In the second chapter, I will describe the data and research tools at my disposal and the additional tools that I built to handle the data. In the third chapter, I will relate the evidence found by my programs to a formulation of the historic present based on narrative grounding, and I will argue that the historic present functions not so much as a marker of vivid action but rather as a marker of structurally foregrounded events.
 
-.... 13
+While this thesis concentrates, to a great extent, on a particular construction in Ancient Greek, it is also a case study in computational linguistics. The individual processes described herein are not at all complex, but automation of morphological and syntactic analysis allows us to ask questions about large corpora that would have been previously impractical. More importantly, the simple methods used in this thesis, which shed light on such an important syntactic feature and its narrative context, should be a warning to all who would use computers for linguistic research. Never start with a difficult question when a simple one can produce the same insights.
 
-....22
+As this thesis is intended for the general classicist, many of the methodological explanations will seem superfluous to a more technically-trained reader; likewise, the scholar of Greek may pass over the sketches of Greek syntax and morphology, which were included for the benefit of specialists in computational linguistics. Any reader who wishes to see my direct application of narrative grounding to the historic present in Herodotus should turn to Chapter Three.
 
-41
 
-.. 43
+## Chapter One: Syntax and Narrative
 
-45
+The historic, or narrative, present exhibits more clearly than any other construction the interaction of syntax and style. It has often been stated that an author, or embedded narrator, should seek to increase the vividness of his narrative by casting it into the present and creating what Rijksbaron calls an "eyewitness-effect".[^2] Smyth (1956: 422) goes even farther and says that the historic present "may be used to represent a past action as going on at the moment of speaking or writing." It is also apparent that a special vividness is called for at climactic points in the narrative. Rijksbaron (1984: 22), however, hints at another function of the historic present.
 
+> When occurring among imperfects and aorist indicatives the historic present often highlights decisive actions, turning-points in the story, which introduce a new series of actions.
 
+His examples, however, are confined to "decisive actions" or "turning-points" within individual narratives.[^3] While these internal usages form the bulk of the occurrences of the historic present, we can extend Rijksbaron's concept of turning-points to cover events that link two different narratives, and find historic presents also used for these. For it is surely these linking events that most surely "introduce a new series of actions".
 
-Speakers and writers use the historic present when they describe past
+[^2]: See (pseudo-)Longinus, [_On the Sublime_ 25.1](http://data.perseus.org/citations/urn:cts:greekLit:tlg0560.tlg001.perseus-grc1:25): Ὅταν γε μὴν τὰ παρεληλυθότα τοῖς χρόνοις εἰσάγῃς ὡς γινόμενα καὶ παρόντα, οὐ διήγησιν ἔτι τὸν λόγον, ἀλλ̓ ἐναγώνιον πρᾶγμα ποιήσεις. (Loeb translation): "If you introduce events in past time as happening at the present moment, the passage will be transformed from a narrative into a vivid actuality." See also Longacre and Levinsohn (1977: 109) on the historic present at narrative peaks.
 
-events with the present tense. Some narratives in Ancient Greek have no instances of the historic present, some have a scattered few, and some have long
-
-strings of them. However they are distributed, a general consensus holds that historic presents occur in "lively or dramatic narration" (Smyth, 1956: 422). The only serious challenge to this theory of the "vividness" of the historic present came in 1968, when Paul Kiparsky published "Tense and Mood in Indo-European Syntax" in Foundations of Language.1 This article presented the argument that the historical present construction was not, in archaic Greek, a marker of vivid narrative, but rather the heir of the Indo-European injunctive as an unmarked narrative tense. One year after Kiparsky's article appeared, Saul Levin, writing in the same journal, offered his approval of Kiparsky's analysis, along with some corrections and refinements of his own. Five years later, K. L.
-
-McKay dismissed the arguments of Kiparsky and Levin on the grounds that they did not pay due regard to the function of aspect.
-
-Though I will later consider these arguments of these three men on their
-
-merits, for now, the arguments are less important than the evidence that they used. This controversy was founded on thirty sentences of Greek, of which twenty were directly quoted. A few sentences might be enough to support or reject a claim about syntax on the sentence level, but these few sentences are woefully inadequate for analysis at the narrative level. Specifically, one sentence may suffice to refute Kiparsky's claim that the inherited functions of the
-
-1 "Tense and Mood in Indo-European Syntax" appeared in Foundation of Language 4, pp. 30-57. A note on the article states that Kiparsky's work was supported by various government agencies, including the NSF, NIH, NASA, and the U.S. Air Force. It makes one yearn for the days when the space program could support research in Ancient Greek, Sanskrit, and Old Irish.
-
-
-
-Introduction
-
-2
-
-injunctive account for all instances of the historic present, but we cannot assert without looking at a substantial body of evidence that the historic present generally marks vivid narrative, nor that it is a narrative tense unmarked for time, nor that it is used in synopses of events. In fact, we cannot, on the basis of such limited evidence as has been offered, propound any theory that has been advanced as to the historic present's discourse function. Since the historic present is optional, as Kiparsky and Wolfson (1982) have observed, we cannot simply examine a few out-of-context examples of this construction. We must train our sights on both the situations where it is used and those where it seems to be prohibited.
-
-Why then did I choose to study this grammatical feature in Herodotus?
-
-First and foremost, the Histories are the first complete work of Greek prose that we have. That is to say, Herodotus is the first author for whom we may avoid the considerations of meter. Secondly, as a historian, he provides a generous
-
-sample of narrative passages on which to test a hypothesis. And thirdly, Herodotus' narrative structure is precisely what makes him so interesting as an author. In contrast, Denniston (1952: 2) characterizes prose writing before Herodotus thus:
-
-These writers made little attempt at organized structure. And the cause of that lies in the quality of their thought. They expound truth in oracles rather than proceed to it by the ordered march of logic. Hence their writing gives the effect of stiffly piled-up masses: it is static, not dynamic. And it is safe to say, though no continuous passage of any great length has survived, that its unit was the sentence rather than the paragraph.
-
-Herodotus is the first testing-ground for theories about narrative, for the Histories in my opinion are, rather than "stiffly piled-up masses", a vast and intricate edifice.
-
-The description of a grammatical construction in an author is the domain
-
-of stylistics. Close studies of an author's diction have often been carried out, to great success at the lexical level (e.g. K. J. Dover's study of the corpus Lysiacum or
-
-
-
-Introduction
-
-3
-
-Mark Griffith's of Prometheus Bound) and at the level of the larger narrative, or logos (e.g. Immerwahr's Form and Thought in Herodotue). The Intermediate stage of syntax, however, is often ignored as a marker of style, partly due to lack of resources and partly due to the impressive success of lexical stylistics.
-
-I propose, therefore, to examine one syntactic construction — the historic
-
-present — as it appears in all of Herodotus. So great a labor would it be for a team of scholars that an undergraduate might well despair. Nevertheless, armed with basic morphological data and the tools to apply these data to a large body of text, I believe that I have produced some interesting results. Yet any amount of data stands idle without a theory for its application, and in this I owe a great debt to one of the few practitioners of syntactic stylistics, Albert Rijksbaron of the University of Amsterdam. His work on the discourse function of the imperfect in Herodotus (1988) was particularly helpful in clarifying some of my ideas on the relation of syntactic structures to narrative events.
-
-In the following chapters, I will first outline some previous theories of the
-
-historic present and some theories of narrative in general. Specifically, I will present the concept of narrative grounding as an amenable framework for syntactic analysis. In the second chapter, I will describe the data and research tools at my disposal and the additional tools that I built to handle the data. In the third chapter, I will relate the evidence found by my programs to a formulation of the historic present based on narrative grounding, and I will argue that the historic present functions not so much as a marker of vivid action but rather as a marker of structurally foregrounded events.
-
-While this thesis concentrates, to a great extent, on a particular construction in Ancient Greek, it is also a case study in computational linguistics.
-
-The individual processes described herein are not at all complex, but automation of morphological and syntactic analysis allows us to ask questions about large
-
-
-
-Introduction
-
-corpora that would have been previously impractical. More importantly, the simple methods used in this thesis, which shed light on such an important syntactic feature and its narrative context, should be a warning to all who would use computers for linguistic research. Never start with a difficult question when a simple one can produce the same insights.
-
-As this thesis is intended for the general classicist, many of the
-
-methodological explanations will seem superfluous to a more technically-trained reader; likewise, the scholar of Greek may pass over the sketches of Greek syntax and morphology, which were included for the benefit of specialists in computational linguistics. Any reader who wishes to see my direct application of narrative grounding to the historic present in Herodotus should turn to Chapter Three.
-
-4
-
-
-
-Chapter One
-
-Syntax and Narrative
-
-
-
-The historic, or narrative, present exhibits more clearly than any other construction the interaction of syntax and style. It has often been stated that an author, or embedded narrator, should seek to increase the vividness of his narrative by casting it into the present and creating what Rijksbaron calls an
-
-"eyewitness-effect" 2 Smyth (1956: 422) goes even farther and says that the historic present "may be used to represent a past action as going on at the moment of speaking or writing." It is also apparent that a special vividness is called for at climactic points in the narrative. Rijksbaron (1984: 22), however, hints at another function of the historic present.
-
-When occurring among imperfects and aorist indicatives the historic present often highlights decisive actions, turning-points in the story, which introduce a new series of actions.
-
-His examples, however, are confined to "decisive actions" or "turning-points" within individual narratives. While these internal usages form the bulk of the
-
-occurrences of the historic present, we can extend Rijksbaron's concept of turning-points to cover events that link two different narratives, and find historic
-
-
-
-2 See (pseudo-) Longinus, On the Sublime 25.1: ỐTaV YE MÀU Tà nAPERAUÓTa TOiS
-
-EvaywVlov payna moLnoels. (Loeb translation): "If you introduce events in past time as happening at the present moment, the passage will be transformed from a narrative into a vivid actuality." See also Longacre and Levinsohn (1977: 109) on the historic present at narrative peaks.
-
-3 Rijksbaron (1984: 22-24) cites the messenger speech from Medea and the Gyges story in Herodotus. In the former, Glauke puts on her new clothes and crown in aorists, but the messenger switches to the historic present when she does up her hair and parades through the palace. In the latter example, Kandaules' wife sees Gyges leaving the bedroom in the historic present. Rijksbaron incorrectly identifies this as the only historic present in the Gyges narrative.
-
-
-
-Syntax and Narrative
-
-6
-
-presents also used for these. For it is surely these linking events that most surely
-
-"introduce a new series of actions".
+[^3]: Rijksbaron (1984: 22-24) cites the messenger speech from _Medea_ and the Gyges story in Herodotus. In the former, Glauke puts on her new clothes and crown in aorists, but the messenger switches to the historic present when she does up her hair and parades through the palace. In the latter example, Kandaules' wife sees Gyges leaving the bedroom in the historic present. Rijksbaron incorrectly identifies this as the only historic present in the Gyges narrative.
 
 Other theories of the historic present, besides the traditional vividness explanation, have been proposed. Perhaps the most intriguing and controversial is Paul Kiparsky's conjunction reduction theory. Kiparsky set out specifically to refute the idea that "the narrator...wished to convey to the listener the dramatic feeling of being an eyewitness." Instead, he insists on "the impossibility of adequately characterizing the so-called historical present on a semantic basis alone. Rather, a syntactic solution is called for." (Kiparsky, 1968: 33) Thus far, I agree with Kiparsky, for all data point to a broader function for the historic present than increased vividness. But then comes the (supposed) linguistic knock-out blow.
 
