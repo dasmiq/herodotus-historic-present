@@ -2,6 +2,8 @@
 
 A thesis presented
 
+by
+
 David Arthur Smith
 
 to
@@ -297,13 +299,13 @@ But not long after this Miltiades son of Cimon had come to the Cherso.ese, great
 
 (Hdt. 6.40.1-2)
 
-The parallelism of ¿кфєє!..¿YEYÓve€ is made even more strikir.g by the repetition of the temporal phrase "three years before." The historic present, it seems, does not stand in for one past tense so much as for past per jective aspect. In this conclusion, I differ from Smyth (1956: 422), who states that "Lie historical present may represent either the descriptive imperfect or the nar ative aorist" and with McKay (1974: 250) who asserts that "the historic present commonly occurs in circumstances in which the imperfect would be as appropriate as the aorist or more so."
+The parallelism of ¿кфєє!..¿YEYÓve€ is made even more striking by the repetition of the temporal phrase "three years before." The historic present, it seems, does not stand in for one past tense so much as for past per jective aspect. In this conclusion, I differ from Smyth (1956: 422), who states that "Lie historical present may represent either the descriptive imperfect or the nar ative aorist" and with McKay (1974: 250) who asserts that "the historic present commonly occurs in circumstances in which the imperfect would be as appropriate as the aorist or more so."
 
-This dedication of the historic present to perfective, aristie events is not surprising in light of the earlier discussion of narrative grounding: Events told in the historic present, whether for the sake of vividness or decisive.ess, are inevitably on the main thread of the narrative. As has been shown, the aorist indicative is the normal tense for relating events on the main thread, while the imperfect provides the background. Therefore, any verb in the narrative foreground would have to have replaced the aorist. 32 That the historic present
+This dedication of the historic present to perfective, aristie events is not surprising in light of the earlier discussion of narrative grounding: Events told in the historic present, whether for the sake of vividness or decisive.ess, are inevitably on the main thread of the narrative. As has been shown, the aorist indicative is the normal tense for relating events on the main thread, while the imperfect provides the background. Therefore, any verb in the narrative foreground would have to have replaced the aorist.[^32] That the historic present
 
 placing them in a coordinate structure. We should better translate this sentence by: "While the other was defending himself with he spear, he wounds..."
 
-32 De Jong (1991: 40) observes that the historic presents in the Euripidean messneger speeches are substituted more often for the aorist than the imperfect.
+[^32]: De Jong (1991: 40) observes that the historic presents in the Euripidean messneger speeches are substituted more often for the aorist than the imperfect.
 
 
 
@@ -311,16 +313,17 @@ The Historic Present and Narrative Grounding
 
 27
 
-should be perfective is, of course, contrary to the nature of the present as expounded by most grammarians. Rijksbaron (1984: 1) states that "the present stem signifies that the verbal action continues through a point in time given in context or situation and is, therefore, not-completed (imperfective value)." I would contend that, syntactically and semantically, the historic present is not a present tense at all.33
+should be perfective is, of course, contrary to the nature of the present as expounded by most grammarians. Rijksbaron (1984: 1) states that "the present stem signifies that the verbal action continues through a point in time given in context or situation and is, therefore, not-completed (imperfective value)." I would contend that, syntactically and semantically, the historic present is not a present tense at all.[^33]
 
 One of the most striking syntactic properties of the historic present is its aversion to subordinate clauses. Out of the 117 historic presents that de Jong (1991: 185-6) finds in the Euripidean messenger speeches, only two are in subordinate clauses. Wolfson (1982: 41-3) finds no examples in her data of a historic present in a subordinate clause. In Herodotus, 1650 of the historic presents showed up in main clauses and the other 200 in subordinate clauses.
 
-That is to say, 10.8% of the historic present verbs were in subordinate clauses. Of all the remaining third-person present indicatives in Herodotus, 1993 out of 13,773, or 12.64%, were in subordinate clauses. The proportion of of historic presents in subordinate clauses is thus significantly lower than the overall proportion of indicative verbs in subordinate clauses, 34 It is not, of course, as low as the proportions that Wolfson and de Jong report. Since the scanning program is overgenerative, and since most "historic presents" that the program locates in subordinate clauses are, upon examination, spurious, we can say confidently that the proportion of historic presents can only decrease.
+That is to say, 10.8% of the historic present verbs were in subordinate clauses. Of all the remaining third-person present indicatives in Herodotus, 1993 out of 13,773, or 12.64%, were in subordinate clauses. The proportion of of historic presents in subordinate clauses is thus significantly lower than the overall proportion of indicative verbs in subordinate clauses.[^34] It is not, of course, as low as the proportions that Wolfson and de Jong report. Since the scanning program is overgenerative, and since most "historic presents" that the program locates in subordinate clauses are, upon examination, spurious, we can say confidently that the proportion of historic presents can only decrease.
 
 If the historic present possesses, syntactically, a perfective aspect, then it also has a semantic propensity for representing telic situations. As noted in the first chapter, main narrative actions tend to be telic since the narrator tells a story
 
-   The classic example of the non-present status of the historic present in Greek and Latin is its treatment as a secondary tense in the Sequence of Moods or Tenses, respectively.
-   The chi-squared statistic for these numbers is 5.089, which indicates that the correlation between the historic present and main clauses has at least a 97.5% chance of being significant.
+[^33]: The classic example of the non-present status of the historic present in Greek and Latin is its treatment as a secondary tense in the Sequence of Moods or Tenses, respectively.
+
+[^34]: The chi-squared statistic for these numbers is 5.089, which indicates that the correlation between the historic present and main clauses has at least a 97.5% chance of being significant.
 
 
 
