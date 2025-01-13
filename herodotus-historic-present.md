@@ -255,15 +255,11 @@ These, giving each other the word, and drawing their knives, stab the eunuchs wh
 
 This passage, aside from demonstrating a vivid use of the historic present, presents two paradoxes. Firstly, why is Darius' killing of the Magus in the inner room in the aorist, while all other killings or woundings are in the historic present? Secondly, why does Herodotus use the historic present when, after the action is over, the conspirators leave their wounded behind? If w a maintain that the historic present must highlight decisive events, we should ex/ ect a historic present (and not an aorist) in the first case and an aorist or imperíect (and not a historic present) in the second.
 
-Although some may argue that Herodotus employs the historic present arbitrarily, and even unconsciously, that seems not to be the case. Fleischman (1990: 76), writing about oral narrative, observes that "a speaker's use of tenses will not be consistent across multiple retellings of the same story." But Herodotus, where he does in fact present us with parallel stories seems to be consistent in his placement of the historic present. When Cambyses has a dream, which he believes to ne about Smerdis, he acts thus:
+Although some may argue that Herodotus employs the historic present arbitrarily, and even unconsciously, that seems not to be the case. Fleischman (1990: 76), writing about oral narrative, observes that "a speaker's use of tenses will not be consistent across multiple retellings of the same story." But Herodotus, where he does in fact present us with parallel stories seems to be consistent in his placement of the historic present. When Cambyses has a dream, which he believes to be about Smerdis, he acts thus:
 
-TENTEL MonEdonea Es nepoas, os nv oi dvnp nepoEwv nototaros.
-
-¿nOKTEVÉOVTa MIV.
-
-Fearing therefore for himself, lest his brother might slay him and so be king, he sends Prexaspes, the most trusted of his Persians, to Persia to kill him.
-
-(Hdt. 3.30.3)
+> πρὸς ὦν ταῦτα δείσας περὶ ἑωυτοῦ μή μιν ἀποκτείνας ὁ ἀδελφεὸς ἄρχῃ, <ins>πέμπει</ins> Πρηξάσπεα ἐς Πέρσας, ὃς ἦν οἱ ἀνὴρ Περσέων πιστότατος, ἀποκτενέοντά μιν.\
+> Fearing therefore for himself, lest his brother might slay him and so be king, he <ins>sends</ins> Prexaspes, the most trusted of his Persians, to Persia to kill him.\
+> ([Hdt. 3.30.3](http://data.perseus.org/citations/urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:3.30.3))
 
 Cambyses later explains this event to his wise men.
 
@@ -273,19 +269,15 @@ Taxirepa noopwtepa iv riyap avepornin oio our n a
 
 
 
-Then I feared that my brother would take away my sovereignty from tie, and I acted with more haste than wisdom; for it is not in the power of human nature to run away from what is to be; but I, blind as I was, send Prexaspes to Susa to kill merdis.
+Then I feared that my brother would take away my sovereignty from me, and I acted with more haste than wisdom; for it is not in the power of human nature to run away from what is to be; but I, blind as I was, send Prexaspes to Susa to kill merdis.
 
 Considering these and other examples,29 I argue that Herodotus was conscious of his modulation between imperfect, aorist indicative, and historic present. The issue of authorial intent, intent, presents too large a problem to be dealt with here.
 
-Can we thus conclude that the historic present is a general.zed authorial
+Can we thus conclude that the historic present is a generalized authorial tool to be pressed into service whenever a passage calls out for sp acial distinction? Fortunately for the student of style, Herodotus restricts his use of the historic present in two respects. These restrictions may be classified under the broad headings of syntax and semantics. Syntactically, the hi toric present may only be substituted for certain past-tense constructions; semantically, the lexemes in the historic present possess a common thread.
 
-tool to be pressed into service whenever a passage calls out for sp acial distinction? Fortunately for the student of style, Herodotus restricts his use of the historic present in two respects. These restrictions may be cla sified under the broad headings of syntax and semantics. Syntactically, the hi toric present may only be substituted for certain past-tense constructions; semantically, the lexemes in the historic present possess a common thread.
+The historic present is, of course, the substitution of a presunt verb for a past one. In ancient Greek, however, there are two normal narralive tenses (the imperfect and the aorist indicative) to only one present tense. As Comrie (1976: 74) points out, "the morphological restriction of overt aspect differentiation to the Past Tense means that a priori there can be no aspect distinction in the narrative present."30 Interestingly, though, in the passages cited above, the historic present invariably stands in for an aorist. Consider, for example, the vertal parallelism of peávEl...Etpáeto in the story of the Magiphonia31 and the obvious perfective
 
-The historic present is, of course, the substitution of a presunt verb for a past one. In ancient Greek, however, there are two normal narralive tenses (the imperfect and the aorist indicative) to only one present tense. As Comrie (1976:
-
-74) points out, "the morphological restriction of overt aspect differentiation to the Past Tense means that a priori there can be no aspect distinction in the narrative present."30 Interestingly, though, in the passages cited above, the historic present invariably stands in for an aorist. Consider, for example, the vertal parallelism of peávEl...Etpáeto in the story of the Magiphonia31 and the obvious perfective
-
-29 Finding parallel passages by hand is tedious, and it is not something that can yet be done reliably by machine. Two examples of parallelism using the historic present may be found in Hdt. 7.163.2 and 7.172.1, and in Hdt. 9.20.1 and 9.39.1. There are undoubtedly more examples of parallel passes bureat is talking about French, but it is obviously applicable to the case of ancient Greek. The interesting difference is that French allows both the imparfcit and the passé composé to be mapped onto the historic present, which is not, as we shall see, the case with Greek.
+29 Finding parallel passages by hand is tedious, and it is not something that can yet be done reliably by machine. Two examples of parallelism using the historic present may be found in Hdt. 7.163.2 and 7.172.1, and in Hdt. 9.20.1 and 9.39.1. There are undoubtedly more examples of parallel passes bureat is talking about French, but it is obviously applicable to the case of ancient Greek. The interesting difference is that French allows both the imparfait and the passé composé to be mapped onto the historic present, which is not, as we shall see, the case with Greek.
 
 31 Some may object that there is also an imperfect/historic present parallel in this same story: nuÚveto... aíEl. This is an example of Herodotus subordinating one thought to another while
 
@@ -319,13 +311,9 @@ The Historic Present and Narrative Grounding
 
 27
 
-should be perfective is, of course, contrary to the nature of the present as expounded by most grammarians. Rijksbaron (1984: 1) states that "the present stem signifies that the verbal action continues through a point in ime given in context or situation and is, therefore, not-completed (imperfective value)." I would contend that, syntactically and semantically, the historic present is not a present tense at all.33
+should be perfective is, of course, contrary to the nature of the present as expounded by most grammarians. Rijksbaron (1984: 1) states that "the present stem signifies that the verbal action continues through a point in time given in context or situation and is, therefore, not-completed (imperfective value)." I would contend that, syntactically and semantically, the historic present is not a present tense at all.33
 
-One of the most striking syntactic properties of the historic present is its
-
-aversion to subordinate clauses. Out of the 117 historic presents that de Jong
-
-(1991: 185-6) finds in the Euripidean messenger speeches, only two are in subordinate clauses. Wolfson (1982: 41-3) finds no examples in hur data of a historic present in a subordinate clause. In Herodotus, 1650 of the historic presents showed up in main clauses and the other 200 in subordi: late clauses.
+One of the most striking syntactic properties of the historic present is its aversion to subordinate clauses. Out of the 117 historic presents that de Jong (1991: 185-6) finds in the Euripidean messenger speeches, only two are in subordinate clauses. Wolfson (1982: 41-3) finds no examples in her data of a historic present in a subordinate clause. In Herodotus, 1650 of the historic presents showed up in main clauses and the other 200 in subordinate clauses.
 
 That is to say, 10.8% of the historic present verbs were in subordinate clauses. Of all the remaining third-person present indicatives in Herodotus, 1993 out of 13,773, or 12.64%, were in subordinate clauses. The proportion of of historic presents in subordinate clauses is thus significantly lower than the overall proportion of indicative verbs in subordinate clauses, 34 It is not, of course, as low as the proportions that Wolfson and de Jong report. Since the scanning program is overgenerative, and since most "historic presents" that the program locates in subordinate clauses are, upon examination, spurious, we can say confidently that the proportion of historic presents can only decrease.
 
