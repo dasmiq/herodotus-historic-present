@@ -44,8 +44,7 @@ While this thesis concentrates, to a great extent, on a particular construction 
 As this thesis is intended for the general classicist, many of the methodological explanations will seem superfluous to a more technically-trained reader; likewise, the scholar of Greek may pass over the sketches of Greek syntax and morphology, which were included for the benefit of specialists in computational linguistics. Any reader who wishes to see my direct application of narrative grounding to the historic present in Herodotus should turn to Chapter Three.
 
 
-<!-- ## Chapter One -->
-## Syntax and Narrative
+## Chapter One: Syntax and Narrative
 
 The historic, or narrative, present exhibits more clearly than any other construction the interaction of syntax and style. It has often been stated that an author, or embedded narrator, should seek to increase the vividness of his narrative by casting it into the present and creating what Rijksbaron calls an "eyewitness-effect".[^2] Smyth (1956: 422) goes even farther and says that the historic present "may be used to represent a past action as going on at the moment of speaking or writing." It is also apparent that a special vividness is called for at climactic points in the narrative. Rijksbaron (1984: 22), however, hints at another function of the historic present.
 
@@ -117,8 +116,7 @@ Such a description of the imperfect tense in terms of narrative structure leads 
 [^10]: One may say that this is a theory of "narrative reduction." One imperfect "time anchor" serves to locate a series of events in the past, and the following aorists and presents need not duplicate this "pastness" infortation.
 
 
-<!-- ## Chapter Two -->
-## Resources and Methodology
+## Chapter Two: Resources and Methodology
 
 On an abstract level, the three resources necessary for linguistic computing are a text base, a means for generating information about that text base, and a means for interpreting that information. Obviously, these needs are interdependent in numerous ways.
 
@@ -210,8 +208,7 @@ All of these tools are useful only insofar as they are used for the interpretati
 [^26]: The test used most is this thesis (and in fact by humanists in general) is the chi-sqared test of independence. This test's most common application is for determining if a correlation between two variables is significant or merely random. If we want, therefore, to \[The rest of this footnote seems to have been suppressed by the word processor due to the chapter break. —ed.]
 
 
-<!-- ## Chapter Three -->
-## The Historic Present and Narrative Grounding
+## Chapter Three: The Historic Present and Narrative Grounding
 
 Before we draw any general conclusions about the historic present, let us examine its use in narrative contexts. The Gyges story, one of Herodotus' most famous tales, provides three examples of the historic present.[^27] The first occurs when Gyges the unwilling voyeur is glimpsed by Candaules' wife.
 
