@@ -236,23 +236,11 @@ Note that these historic presents do not occur, as some would have it, at the pe
 
 Nevertheless, Herodotus does not use the historic present solely as a marker for isolated events. The massacre of the Magi by Darius and his fellow conspirators provides many examples of the historic present used, it seems, purely for the sake of vividness. The conspirators enter the palace without opposition, but when they are confronted by the eunuch messengers, they draw their knives and simultaneously start the killing and the historic presents.
 
-ทนUVETO Kai TOUTO LEU
+> οἳ δὲ διακελευσάμενοι καὶ σπασάμενοι τὰ ἐγχειρίδια τούτους μὲν τοὺς ἴσχοντας αὐτοῦ ταύτῃ <ins>συγκεντέουσι</ins>,... ὃ μὲν δὴ αὐτῶν <ins>φθάνει</ins> τὰ τόξα κατελόμενος, ὁ δὲ πρὸς τὴν αἰχμὴν ἐτράπετο...ὁ δ᾽ ἕτερος τῇ αἰχμῇ ἠμύνετο καὶ τοῦτο μὲν Ἀσπαθίνην <ins>παίει</ins> ἐς τὸν μηρόν, τοῦτο δὲ Ἰνταφρένεα ἐς τὸν ὀφθαλμόν...τῶν μὲν δὴ Μάγων οὕτερος <ins>τρωματίζει</ins> τούτους: ὁ δὲ ἕτερος...<ins>καταφεύγει</ins>,...καί οἱ <ins>συνεσπίπτουσι</ins> τῶν ἑπτὰ δύο, Δαρεῖός τε καὶ Γοβρύης...Δαρεῖος δὲ πειθόμενος ὦσέ τε τὸ ἐγχειρίδιον καὶ ἔτυχέ κως τοῦ Μάγου. ἀποκτείναντες δὲ τοὺς Μάγους καὶ ἀποταμόντες αὐτῶν τὰς κεφαλάς, τοὺς μὲν τρωματίας ἑωυτῶν αὐτοῦ <ins>λείπουσι</ins> καὶ ἀδυνασίης εἵνεκεν καὶ φυλακῆς τῆς ἀκροπόλιος...\
+> These, giving each other the word, and drawing their knives, <ins>stab</ins> the eunuchs who barred their way,...One <ins>rushes</ins> to take down a bow, the other went for a spear....but the other defended himself with his spear and <ins>wounds</ins> Aspathines in the thigh and Intaphrenes in the eye...So one of the Magi <ins>wounds</ins> these; the other <ins>flees</ins>... Two of the seven <ins>rush</ins> into the room with him, Darius and Gobryas...So Darius complying stabbed with his knife and somehow stuck the Magus. When they had killed the Magi and cut off their heads, they <ins>leave</ins> their wounded there because of their infirmity and for the sake of guarding the acropolis...\
+> ([Hdt. 3.77.3-79.1](http://data.perseus.org/citations/urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:3.77.3))
 
-'iaopeveas Tou boBanorNHE STMEYE OUTEDCE TOGUCTiTE
-
-TOUTOUS SE SEDKOEELK O EUEETITTONEL TEN ETTO SUO,
-
-KGIÉTUXÉ KWS TOU MÁYOU. ¿nOKTEÍVaVTES bÈ TOÙS MáYoUS Kai
-
-aoaMoves aUTTE KEAd, TOU HETwariasTผนOบ
-
-MEÍTOVEL Kai dUvaGins ElVEKEV Kai pUraKis ths aponórios...
-
-These, giving each other the word, and drawing their knives, stab the eunuchs who barred their way,...One rushes to take down a bow, the other went for a spear....but the other defended himself with his spear and wounds Aspathines in the thigh and Intaphrenes in the eye...So one of the Magi wounds these; the other flces... Two of the seven rush into the room with him, Darius and Gobryas...So Darius complying stabbed with his knife and somehow stuck the Magus. When they had killed the Magi and cut off their heads, they leave their wounded there because of their infirmity and for the sake of guarding the acropolis...
-
-(Hdt. 3.77.3-79.1)
-
-This passage, aside from demonstrating a vivid use of the historic present, presents two paradoxes. Firstly, why is Darius' killing of the Magus in the inner room in the aorist, while all other killings or woundings are in the historic present? Secondly, why does Herodotus use the historic present when, after the action is over, the conspirators leave their wounded behind? If w a maintain that the historic present must highlight decisive events, we should ex/ ect a historic present (and not an aorist) in the first case and an aorist or imperíect (and not a historic present) in the second.
+This passage, aside from demonstrating a vivid use of the historic present, presents two paradoxes. Firstly, why is Darius' killing of the Magus in the inner room in the aorist, while all other killings or woundings are in the historic present? Secondly, why does Herodotus use the historic present when, after the action is over, the conspirators leave their wounded behind? If we maintain that the historic present must highlight decisive events, we should expect a historic present (and not an aorist) in the first case and an aorist or imperíect (and not a historic present) in the second.
 
 Although some may argue that Herodotus employs the historic present arbitrarily, and even unconsciously, that seems not to be the case. Fleischman (1990: 76), writing about oral narrative, observes that "a speaker's use of tenses will not be consistent across multiple retellings of the same story." But Herodotus, where he does in fact present us with parallel stories seems to be consistent in his placement of the historic present. When Cambyses has a dream, which he believes to be about Smerdis, he acts thus:
 
@@ -262,72 +250,41 @@ Although some may argue that Herodotus employs the historic present arbitrarily,
 
 Cambyses later explains this event to his wise men.
 
-Taxirepa noopwtepa iv riyap avepornin oio our n a
+> δείσας δὲ μὴ ἀπαιρεθέω τὴν ἀρχὴν πρὸς τοῦ ἀδελφεοῦ, ἐποίησα ταχύτερα ἢ σοφώτερα: ἐν τῇ γὰρ ἀνθρωπηίῃ φύσι οὐκ ἐνῆν ἄρα τὸ μέλλον γίνεσθαι ἀποτρέπειν. ἐγὼ δὲ ὁ μάταιος Πρηξάσπεα <ins>ἀποπέμπω</ins> ἐς Σοῦσα ἀποκτενέοντα Σμέρδιν.\
+> Then I feared that my brother would take away my sovereignty from me, and I acted with more haste than wisdom; for it is not in the power of human nature to run away from what is to be; but I, blind as I was, <ins>send</ins> Prexaspes to Susa to kill Smerdis.\
+> ([Hdt. 3.65.3](http://data.perseus.org/citations/urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:3.65.3))
 
-És LoûGa ¿noKtEvÉOvra suépoLv.
+Considering these and other examples,[^29] I argue that Herodotus was conscious of his modulation between imperfect, aorist indicative, and historic present. The issue of authorial intent, intent, presents too large a problem to be dealt with here.
 
+[^29]: Finding parallel passages by hand is tedious, and it is not something that can yet be done reliably by machine. Two examples of parallelism using the historic present may be found in Hdt. 7.163.2 and 7.172.1, and in Hdt. 9.20.1 and 9.39.1. There are undoubtedly more examples of parallel passages buried in the text.
 
+Can we thus conclude that the historic present is a generalized authorial tool to be pressed into service whenever a passage calls out for special distinction? Fortunately for the student of style, Herodotus restricts his use of the historic present in two respects. These restrictions may be classified under the broad headings of syntax and semantics. Syntactically, the historic present may only be substituted for certain past-tense constructions; semantically, the lexemes in the historic present possess a common thread.
 
-Then I feared that my brother would take away my sovereignty from me, and I acted with more haste than wisdom; for it is not in the power of human nature to run away from what is to be; but I, blind as I was, send Prexaspes to Susa to kill merdis.
+The historic present is, of course, the substitution of a present verb for a past one. In ancient Greek, however, there are two normal narrative tenses (the imperfect and the aorist indicative) to only one present tense. As Comrie (1976: 74) points out, "the morphological restriction of overt aspect differentiation to the Past Tense means that a priori there can be no aspect distinction in the narrative present."[^30] Interestingly, though, in the passages cited above, the historic present invariably stands in for an aorist. Consider, for example, the verbal parallelism of πθάνει...ἐτράπετο in the story of the Magiphonia[^31] and the obvious perfective aspect of αἱρέεται αὐτὸς περιεῖναι at the peak of the Gyges story. Note that the perfective nature of the historic present allows it to represent the pluperfect as well.
 
-Considering these and other examples,29 I argue that Herodotus was conscious of his modulation between imperfect, aorist indicative, and historic present. The issue of authorial intent, intent, presents too large a problem to be dealt with here.
+> οὗτος δὲ ὁ Κίμωνος Μιλτιάδης νεωστὶ μὲν ἐληλύθεε ἐς τὴν Χερσόνησον, κατελάμβανε δέ μιν ἐλθόντα ἄλλα τῶν καταλαβόντων πρηγμάτων χαλεπώτερα. τρίτῳ μὲν γὰρ ἔτεϊ πρὸ τούτων Σκύθας <ins>ἐκφεύγει</ins>...ταῦτα μὲν δὴ τρίτῳ ἔτεϊ πρότερον <ins>ἐγεγόνεε</ins> τῶν τότε μιν κατεχόντων.\
+> But not long after this Miltiades son of Cimon had come to the Chersonese, greater difficulties than the present afflictions overtook him. He <ins>is driven</ins> from the country three years before this by the Scythians...All this <ins>had happened</ins> three years Lefore the matters that now engaged him.\
+> ([Hdt. 6.40.1-2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:6.40))
 
-Can we thus conclude that the historic present is a generalized authorial tool to be pressed into service whenever a passage calls out for sp acial distinction? Fortunately for the student of style, Herodotus restricts his use of the historic present in two respects. These restrictions may be classified under the broad headings of syntax and semantics. Syntactically, the hi toric present may only be substituted for certain past-tense constructions; semantically, the lexemes in the historic present possess a common thread.
+The parallelism of ἐκφεύγει...ἐγεγόνεε is made even more striking by the repetition of the temporal phrase "three years before." The historic present, it seems, does not stand in for one past tense so much as for _past perfective aspect_. In this conclusion, I differ from Smyth (1956: 422), who states that "the historical present may represent either the descriptive imperfect or the narrative aorist" and with McKay (1974: 250) who asserts that "the historic present commonly occurs in circumstances in which the imperfect would be as appropriate as the aorist or more so."
 
-The historic present is, of course, the substitution of a presunt verb for a past one. In ancient Greek, however, there are two normal narralive tenses (the imperfect and the aorist indicative) to only one present tense. As Comrie (1976: 74) points out, "the morphological restriction of overt aspect differentiation to the Past Tense means that a priori there can be no aspect distinction in the narrative present."30 Interestingly, though, in the passages cited above, the historic present invariably stands in for an aorist. Consider, for example, the vertal parallelism of peávEl...Etpáeto in the story of the Magiphonia31 and the obvious perfective
+[^30]: In this passages, Comrie is talking about French, but it is obviously applicable to the case of ancient Greek. The interesting difference is that French allows both the imparfait and the passé composé to be mapped onto the historic present, which is not, as we shall see, the case with Greek.
 
-29 Finding parallel passages by hand is tedious, and it is not something that can yet be done reliably by machine. Two examples of parallelism using the historic present may be found in Hdt. 7.163.2 and 7.172.1, and in Hdt. 9.20.1 and 9.39.1. There are undoubtedly more examples of parallel passes bureat is talking about French, but it is obviously applicable to the case of ancient Greek. The interesting difference is that French allows both the imparfait and the passé composé to be mapped onto the historic present, which is not, as we shall see, the case with Greek.
+[^31]: Some may object that there is also an imperfect/historic present parallel in this same story: ἠμύνετο...παίει. This is an example of Herodotus subordinating one thought to another while placing them in a coordinate structure. We should better translate this sentence by: "While the other was defending himself with he spear, he wounds..."
 
-31 Some may object that there is also an imperfect/historic present parallel in this same story: nuÚveto... aíEl. This is an example of Herodotus subordinating one thought to another while
-
-
-
-The Historic Present and Narrative Grounding
-
-26
-
-aspect of ai péetal aròs nepteîval at the peak of the Gyges story. Note that the perfective nature of the historic present allows it to represent the pluperfect as well.
-
-XOREÚTEPa. TPÍTW MÈV YÀP ÉTEI MPÒ TOÚTWU EKÚDAS ÉKE AÚNEL TAûTA
-
-MÈU ON TPÍTUÉTET PÓTEPOV ÉYEYÓVEE TOV TÓTE MIV KATEXIVEWV.
-
-But not long after this Miltiades son of Cimon had come to the Cherso.ese, greater difficulties than the present afflictions overtook him. He is driven fron. the country three years before this by the Scythians...All this had happened three years Lefore the matters that now engaged him.
-
-(Hdt. 6.40.1-2)
-
-The parallelism of ¿кфєє!..¿YEYÓve€ is made even more striking by the repetition of the temporal phrase "three years before." The historic present, it seems, does not stand in for one past tense so much as for past per jective aspect. In this conclusion, I differ from Smyth (1956: 422), who states that "Lie historical present may represent either the descriptive imperfect or the nar ative aorist" and with McKay (1974: 250) who asserts that "the historic present commonly occurs in circumstances in which the imperfect would be as appropriate as the aorist or more so."
-
-This dedication of the historic present to perfective, aristie events is not surprising in light of the earlier discussion of narrative grounding: Events told in the historic present, whether for the sake of vividness or decisive.ess, are inevitably on the main thread of the narrative. As has been shown, the aorist indicative is the normal tense for relating events on the main thread, while the imperfect provides the background. Therefore, any verb in the narrative foreground would have to have replaced the aorist.[^32] That the historic present
-
-placing them in a coordinate structure. We should better translate this sentence by: "While the other was defending himself with he spear, he wounds..."
+This dedication of the historic present to perfective, aoristic events is not surprising in light of the earlier discussion of narrative grounding: Events told in the historic present, whether for the sake of vividness or decisiveness, are inevitably on the main thread of the narrative. As has been shown, the aorist indicative is the normal tense for relating events on the main thread, while the imperfect provides the background. Therefore, any verb in the narrative foreground would have to have replaced the aorist.[^32] That the historic present should be perfective is, of course, contrary to the nature of the present as expounded by most grammarians. Rijksbaron (1984: 1) states that "the present stem signifies that the verbal action continues through a point in time given in context or situation and is, therefore, not-completed (imperfective value)." I would contend that, syntactically and semantically, the historic present is not a present tense at all.[^33]
 
 [^32]: De Jong (1991: 40) observes that the historic presents in the Euripidean messneger speeches are substituted more often for the aorist than the imperfect.
 
-
-
-The Historic Present and Narrative Grounding
-
-27
-
-should be perfective is, of course, contrary to the nature of the present as expounded by most grammarians. Rijksbaron (1984: 1) states that "the present stem signifies that the verbal action continues through a point in time given in context or situation and is, therefore, not-completed (imperfective value)." I would contend that, syntactically and semantically, the historic present is not a present tense at all.[^33]
+[^33]: The classic example of the non-present status of the historic present in Greek and Latin is its treatment as a secondary tense in the Sequence of Moods or Tenses, respectively.
 
 One of the most striking syntactic properties of the historic present is its aversion to subordinate clauses. Out of the 117 historic presents that de Jong (1991: 185-6) finds in the Euripidean messenger speeches, only two are in subordinate clauses. Wolfson (1982: 41-3) finds no examples in her data of a historic present in a subordinate clause. In Herodotus, 1650 of the historic presents showed up in main clauses and the other 200 in subordinate clauses.
 
-That is to say, 10.8% of the historic present verbs were in subordinate clauses. Of all the remaining third-person present indicatives in Herodotus, 1993 out of 13,773, or 12.64%, were in subordinate clauses. The proportion of of historic presents in subordinate clauses is thus significantly lower than the overall proportion of indicative verbs in subordinate clauses.[^34] It is not, of course, as low as the proportions that Wolfson and de Jong report. Since the scanning program is overgenerative, and since most "historic presents" that the program locates in subordinate clauses are, upon examination, spurious, we can say confidently that the proportion of historic presents can only decrease.
-
-If the historic present possesses, syntactically, a perfective aspect, then it also has a semantic propensity for representing telic situations. As noted in the first chapter, main narrative actions tend to be telic since the narrator tells a story
-
-[^33]: The classic example of the non-present status of the historic present in Greek and Latin is its treatment as a secondary tense in the Sequence of Moods or Tenses, respectively.
+That is to say, 10.8% of the historic present verbs were in subordinate clauses. Of all the remaining third-person present indicatives in Herodotus, 1993 out of 13,773, or 12.64%, were in subordinate clauses. The proportion of historic presents in subordinate clauses is thus significantly lower than the overall proportion of indicative verbs in subordinate clauses.[^34] It is not, of course, as low as the proportions that Wolfson and de Jong report. Since the scanning program is overgenerative, and since most "historic presents" that the program locates in subordinate clauses are, upon examination, spurious, we can say confidently that the proportion of historic presents can only decrease.
 
 [^34]: The chi-squared statistic for these numbers is 5.089, which indicates that the correlation between the historic present and main clauses has at least a 97.5% chance of being significant.
 
-
-
-
-The Historic Present and Narrative Grounding
-
-in order to reach a certain point. As the historic present tends to replace an aorist, we may use the frequency with which an author chooses the historic present over the aorist as a measure of the affinity of a particular verb for the historic present. The verbs that have the greatest (statistically sig.ificant)
+If the historic present possesses, syntactically, a perfective aspect, then it also has a semantic propensity for representing telic situations. As noted in the first chapter, main narrative actions tend to be telic since the narrator tells a story in order to reach a certain point. As the historic present tends to replace an aorist, we may use the frequency with which an author chooses the historic present over the aorist as a measure of the affinity of a particular verb for the historic present. The verbs that have the greatest (statistically sig.ificant)
 
 proportion of historic presents to historic presents and aorist indicatives are all highly telic verbs: amefbô (answer), teleutáô (die), píptô (fall), pheúg (flee), dídômi
 
