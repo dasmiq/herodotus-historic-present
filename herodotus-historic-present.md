@@ -344,7 +344,9 @@ One verb, however, seems to present great difficulties for the theory of the
 
 historic present as a perfective, telic entity. This verb — mêkhanác mai — has one of the most rigid syntagmatic positions of all the historic presents in Herodotus.
 
-It always occurs at the beginning of a narrative (obviously a narrative of plotting) and is always followed by the forward-looking pronoun toiáde. Sume examples will demonstrate the pattern. 39
+It always occurs at the beginning of a narrative (obviously a narrative of plotting) and is always followed by the forward-looking pronoun toiáde. Sume examples will demonstrate the pattern.[^39]
+
+[^39]: The other occurrences of mêkhanáomai in the historic present are: Hdt. 1.60.3 (twice), 3.11.2, and 6.62.1. This verb is not used in the present outside of the historic present.
 
 'AR UÁTTNS MÉA ROL MOLNGELV, UNXaVTOL TOLÁSE•
 
@@ -355,16 +357,6 @@ would have a hard time making the case for a perfective, telic interpretation fo
 But sing the histol prose ity, a my lay do was san lang to the king but was
 
 interrupted" as against "He was answering the king but was interrupted." With regard to the former case, it is fair to say "He managed to speak to the king," but we may not say of the latter case "He managed to answer the king."
-
-39 The other occurrences of mêkhanáomai in the historic present are: Hdt. 1.60.3 (twice), 3.11.2, and
-
-6.62.1. This verb is not used in the present outside of the historic present.
-
-
-
-The Historic Present and Narrative Grounding
-
-30
 
 But Thrasybulus, forewarned of the whole matter, and knowing what Alyattes meant to do, plots the following things:
 
@@ -392,39 +384,15 @@ He, however, feared detection and had no other way of informing them than plotti
 
 (Hdt. 7.239.3)
 
-In all of these passages, the historic present verb sums up what is to follow
+In all of these passages, the historic present verb sums up what is to follow and has much in common with Rijksbaron's introductory imperfect, but whenever Herodotus uses mêkhanáomai, the plot is carried out immediately. The second example makes this unanimity of plan and action explit. We may argue, therefore, that mêkhanáomai has a telic — and even an perfective — character that the introductory imperfect lacks. Since a plot is never laid without being executed, we may say that the working out of a plot is itself part of the same event.
 
-and has much in common with Rijksbaron's introductory imperfect, but whenever Herodotus uses mêkhanáomai, the plot is carried out im.nediately. The second example makes this unanimity of plan and action explit. We may argue, therefore, that mêkhanáomai has a telic - and even an perfective - character that the introductory imperfect lacks. Since a plot is never laid withot.t being executed, we may say that the working out of a plot is itself part of the same
+We have seen anecdotal evidence that the historic present is used for highlighting certain parts of a narrative. We have also seen that Herodotus tends to use the historic present with a perfective aspect and in telic situations and that he tends to avoid the historic present in subordinate clauses. The theories of grounding presented in the first chapter cited these features as characteristics of narrative foreground, and indeed, it is this functional framework that seems best to explain the uses of the historic present.
 
-event.
+Narrative background, as Rijksbaron has demonstrated, is represemted by the imperfect tense. Although parenthesization is editorial, it can still give us a good idea of the kinds of verbs that represent backgrounded events. Of the 104 passages in parentheses in Herodotus, there are 17 aorist indicatives, 43 imperfects, 49 present indicatives, seven future indicatives, four perfect indicatives, and six pluperfects. Compare this to the 8200 aorist indicatives and 17,243 imperfects in Herodotus as a whole. Thus 25.75% of the aorists and imperfects in the parenthesized passages are aorists whereas this proportion is 32.23% for all of Herodotus. More importantly for this study, all of the present indicative verbs in parentheses refer to the time of the narrative, not the time narrated. If we say that passages in parentheses are by definition backgrounded, it is significant that no historic presents appear in these passages.
 
-We have seen anecdotal evidence that the historic present is used for highlighting certain parts of a narrative. We have also seen that Herodotus tends to use the historic present with a perfective aspect and in telic situations and that he tends to avoid the historic present in subordinate clauses. The theories of grounding presented in the first chapter cited these features as characteristics of
+Before I proceed, however, I must deal with a general objection to the theory of the historic present as narrative foreground. As I mentioned in my discussion of the story of the killing of the Magi, Herodotus does not always employ the historic present for the peak of a narrative even when he uses it extensively elsewhere in that same narrative. How is it that the historic present, which is normally used for marked, foreground events, is not used for the most important event of the story? Fleischman (1990: 77) explains that the high points of narratives "constitute a marked discourse context in which the markedness relationships normally operative in a text predictably reverse." De Jong (1991: 41) theorizes that the alternation between historic present and aorist, even at the high points of a narrative, is a case of simple variatio. These explanations ignore the possibility that there could be less correlation between the narrative foreground and narrative peak than has been postulated. Nothing prohibits an author from placing the formal "climax" of a story more in the background than other events. Herodotus wants us to be impressed when the fornerly passive Gyges decides to kill Candaules and not so much when he actually carries out the deed. He wants the bloodbath of the Magiphonia to be more meriorable than how it actually ends.
 
-
-
-The Historic Present and Narrative Grounding
-
-31
-
-narrative foreground, and indeed, it is this functional framework that seems best to explain the uses of the historic present.
-
-Narrative background, as Rijksbaron has demonstrated, is represemted by the imperfect tense. Although parenthesization is editorial, it can still give us a good idea of the kinds of verbs that represent backgrounded everts. Of the 104 passages in parentheses in Herodotus, there are 17 aorist indicatives, 43 imperfects, 49 present indicatives, seven future indicatives, four perfect indicatives, and six pluperfects. Compare this to the 8200 aorist indicatives and 17,243 imperfects in Herodotus as a whole. Thus 25.75% of the aorists and imperfects in the parenthesized passages are aorists whereas this proportion is 32.23% for all of Herodotus. More importantly for this study, all of the present indicative verbs in parentheses refer to the time of the narrative, not the time narrated. If we say that passages in parentheses are by definition backgrounded, it is significant that no historic presents appear in these passages.
-
-Before I proceed, however, I must deal with a general obje tion to the theory of the historic present as narrative foreground. As I mentioned in my discussion of the story of the killing of the Magi, Herodotus does not always employ the historic present for the peak of a narrative even when he uses it extensively elsewhere in that same narrative. How is it that the historic present, which is normally used for marked, foreground events, is not use i for the most important event of the story? Fleischman (1990: 77) explains that the high points of narratives "constitute a marked discourse context in which the markedness relationships normally operative in a text predictably reverse." De Jong (1991:
-
-41) theorizes that the alternation between historic present and aorist, even at the high points of a narrative, is a case of simple variatio. These explanations ignore the possibility that there could be less correlation between the narrative foreground and narrative peak than has been postulated. Nothing prohibits an
-
-
-
-The Historic Present and Narrative Grounding
-
-32
-
-author from placing the formal "climax" of a story more in the background than other events. Herodotus wants us to be impressed when the fornerly passive Gyges decides to kill Candaules and not so much when he actually carries out the deed. He wants the bloodbath of the Magiphonia to be more meriorable than how it actually ends.
-
-As we have seen above, a tension exists in the use of the historic present
-
-between the inherent character of the verb and the narrative func.ion it serves.
+As we have seen above, a tension exists in the use of the historic present between the inherent character of the verb and the narrative function it serves.
 
 Some verbs, however, possess denotations that are particularly u. eful for delimiting and clarifying narrative structure. One most importart class of these verbs relates to rites of passage, "significant moments in a person's life such as birth, wedding, and death" (Rijksbaron 1984: 24). Although von Tritz (1949: 191) asserts that in these situations "no dramatic effect can possibly be intended," it is
 
@@ -442,17 +410,8 @@ HOLLOU BLEABOVTOS H EOUOTEDON EMEABOUEC YUUn TiKTEL TOV 6ท
 
 KREONÉVEA TOÚTOV.
 
-At Sparta, Anaxandrides the son of Leon, who had been king, was now no longer alive but was dead, and Cleomenes son of Anaxandrides held the royal power. This he had won not by manly merit but by right of birth...[A description follows of the barrenness of
-
-
-
-The Historic Present and Narrative Grounding
-
-33
-
-Anaxandrides' first wife and his coercion by the ephors into marrying a second wife.] ...After no long time the second wife gives birth to Cleomenes.
-
-(Hdt. 5.39.1-41.1)40
+> At Sparta, Anaxandrides the son of Leon, who had been king, was now no longer alive but was dead, and Cleomenes son of Anaxandrides held the royal power. This he had won not by manly merit but by right of birth...\[A description follows of the barrenness of Anaxandrides' first wife and his coercion by the ephors into marrying a second wife.] ...After no long time the second wife gives birth to Cleomenes.\
+> (Hdt. 5.39.1-41.1)[^40]
 
 Equally momentous are the circumstances, told in an aside, of Pe. icles' birth.
 
@@ -482,7 +441,7 @@ I shall examine the narrative context of these examples in more d. tail below. F
 
 
 
-40 Right after this passage, in 5.41.3, when the first wife finally does give birth, there is an example of what could be conjunction reduction if, in fact, there were a conjunction present. The historic present verbs govern the verb in the aorist.
+[^40]: Right after this passage, in 5.41.3, when the first wife finally does give birth, there is an example of what could be conjunction reduction if, in fact, there were a conjunction present. The historic present verbs govern the verb in the aorist.
 
 RSE WEETEKE AWpLEa iBEws IOXEL AEWVinv, Kai uerd Toutor iaews
 
@@ -500,9 +459,7 @@ The Historic Present and Narrative Grounding
 
 34
 
-In a like manner, Herodotus recounts important dynastic Larriages in the
-
-historic present. Pisistratus union with the daughter of Megacles is crucial for his rise to power.
+In a like manner, Herodotus recounts important dynastic marriages in the historic present. Pisistratus' union with the daughter of Megacles is crucial for his rise to power.
 
 dmonap 5Etnv tupavvia tpone ri cipnueve o netoiocaros kard thy
 
@@ -608,7 +565,7 @@ the Themistocles narrative is an echo of Herodotus, it is not incor.ceivable tha
 
 Inscriptional evidence confirms that when Herodotus uses the historic present to describe successions, he affects a highly annalistic tone. The Parian chronicle, also known as the Parian Marble, is inscribed with events in Greek (mostly Athenian) history. It notes exactly how many years before the present each event took place and proceeds at a plodding pace from 1581 B.C. to the date of the stela's erection in 263 B.C. As there is no variation in the tone of the
 
-chronicle, it is not surprising that this inscription invariably uses he aorist indicative — even for the deaths of such illustrious figures as Aes shylus, Sophocles, and Euripides and for deaths as dramatic as Socrates'. But for a king's death, and even more frequently for his heir's accession, the chro.cle switches into the present.42 The stela reads, for the year 489/88,
+chronicle, it is not surprising that this inscription invariably uses he aorist indicative — even for the deaths of such illustrious figures as Aes shylus, Sophocles, and Euripides and for deaths as dramatic as Socrates'. But for a king's death, and even more frequently for his heir's accession, the chro.cle switches into the present.[^42] The stela reads, for the year 489/88,
 
 Kdi ApEios TEAEVIEL EEDEnE O EE ViOS BaGIAEVEL.
 
@@ -630,7 +587,7 @@ One hundred four years before the present, Dionysius the Sicilian died, and his 
 
 
 
-42 Occurrences of the historic present not quoted below are in the years: 420/19, 380/79, 336/35, 313/12, 310/09. All of these verbs are forms of teleutáô or basileúo.
+[^42]: Occurrences of the historic present not quoted below are in the years: 420/19, 380/79, 336/35, 313/12, 310/09. All of these verbs are forms of teleutáô or basileúo.
 
 
 
@@ -698,7 +655,7 @@ Herodotus also sets up markers at the juncture of two narratives, the most
 
 obvious examples of which are the "king dies, successor rules" combinations.
 
-The death of Aristagoras of Miletus (Hdt. 5.126.1-6.1.1) is particul irly striking since it occurs over a book boundary and is accompanied by a shit in scene from Greeks to Persians. Herodotus employs historic presents on either side of the book division to mark the transition. Returning to an earlier exariple, we may observe that pémpô almost always marks a narrative transition by changing the scene from the place of the sender to the place of the receiver. This transitional function might be the best explanation for the large number of hi. toric presents of this verb. We may characterize transitional passages as particularly foregrounded since they advance not only their own narrative but they start the development of a new one. In fact, Rijksbaron's observation that historic presents "introduce a new series of actions" is special case of this transitional function.
+The death of Aristagoras of Miletus (Hdt. 5.126.1-6.1.1) is particularly striking since it occurs over a book boundary and is accompanied by a shift in scene from Greeks to Persians. Herodotus employs historic presents on either side of the book division to mark the transition. Returning to an earlier example, we may observe that pémpô almost always marks a narrative transition by changing the scene from the place of the sender to the place of the receiver. This transitional function might be the best explanation for the large number of historic presents of this verb. We may characterize transitional passages as particularly foregrounded since they advance not only their own narrative but they start the development of a new one. In fact, Rijksbaron's observation that historic presents "introduce a new series of actions" is special case of this transitional function.
 
 
 
