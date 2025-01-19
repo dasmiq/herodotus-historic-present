@@ -272,119 +272,61 @@ The parallelism of ἐκφεύγει...ἐγεγόνεε is made even more strik
 
 [^31]: Some may object that there is also an imperfect/historic present parallel in this same story: ἠμύνετο...παίει. This is an example of Herodotus subordinating one thought to another while placing them in a coordinate structure. We should better translate this sentence by: "While the other was defending himself with he spear, he wounds..."
 
-This dedication of the historic present to perfective, aoristic events is not surprising in light of the earlier discussion of narrative grounding: Events told in the historic present, whether for the sake of vividness or decisiveness, are inevitably on the main thread of the narrative. As has been shown, the aorist indicative is the normal tense for relating events on the main thread, while the imperfect provides the background. Therefore, any verb in the narrative foreground would have to have replaced the aorist.[^32] That the historic present should be perfective is, of course, contrary to the nature of the present as expounded by most grammarians. Rijksbaron (1984: 1) states that "the present stem signifies that the verbal action continues through a point in time given in context or situation and is, therefore, not-completed (imperfective value)." I would contend that, syntactically and semantically, the historic present is not a present tense at all.[^33]
+This dedication of the historic present to perfective, aoristic events is not surprising in light of the earlier discussion of narrative grounding: Events told in the historic present, whether for the sake of vividness or decisiveness, are inevitably on the main thread of the narrative. As has been shown, the aorist indicative is the normal tense for relating events on the main thread, while the imperfect provides the background. Therefore, any verb in the narrative foreground would have to have replaced the aorist.[^32] That the historic present should be perfective is, of course, contrary to the nature of the present as expounded by most grammarians. Rijksbaron (1984: 1) states that "the present stem signifies that the verbal action continues through a point in time given in context or situation and is, therefore, _not-completed_ (imperfective value)." I would contend that, syntactically and semantically, the historic present is not a present tense at all.[^33]
 
 [^32]: De Jong (1991: 40) observes that the historic presents in the Euripidean messneger speeches are substituted more often for the aorist than the imperfect.
 
 [^33]: The classic example of the non-present status of the historic present in Greek and Latin is its treatment as a secondary tense in the Sequence of Moods or Tenses, respectively.
 
-One of the most striking syntactic properties of the historic present is its aversion to subordinate clauses. Out of the 117 historic presents that de Jong (1991: 185-6) finds in the Euripidean messenger speeches, only two are in subordinate clauses. Wolfson (1982: 41-3) finds no examples in her data of a historic present in a subordinate clause. In Herodotus, 1650 of the historic presents showed up in main clauses and the other 200 in subordinate clauses.
-
-That is to say, 10.8% of the historic present verbs were in subordinate clauses. Of all the remaining third-person present indicatives in Herodotus, 1993 out of 13,773, or 12.64%, were in subordinate clauses. The proportion of historic presents in subordinate clauses is thus significantly lower than the overall proportion of indicative verbs in subordinate clauses.[^34] It is not, of course, as low as the proportions that Wolfson and de Jong report. Since the scanning program is overgenerative, and since most "historic presents" that the program locates in subordinate clauses are, upon examination, spurious, we can say confidently that the proportion of historic presents can only decrease.
+One of the most striking syntactic properties of the historic present is its aversion to subordinate clauses. Out of the 117 historic presents that de Jong (1991: 185-6) finds in the Euripidean messenger speeches, only two are in subordinate clauses. Wolfson (1982: 41-3) finds no examples in her data of a historic present in a subordinate clause. In Herodotus, 1650 of the historic presents showed up in main clauses and the other 200 in subordinate clauses. That is to say, 10.8% of the historic present verbs were in subordinate clauses. Of all the remaining third-person present indicatives in Herodotus, 1993 out of 13,773, or 12.64%, were in subordinate clauses. The proportion of historic presents in subordinate clauses is thus significantly lower than the overall proportion of indicative verbs in subordinate clauses.[^34] It is not, of course, as low as the proportions that Wolfson and de Jong report. Since the scanning program is overgenerative, and since most "historic presents" that the program locates in subordinate clauses are, upon examination, spurious, we can say confidently that the proportion of historic presents can only decrease.
 
 [^34]: The chi-squared statistic for these numbers is 5.089, which indicates that the correlation between the historic present and main clauses has at least a 97.5% chance of being significant.
 
-If the historic present possesses, syntactically, a perfective aspect, then it also has a semantic propensity for representing telic situations. As noted in the first chapter, main narrative actions tend to be telic since the narrator tells a story in order to reach a certain point. As the historic present tends to replace an aorist, we may use the frequency with which an author chooses the historic present over the aorist as a measure of the affinity of a particular verb for the historic present. The verbs that have the greatest (statistically sig.ificant)
+If the historic present possesses, syntactically, a perfective aspect, then it also has a semantic propensity for representing telic situations. As noted in the first chapter, main narrative actions tend to be telic since the narrator tells a story in order to reach a certain point. As the historic present tends to replace an aorist, we may use the frequency with which an author chooses the historic present over the aorist as a measure of the affinity of a particular verb for the historic present. The verbs that have the greatest (statistically significant) proportion of historic presents to historic presents and aorist indicatives are all highly telic verbs: _ameíbô_ (answer), _teleutáô_ (die), _píptô_ (fall), _pheúgô_ (flee), _dídômi_ (give), and _pémpô_ (send). The following table lists the raw data, the ratio of historic presents to historic presents and aorist indicatives, and the chi-squared test statistic. Note that all of the chi-squared statistics are greater than 10.83, the number required for 99.9% certainty of significant correlation.
 
-proportion of historic presents to historic presents and aorist indicatives are all highly telic verbs: amefbô (answer), teleutáô (die), píptô (fall), pheúg (flee), dídômi
+|     | historic present  | aorist indicatives | ratio of HP to HP and aor. | chi-squared statistic |
+| --- | -------: | ----------: | ----------: | --------: |
+| _ameíbô_ | 15 | 10 | 0.60 | 26.81 |
+| _teleutáô_ | 20 | 14 | 0.59 | 34.41 |
+| _píptô_ | 13 | 15 | 0.46 | 13.36 |
+| _pheúgô_ | 17 | 24 | 0.41 | 13.09 |
+| _dídômi_ | 62 | 99 | 0.39 | 39.12 |
+| _pémpô_ | 51 | 105 | 0.33 | 18.47 |
+| all indicatives | 1953 | 8200 | 0.19 | 0.00 |
 
-(give), and pémpô (send). The following table lists the raw data, thie ratio of historic presents to historic presents and aorist indicatives, and the chi-squared test statistic. Note that all of the chi-squared statistics are greater than 10.83, the number required for 99.9% certainty of significant correlation.
+I contend that the common semantic feature of these verbs is telicity. In the case of _píptô_ or _teleutáô_, we might reason that Herodotus is trying to emphasize a sudden violent action, but then we cannot account for the 48 instances of _pémpô_ in the historic present. This verb expresses an action which is neither sudden, nor violent, nor necessarily "appeal\[ing] to the senses" (de Jong, 1991: 39).[^35]
 
-historic
+[^35]: One objection that could be advanced to this argument runs as follows. The verb _pémpô_ is in fact inherently imperfective, for it has more in common with the English "to escort" or "to organize a procession" than "to send". I concede that if Herodotus did use _pémpô_ in this fashion, I would have a hard time making the case for a perfective, telic interpretation for this verb. But I have examined all 51 examples of this verb in the historic present. What all instances of _pémpô_ in the historic present show is that some authority — who stays behind — sends a messenger who reaches his destination. There cannot be anything more punctual and goal-directed than that.
 
-1hM1
+Similarly, _dídômi_ does not represent a particularly striking action — though it might represent an important one, such as the betrayal of a city. Nevertheless, it is highly telic, for the action of giving culminates in the transferrence of the gift to the receiver.[^36] We could also, of course, adduce a "special case" explanation for _ameíbô_ since there is a widespread opinion that narrators have a tendency to put verbs of speaking in the historic present.[^37] Note, however, that no other verbs of speaking — not even _légô_, the most common — are on this list. The explanation, I believe, is that _ameíbô_ represents particularly directed, telic speech. The answer to a question is an entity that may or may not be imparted[^38] and whose delivery moves the rhetoric of the narrative forward. It seems reasonable to assert that verbs with a special affinity for the historic present are telic in nature.
 
-all indicatives
+One verb, however, seems to present great difficulties for the theory of the historic present as a perfective, telic entity. This verb — _mêkhanáomai_ — has one of the most rigid syntagmatic positions of all the historic presents in Herodotus. It always occurs at the beginning of a narrative (obviously a narrative of plotting) and is always followed by the forward-looking pronoun _toiáde_. Sume examples will demonstrate the pattern.[^39]
 
-双gu6rstnamm
+[^36]: The number of historic presents accorded to _dídômi_ may also be related to the importance of gift-exchange in archaic Greek culture. In that case, we would have to view giving as a timeless cultural moment on a par with birth, marriage, and death (see below).
 
-m152013176251B
+[^37]: Kiparsky (1968: 32): "A curiously pervasive fact is that verbs of saying are especially frequently put into the historical present in virtually all Indo-European languages."
 
-ratio of HP to
-
-HP and aor.
-
-0.60
-
-0.59
-
-0.46
-
-0.41
-
-0.39
-
-0.33
-
-0.19
-
-chi-squared statistic
-
-26.81
-
-0m0kmxm
-
-I contend that the common semantic feature of these verbs is telicity. In the case of píptô or teleutáo, we might reason that Herodotus is trying to emphasize a sudden violent action, but then we cannot account for the 48 instances of pémpo in the historic present. This verb expresses an action which is neither sudden, nor violent, nor necessarily "appealing] to the senses" (de Jong, 1991: 39),35
-
-
-
-35 One objection that could be advanced to this argument runs as follows. The verb pémpô is in fact inherently imperfective, for it has more in common with the English "to escort" or "to organize a procession" than "to send". I concede that if Herodotus did use pénipô in this fashion, I
-
-
-
-The Historic Present and Narrative Grounding
-
-29
-
-Similarly, didômi does not represent a particularly striking action - though it might represent an important one, such as the betrayal of a city. Nevertheless, it is highly telic, for the action of giving culminates in the transferrence of the gift to the receiver.36 We could also, of course, adduce a "special case" explanation for
-
-amebô since there is a widespread opinion that narrators have a tundency to put verbs of speaking in the historic present. 37 Note, however, that no other verbs of speaking — not even légô, the most common — are on this list. Tie explanation, I believe, is that ametbô represents particularly directed, telic speech. The answer to a question is an entity that may or may not be imparted38 and whose delivery moves the rhetoric of the narrative forward. It seems reasonable io assert that verbs with a special affinity for the historic present are telic in nature.
-
-One verb, however, seems to present great difficulties for the theory of the
-
-historic present as a perfective, telic entity. This verb — mêkhanác mai — has one of the most rigid syntagmatic positions of all the historic presents in Herodotus.
-
-It always occurs at the beginning of a narrative (obviously a narrative of plotting) and is always followed by the forward-looking pronoun toiáde. Sume examples will demonstrate the pattern.[^39]
+[^38]: Using the classic test of telicity, we may say "He was speaking to the king but was interrupted" as against "He was answering the king but was interrupted." With regard to the former case, it is fair to say "He managed to speak to the king," but we may not say of the latter case "He managed to answer the king."
 
 [^39]: The other occurrences of mêkhanáomai in the historic present are: Hdt. 1.60.3 (twice), 3.11.2, and 6.62.1. This verb is not used in the present outside of the historic present.
 
-'AR UÁTTNS MÉA ROL MOLNGELV, UNXaVTOL TOLÁSE•
+> Θρασύβουλος δὲ σαφέως προπεπυσμένος πάντα λόγον, καὶ εἰδὼς τὰ Ἀλυάττης μέλλοι ποιήσειν, <ins>μηχανᾶται</ins> τοιάδε\
+> But Thrasybulus, forewarned of the whole matter, and knowing what Alyattes meant to do, <ins>plots</ins> the following things:\
+> ([Hdt. 1.21.1](http://data.perseus.org/citations/urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:1.21.1))
 
-would have a hard time making the case for a perfective, telic interpretation for this verb. But I have examined all 51 examples of this verb in the historic present. What all instances of pémpô in the historic present show is that some authority — who stays behind — sends a messenger who reaches his destination. There cannot be anything more punctual and goal-directed than that.
+> συλλέξας δὲ στασιώτας καὶ τῷ λόγῳ τῶν ὑπερακρίων προστὰς <ins>μηχανᾶται</ins> τοιάδε.\
+> He collected partisans and pretended to champion the uplanders, and <ins>plans</ins> the following.\
+> ([Hdt. 1.59.3](http://data.perseus.org/citations/urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:1.59.3))
 
-   The number of historic presents accorded to dídômi may also be related to the importance of gift-exchange in archaic Greek culture. In that case, we would have to view giving as a timeless cultural moment on a par with birth, marriage, and death (see below).
-   Kiparsky (1968: 32): "A curiously pervasive fact is that verbs of saying are especially frequently
-But sing the histol prose ity, a my lay do was san lang to the king but was
+>  Ἄμασις ὁ στρατηγὸς τοῦ πεζοῦ <ins>μηχανᾶται</ins> τοιάδε. μαθὼν τοὺς Βορκαίους ὡς κατὰ μὲν τὸ ἰσχυρὸν οὐκ αἱρετοὶ εἶεν, δόλῳ δὲ αἱρετοί, <ins>ποιέει</ins> τοιάδε\
+> Amasis the general of the foot soldiers <ins>devises</ins> these things. Knowing that Barce could not be taken by force but might be taken by guile, he <ins>acts</ins> thus:\
+> ([Hdt. 4.102.1](http://data.perseus.org/citations/urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:4.201.1))
 
-interrupted" as against "He was answering the king but was interrupted." With regard to the former case, it is fair to say "He managed to speak to the king," but we may not say of the latter case "He managed to answer the king."
+> ἄλλως μὲν δὴ οὐκ εἶχε σημῆναι: ἐπικίνδυνον γὰρ ἦν μὴ λαμφθείη: ὁ δὲ <ins>μηχανᾶται</ins> τοιάδε\
+> He, however, feared detection and had no other way of informing them than <ins>plotting</ins> the following:\
+> ([Hdt. 7.239.3](http://data.perseus.org/citations/urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:7.239.3))
 
-But Thrasybulus, forewarned of the whole matter, and knowing what Alyattes meant to do, plots the following things:
-
-(Hdt. 1.21.1)
-
-SUANEEaE E OTaENTAS KOiTAOYATEN TEDAKPIN TOOTOS
-
-un xavâtas toládE.
-
-He collected partisans and pretended to champion the uplanders, and plans the following.
-
-(Hdt. 1.59.3)
-
-BOPKATOUS CUS KATA MÈU TÒ lO XUPÒY OỦK aLPETOI ElEV, CÓAC SÈ aiDETOÍ,
-
-DOLÉEL TOLÁGE•
-
-Amasis the general of the foot soldiers devises these things. Knowing that Barce could not be taken by force but might be taken by guile, he acts thus:
-
-(Hdt. 4.102.1)
-
-4อ x ตามกินส สาห์บริงขอบ ขล้อ กิบ นกิ cupeein 6 62
-
-He, however, feared detection and had no other way of informing them than plotting the following:
-
-(Hdt. 7.239.3)
-
-In all of these passages, the historic present verb sums up what is to follow and has much in common with Rijksbaron's introductory imperfect, but whenever Herodotus uses mêkhanáomai, the plot is carried out immediately. The second example makes this unanimity of plan and action explit. We may argue, therefore, that mêkhanáomai has a telic — and even an perfective — character that the introductory imperfect lacks. Since a plot is never laid without being executed, we may say that the working out of a plot is itself part of the same event.
+In all of these passages, the historic present verb sums up what is to follow and has much in common with Rijksbaron's introductory imperfect, but whenever Herodotus uses _mêkhanáomai_, the plot is carried out immediately. The second example makes this unanimity of plan and action explicit. We may argue, therefore, that _mêkhanáomai_ has a telic — and even an perfective — character that the introductory imperfect lacks. Since a plot is never laid without being executed, we may say that the working out of a plot is itself part of the same event.
 
 We have seen anecdotal evidence that the historic present is used for highlighting certain parts of a narrative. We have also seen that Herodotus tends to use the historic present with a perfective aspect and in telic situations and that he tends to avoid the historic present in subordinate clauses. The theories of grounding presented in the first chapter cited these features as characteristics of narrative foreground, and indeed, it is this functional framework that seems best to explain the uses of the historic present.
 
