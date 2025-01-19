@@ -383,81 +383,33 @@ We may also cite again the story of Demaratus' birth (Hdt. 6.61.1-62.1). The mar
 
 Of all the verbs in the historical present, _teleutáô_ exhibits the highest proportion of historic presents to other narrative tenses, with 16 historic presents and 15 aorists and imperfects. This means that 52% of all the uses of this verb in narrative are in the historic present. Most interestingly, Herodotts' use of _teleutáô_ echoes an annalistic style, for when the death of a king or general is recorded with this verb, the length of the reign and the name of the successor follow. These examples demonstrate the pattern.
 
-'AR UÁTTIS BÈ Ó NUÒC TÒY TPÒS MINNGÍOUS TÓMEMOV GIEVE KAS METÉTELTA
+> Ἀλυάττης δὲ ὁ Λυδὸς τὸν πρὸς Μιλησίους πόλεμον διενείκας μετέπειτα <ins>τελευτᾷ</ins>, βασιλεύσας ἔτεα ἑπτὰ καὶ πεντήκοντα...τελευτήσαντος δὲ Ἀλυάττεω ἐξεδέξατο τὴν βασιληίην Κροῖσος ὁ Ἀλυάττεω, ἐτέων ἐὼν ἡλικίην πέντε καὶ τριήκοντα\
+> Alyattes the Lydian, his war with the Milesians finished, <ins>dies</ins> after a reign of fifty-seven years... After the death of Alyattes, his son Croesus, then thirty-five years of age, came to the throne.\
+> ([Hdt. 1.25.1–26.1](http://data.perseus.org/citations/urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:1.25.1))
 
-IEREUTA, BAGIREÚGAS ÉTEa ENTà KAi MEVENKOVTa. TEMEUTaUTOS SÈ
+> μετὰ δὲ ταῦτα Κυαξάρης μέν, βασιλεύσας τεσσεράκοντα ἔτεα σὺν τοῖσι Σκύθαι ἦρξαν, <ins>τελευτᾷ</ins>, <ins>ἐκδέκεται</ins> δὲ Ἀστυάγης Κυαξάρεω παῖς τὴν βασιληίην.\
+> Afterwards, Cyaxares <ins>dies</ins> after a reign of forty years (among which I count the years of the Scythian domination) and his son Astyages <ins>inherits</ins> the sovereignty.\
+> ([Hdt. 1.107.1](http://data.perseus.org/citations/urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:1.107.1))
 
-'AAVATTEW CEESEEaTO InU BaLAninu Kpoiros o'AAVTTEW, ETEWV EQU
+> αὐτός τε Ὑμαίης αἱρέων ταῦτα τὰ ἔθνεα νούσῳ <ins>τελευτᾷ</ins> ἐν τῇ Τρῳάδι. οὗτος μὲν δὴ οὕτω ἐτελεύτησε, Ἀρταφρένης δὲ ὁ Σαρδίων ὕπαρχος καὶ Ὀτάνης ὁ τρίτος στρατηγὸς ἐτάχθησαν ἐπὶ τὴν Ἰωνίην καὶ τὴν προσεχέα Αἰολίδα στρατεύεσθαι.\
+> While he was conquering these nations, however, Hymaees himself <ins>dies</ins> of a sickness in the Troad. Even thus he died, and Artaphrenes, viceroy of Sardis, and Otanes, the third general, were appointed to lead the army against Ionia and the Aeolian territory on its borders.\
+> ([Hdt. 5.122.2–123.1](http://data.perseus.org/citations/urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:5.122.2))
 
-Alyattes the Lydian, his war with the Milesians finished, dies after a r ign of fifty-seven years... After the death of Alyattes, his son Croesus, then thirty-five ye irs of age, came to the throne.
+> Λευτυχίδης δὲ ὁ Μενάρεος Δημαρήτου καταπαυσθέντος διεδέξατο τὴν βασιληίην, καί οἱ <ins>γίνεται</ins> παῖς Ζευξίδημος ... οὗτος ὁ Ζευξίδημος οὐκ ἐβασίλευσε Σπάρτης: πρὸ Λευτυχίδεω γὰρ <ins>τελευτᾷ</ins>, λιπὼν παῖδα Ἀρχίδημον. Δευτυχίδης δὲ στερηθεὶς Ζευξιδήμου <ins>γαμέει</ins> δευτέρην γυναῖκα Εὐρυδάμην τὴν ἐοῦσαν Μενίου ἀδελφεὴν Διακτορίδεω δὲ θυγατέρα, ἐκ τῆς οἱ ἔρσεν μὲν <ins>γίνεται</ins> οὐδέν, θυγάτηρ δὲ Λαμπιτώ, τὴν Ἀρχίδημος ὁ Ζευξιδήμου <ins>γαμέει</ins> δόντος αὐτῷ Λευτυχίδεω.\
+> Leutychides son of Menares succeeded to the kingship after Demaratus was deposed. A son <ins>is born</ins> to him, Zeuxidemus... This Zeuxidemus never became king of Sparta, for he <ins>dies</ins> before Leutychides, leaving his son Archidemus. After the loss of Zeuxidemus, Leutychides <ins>marries</ins> a second wife, Eurydame...By her he <ins>has</ins> no male offspring, but a daughter, Lampito, to whom Archidemus son of Zeuxidemus <ins>is married</ins> by Leutychides.\
+> ([Hdt. 6.71.1–2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:6.71))
 
-(Hdt. 1.25.1-26.1)
+The first two examples are straightforward dynastic notices, listing the name of the sovereign, the length of his reign, and the name of his successor. The record of the death of Hymaees, in the third example, also includes the names of his successors. Of course, the length of the general's commission is ommitted as it is not as crucial for dating purposes as the length of a reign. The third example splendidly displays the narrative structure that Herodotus builds around these death notices. As in all four examples, Herodotus links the death to the previous narrative event ("While he was conquering these peoples..."), but, even more strikingly, he also links the statement of Hymaees' death to the subsequent events ("Even thus he died, and Artaphernes..."). In addition, Hurodotus strengthens the contrast by using _teleutáô_ first in the present and then in the aorist. The record of the general's death is thus carefully insulated from the surrounding narrative, and it passes from the realm of past history into present record. The fourth example is also tied to the previous narrative ("...after Demaratus was deposed."), but it contains a string of historic presents describing birth (twice), marriage (twice), and death. The convolutions of the Spartan royal succession are set down in an orderly manner without any elaboration.[^41] Thucydides provides evidence that this use of _teleutáô_ is stylisticaly recognizable. Although Thucydides customarily uses _apothnêiskô_ to express death in the historic present, he does have one instance of the historic present of _teleutáô_. In Thuc. 1.138.4, Themistocles dies (in the historic present) at the Persian court. As the Themistocles narrative is an echo of Herodotus, it is not inconceivable that the use of _teleutâi_ might be a similar echo.
 
-META SE TOUTA KUALAPAS MEV, BATIMEUTAS TEMOEPaKOVTa LTEa OUV TOîOI
+[^41]: The other usages of _teleutáô_ — all of which recount the deaths of important figures — are at: Hdt. 1.161.1, 1.214.1, 1.214.3, 2.159.3, 4.78.2, 5.27.2, 5.56.2, 6.1.1, 6.38.1, 6.136.3, and 9.102.4 (twice).
 
-Baơi nínv.
+Inscriptional evidence confirms that when Herodotus uses the historic present to describe successions, he affects a highly annalistic tone. The Parian chronicle, also known as the Parian Marble, is inscribed with events in Greek (mostly Athenian) history. It notes exactly how many years before the present each event took place and proceeds at a plodding pace from 1581 B.C. to the date of the stela's erection in 263 B.C. As there is no variation in the tone of the chronicle, it is not surprising that this inscription invariably uses he aorist indicative — even for the deaths of such illustrious figures as Aeschylus, Sophocles, and Euripides and for deaths as dramatic as Socrates'. But for a king's death, and even more frequently for his heir's accession, the chronicle switches into the present.[^42] The stela reads, for the year 489/88,
 
-Afterwards, Cyaxares dies after a reign of forty years (among which I ount the years of the Scythian domination) and his son Astyages inherits the sovereignt.
+> ...καὶ Δαρεῖος <ins>τελευτᾶι</ins>. Ξέρξης ὁ δὲ υἱὸς <ins>βασιλεύει</ins>...\
+> ...also Darius <ins>dies</ins>, and his son Xerxes <ins>reigns</ins>...\
+> (IG XII:5', 107)
 
-(Hdt. 1.107.1)
-
-CUTÓS TE YMAINS GIPÉWV TAUTO Tà ÉAVEa VOUCW IETEUTA IV TÂ TRWá.
-
-OUTOS MEU ST OUEW ETEAEUNGE, APTOODEUnS GE o Eapoic Vapxos Kai
-
-'orauns o rpiros otparnyos eraxendav enitnv'wvinv kcitnv mpocexea
-
-While he was conquering these nations, however, Hymaees himself di as of a sickness in the Troad. Even thus he died, and Artaphrenes, viceroy of Sardis, and Otanes, the third general, were appointed to lead the army against lonia and the Aeolian territory on its borders.
-
-(Hdt. 5.122.2-123.1)
-
-NEUTUXÍONS 6È Ó MENÁDEOS ANMaPÁTOU KATaTaUGDÉUTOS fLEDÉEaTO TNV
-
-BaciAninv, Kai oi yiveraL mais zeufionuosoutos o zEvionuos ouk
-
-'APXÍENHOV. DEUTUXIONS SÈ OTEROEiS LEVELENHOU YOUÉEL SEUTÉPnU
-
-Yuvaika EupubanvEK Ins oi EpEv HEV YiVETCL OUBEV, BUYEnp 6E
-
-
-
-The Historic Present and Narrative Grounding
-
-36
-
-Leutychides son of Menares succeeded to the kingship after Demaratt j was deposed. A son is born to him, Zeuxidemus... This Zeuxidemus never became king of Sparta, for he dies before Leutychides, leaving his son Archidemus. After the loss of Zeuxidemus, Leutychides marries a second wife, Eurydame...By her he has no mak offspring, but a daughter, Lampito, to whom Archidemus son of Zeuxidemus is marri d by Leutychides.
-
-(Hdt. 6.71.1-2)
-
-The first two examples are straightforward dynastic notices, listir g the name of the sovereign, the length of his reign, and the name of his success or. The record of the death of Hymaees, in the third example, also includes the rames of his successors. Of course, as the length of the general's commission is ommitted as it is not as crucial for dating purposes as the length of a reign. The third example splendidly displays the narrative structure that Herodotus builds around these death notices. As in all four examples, Herodotus links the death to the previous narrative event ("While he was conquering these peoples..."), but, even more strikingly, he also links the statement of Hymaees' death to the st bsequent events ("Even thus he died, and Artaphernes..."). In addition, Hurodotus strengthens the contrast by using teleutáô first in the present and Uhen in the aorist. The record of the general's death is thus carefully insulate 1 from the surrounding narrative, and it passes from the realm of past histor y into present record. The fourth example is also tied to the previous narrative ("...after Demaratus was deposed."), but it contains a string of historic pre_ents describing birth (twice), marriage (twice), and death. The convolutions of the Spartan royal succession are set down in an orderly manner without any elaboration. 41
-
-Thucydides provides evidence that this use of teleutáô is stylisticaly reconizable.
-
-Although Thucydides customarily uses apothnêisko to express death in the historic present, he does have one instance of the historic present of teleutáô. In Thuc. 1.138.4, Themistocles dies (in the historic present) at the Persian court. As
-
-41 The other usages of teleutáo —all of which recount the deaths of important f.gures — are at:
-
-Hdt. 1.161.1, 1.214.1, 1.214.3, 2.159.3, 4.78.2, 5.27.2, 5.56.2, 6.1.1, 6.38.1, 6.136.3, and 9.102.4 (twice).
-
-
-
-The Historic Present and Narrative Grounding
-
-37
-
-the Themistocles narrative is an echo of Herodotus, it is not incor.ceivable that the use of teleutâi might be a similar echo.
-
-Inscriptional evidence confirms that when Herodotus uses the historic present to describe successions, he affects a highly annalistic tone. The Parian chronicle, also known as the Parian Marble, is inscribed with events in Greek (mostly Athenian) history. It notes exactly how many years before the present each event took place and proceeds at a plodding pace from 1581 B.C. to the date of the stela's erection in 263 B.C. As there is no variation in the tone of the
-
-chronicle, it is not surprising that this inscription invariably uses he aorist indicative — even for the deaths of such illustrious figures as Aes shylus, Sophocles, and Euripides and for deaths as dramatic as Socrates'. But for a king's death, and even more frequently for his heir's accession, the chro.cle switches into the present.[^42] The stela reads, for the year 489/88,
-
-Kdi ApEios TEAEVIEL EEDEnE O EE ViOS BaGIAEVEL.
-
-...also Darius dies, and his son Xerxes reigns...
-
-(IG XII:5', 107)
-
-It is interesting to note that tyrants are explicitly denied this treat.nent; for the year 368/7, we read:
+It is interesting to note that tyrants are explicitly denied this treatment; for the year 368/7, we read:
 
 'AP' DU ALOVENIOS EURERINTS ÉTEREÚTNOEV, Ó SÈ VIOS AIOLÚOIOS
 
@@ -471,15 +423,9 @@ One hundred four years before the present, Dionysius the Sicilian died, and his 
 
 
 
-[^42]: Occurrences of the historic present not quoted below are in the years: 420/19, 380/79, 336/35, 313/12, 310/09. All of these verbs are forms of teleutáô or basileúo.
+[^42]: Occurrences of the historic present not quoted below are in the years: 420/19, 380/79, 336/35, 313/12, 310/09. All of these verbs are forms of <ins>teleutáô</ins> or <ins>basileúô</ins>.
 
-
-
-The Historic Present and Narrative Grounding
-
-38
-
-Dionysius, the tyrant of the powerful city of Syracuse, is distingu: shed from the kings of the then minor kingdom of Macedonia. In In a gesture even more dismissive of tyrants (so to speak), the chronicle records the deatl s of two poets
+Dionysius, the tyrant of the powerful city of Syracuse, is distinguished from the kings of the then minor kingdom of Macedonia. In In a gesture even more dismissive of tyrants (so to speak), the chronicle records the deatl s of two poets
 
 — Philoxenus and Sosiphanes — in the present. The exact reason for this special dispensation is unclear; neither poet hailed from Paros, and neither had lived particularly recently.
 
