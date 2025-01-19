@@ -411,82 +411,33 @@ Inscriptional evidence confirms that when Herodotus uses the historic present to
 
 It is interesting to note that tyrants are explicitly denied this treatment; for the year 368/7, we read:
 
-'AP' DU ALOVENIOS EURERINTS ÉTEREÚTNOEV, Ó SÈ VIOS AIOLÚOIOS
-
-ETUPRUVEUEEV, Kai ANEEavopos TEAEUTEL MEpSiRkas 6E 6 ALVTOU
-
-MaKEDOVWY BaGIAEVEL, EEn HILLI, pXOVTOS 'ABUnG NarSiYEVOUS.
-
-One hundred four years before the present, Dionysius the Sicilian died, and his son Dionysius assumed his tyranny. Also, Alexander dies, and Perdiccas the son of Amyntus reigns over the Macedonians, this while Nausigenes is archon at Athens.
-
-(IG XII:5', 108)
-
-
+> ἀφ' οὗ Διονύσιος Σικελιώτης ἐτελεύτησεν, ὁ δὲ υἱὸς Διονύσιος ἐτυράννευσεν, καὶ Ἀλεξάνδρ\[ου τελευτήσαντος Πτολεμαῖος ὁ Ἀλωρίτης Μακεδόνων <ins>βασιλεύει</ins>, ἔτη ΗΙΙΙΙ, ἄρχοντος Ἀθήνησιν Ναυσιγένους.\
+> One hundred four years before the present, Dionysius the Sicilian died, and his son Dionysius assumed his tyranny. Also, Alexander dies, and Perdiccas the son of Amyntus <ins>reigns</ins> over the Macedonians, this while Nausigenes is archon at Athens.\
+> (IG XII:5', 108)
 
 [^42]: Occurrences of the historic present not quoted below are in the years: 420/19, 380/79, 336/35, 313/12, 310/09. All of these verbs are forms of <ins>teleutáô</ins> or <ins>basileúô</ins>.
 
-Dionysius, the tyrant of the powerful city of Syracuse, is distinguished from the kings of the then minor kingdom of Macedonia. In In a gesture even more dismissive of tyrants (so to speak), the chronicle records the deatl s of two poets
+Dionysius, the tyrant of the powerful city of Syracuse, is distinguished from the kings of the then minor kingdom of Macedonia.[^43] In a gesture even more dismissive of tyrants (so to speak), the chronicle records the deaths of two poets — Philoxenus and Sosiphanes — in the present. The exact reason for this special dispensation is unclear; neither poet hailed from Paros, and neither had lived particularly recently.
 
-— Philoxenus and Sosiphanes — in the present. The exact reason for this special dispensation is unclear; neither poet hailed from Paros, and neither had lived particularly recently.
+Since the temporal structure of the Parian chronicle is quite clear, it provides some of the best evidence against the conjunction reduction and related theories of the historic present.[^44] Conjuction reduction is incapable of producing such sentences as the entry for 360/59:
 
-Since the temporal structure of the Parian chronicle is quite clear, it provides some of the best evidence againsts the conjunction redu tion and related theories of the historic present. 4 Conjuction reduction is incapable of producing such sentences as the entry for 360/59:
+> ἀφ' οὗ Φίλιππος ὁ Ἀμύντου Μακεδόνων <ins>βασιλεύει</ins>, καὶ Ἀρτοξέρξης ἐτελεύτησεν...\
+> Philip the son of Amyntus <ins>reigns</ins> over the Macedonians and Artaxerxes died...\
+> (IG XII:5', 109)
 
-'AD' OU PIALTTOS AMUVTOU MAKESOVEU BOCIAEVEL KOIADTOEEDEnS
+The conjunction reduction theory would, in fact, expect the tenses in the above example to be reversed. These data also cannot support the assertion that the historic present records an event simultaneous with the event previous in the narrative. Since _basileúei_ in this passage occurs first in this entry, there is a gap of several years between it and the last event in the previous entry. Finally, one might say that since _basileúo_ is inherently a stative verb, we should expect it in the present. _Teleutáô_ (properly, "to come to an end") is an undeniably punctual verb, but in annalistic contexts, _basileúei_ is also punctual and inceptive, for in these sentences it clearly means "to take the kingship."[^45]
 
-ETENEÚTnEV...
+[^43]: In one case, the historic present is not confined to the succession of a realm, but of a piece of territory. For 311/10: ἀφ' οὗ [Ν]ικοκρέων ἐτελεύτησεν καὶ Πτολεμαῖος <ins>κυριεύει</ins> τῆς νήσου..., "Before this time, Nicocreon died and Ptolemy <ins>has sovereignty</ins> over the island."
 
-Philip the son of Amyntus reigns over the Macedonians and Artaxerx s died...
+[^44]: Especially if, as McKay says (1974: 247), "the 'annalistic' present, being less colorful, would, one might expect, lend itself to conjunction reduction." This argument need not be adduced, for even if we consider conjunction reduction a better explanation than vividness, we need not exclude all vivid events from the conjunction-reduced present.
 
-(IG XII:5', 109)
+[^45]: This inceptive force is explicit in the examples from Herodotus above, where we find ἐκδέκεται τὴν βασιληίην, "he takes hold of the kingship". See Stork's article, "Aspectual Variant Readings in Herodotus" (1988), for a brief discussion of the aspectual features of _basileúo_. He notes (p. 287) that passages that include "a matter-of-fact listing of successive reigns without any further details and with adjuncts of time specifying the exact period during which the reigns lasted" normally take the aorist. But since the _Aktionart_ of _basileúo_ is normally durative, some texts use the imperfect.
 
-The conjunction reduction theory would, in fact, expect the tenses in the above example to be reversed. These data also cannot support the asser ion that the historic present records an event simultaneous with the event previous in the narrative. Since basileúei in this passage occurs first in this entry, here is a gap of several years between it and the last event in the previous entry. Finally, one might say that since basileúo is inherently a stative verb, we shoul l expect it in the present. Teleutáô (properly, "to come to an end") is an undeniably punctual
+These so-called annalistic presents form the weakest link in existing theories of the historic present. Smyth (1956: 422) merely says that "closely connected with the historical present is the annalistic present, which is used to register historical facts or to note incidents." Rijksbaron (1984: 24) places himself in a slightly more defensible position by saying that "the 'eyewitness' and 'turning-point' effects mentioned above play no role in cases were a series of historic presents occurs, without contrasting with imperfects and aorist indicatives...These actions cannot possibly be viewed as turning-points, since the following does not consist of a story demonstrating their significance." Rijksaborn's statement, however, can only be true for lists of isolated events such as the Parian chronicle. In historical narrative, especially narrative as tightly knit as those of Herodotus, aorists and imperfects always occur, and contrast is never lacking. Rijksbaron also fails to notice that the historic present may not only introduce a narrative, but also cap one off. (This latter function is obviously appropriate when the historic present tells of someone's death.) The chief fault of these definitions is that the annalistic present is placed side by side with the historic present without any demonstration of their interrelationship.
 
+When we view the annalistic present in the light of narrative grounding, we see that these colorless notices of royal births and deaths are rendered into the historic present in order to delineate the structure of the narrative rather than to emphasize any inherent interest in the events. When he recounts the birth of Cleomenes, Herodotus must first tell of the barrenness of Anaxandrides' first wife and of his remarriage. When he reaches Cleomenes' birth, he places the event in the historic present to signal the end of his digression. Likewise, in the narrative of Demaratus birth (Hdt. 6.61-3: part of which is quoted above), by the time Herodotus actually gets to the birth, he has already embedded himself in a double digression, first about his father marrying a third wife and then about this third wife's mysterious beautification as a child. By putting the actual birth in the historic present, Herodotus reminds the reader what the whole point of his story was.
 
-
-43 In one case, the historic present is not confined to the succession of a realm, but of a piece of territory. For 311/10: 'A' OU NIKOKPÉWV ÉTEREÚTNGEV KAI MTOREMaTOS KUDLEÑEL TS
-
-vnaou..., "Before this time, Nicocreon died and Ptolemy has sovereignty over the island."
-
-44 Especially if, as McKay says (1974: 247), "the 'annalistic' present, being less colorful, would, one might expect, lend itself to conjunction reduction." This argument need not be adduced, for even if we consider conjunction reduction a better explanation than vividness, we need not exclude all vivid events from the conjunction-reduced present.
-
-
-
-The Historic Present and Narrative Grounding
-
-39
-
-verb, but in annalistic contexts, basileúei is also punctual and inceptive, for in these sentences it clearly means "to take the kingship."45
-
-These so-called annalistic presents form the weakest link in existing theories of the historic present. Smyth (1956: 422) merely says that "closely connected with the historical present is the annalistic present, which is used to register historical facts or to note incidents." Rijksbaron (1984: 24) places himself in a slightly more defensible position by saying that "the 'eyewiti.ess' and
-
-'turning-point' effects mentioned above play no role in cases were a series of historic presents occurs, without contrasting with imperfects and aorist indicatives...These actions cannot possibly be viewed as turning- Joints, since the following does not consist of a story demonstrating their significance." Rijksaborn's statement, however, can only be true for lists of isola ied events such as the Parian chronicle. In historical narrative, especially narrative as tightly knit as those of Herodotus, aorists and imperfects always occur, and contrast is never lacking. Rijksbaron also fails to notice that the historic present m.y not only introduce a narrative, but also cap one off. (This latter is function is obviously appropriate when the historic present tells of someone's death.) The chief fault of these definitions is that the annalistic present is placed side by side with the historic present without any demonstration of their interrelations.up.
-
-When we view the annalistic present in the light of narrati /e grounding, we see that these colorless notices of royal births and deaths are rendered into the historic present in order to delineate the structure of the narrative rather than to
-
-
-
-45 This inceptive force is explicit in the examples from Herodotus above, where we find
-
-EKDEKETQL Tnv BaciAninv, "he takes hold of the kingship". See Stork's ar ticle, "Aspectual
-
-Variant Readings in Herodotus" (1988), for a brief discussion of the aspectual features of basileúo.
-
-He notes (p. 287) that passages that include "a matter-of-fact listing of successive reigns without any further details and with adjuncts of time specifying the exact perdiod during which the reigns lasted" normally take the aorist. But since the Aktionart of basileúo is normally durative, some texts use the imperfect.
-
-
-
-The Historic Present and Narrative Grounding
-
-40
-
-emphasize any inherent interest in the events. When he recounts the birth of Cleomenes, Herodotus must first tell of the barrenness of Anaxardrides' first wifeand of his remarriage. When he reaches Cleomenes' birth, he places the event in the historic present to signal the end of his digression. Likewise, in the narrative of Demaratus birth (Hdt. 6.61-3: part of which is quoted above), by the time Herodotus actually gets to the birth, he has already embedded himself in a double digression, first about his father marrying a third wife and then about this third wife's mysterious beautification as a child. By putting the actual birth in the historic present, Herodotus reminds the reader what the who'e point of his story was.
-
-Herodotus also sets up markers at the juncture of two narratives, the most
-
-obvious examples of which are the "king dies, successor rules" combinations.
-
-The death of Aristagoras of Miletus (Hdt. 5.126.1-6.1.1) is particularly striking since it occurs over a book boundary and is accompanied by a shift in scene from Greeks to Persians. Herodotus employs historic presents on either side of the book division to mark the transition. Returning to an earlier example, we may observe that pémpô almost always marks a narrative transition by changing the scene from the place of the sender to the place of the receiver. This transitional function might be the best explanation for the large number of historic presents of this verb. We may characterize transitional passages as particularly foregrounded since they advance not only their own narrative but they start the development of a new one. In fact, Rijksbaron's observation that historic presents "introduce a new series of actions" is special case of this transitional function.
-
+Herodotus also sets up markers at the juncture of two narratives, the most obvious examples of which are the "king dies, successor rules" combinations. The death of Aristagoras of Miletus (Hdt. 5.126.1–6.1.1) is particularly striking since it occurs over a book boundary and is accompanied by a shift in scene from Greeks to Persians. Herodotus employs historic presents on either side of the book division to mark the transition. Returning to an earlier example, we may observe that _pémpô_ almost always marks a narrative transition by changing the scene from the place of the sender to the place of the receiver. This transitional function might be the best explanation for the large number of historic presents of this verb. We may characterize transitional passages as particularly foregrounded since they advance not only their own narrative but they start the development of a new one. In fact, Rijksbaron's observation that historic presents "introduce a new series of actions" is special case of this transitional function.
 
 
 ## Conclusion
