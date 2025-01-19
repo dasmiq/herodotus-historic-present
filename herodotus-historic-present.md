@@ -332,74 +332,35 @@ We have seen anecdotal evidence that the historic present is used for highlighti
 
 Narrative background, as Rijksbaron has demonstrated, is represemted by the imperfect tense. Although parenthesization is editorial, it can still give us a good idea of the kinds of verbs that represent backgrounded events. Of the 104 passages in parentheses in Herodotus, there are 17 aorist indicatives, 43 imperfects, 49 present indicatives, seven future indicatives, four perfect indicatives, and six pluperfects. Compare this to the 8200 aorist indicatives and 17,243 imperfects in Herodotus as a whole. Thus 25.75% of the aorists and imperfects in the parenthesized passages are aorists whereas this proportion is 32.23% for all of Herodotus. More importantly for this study, all of the present indicative verbs in parentheses refer to the time of the narrative, not the time narrated. If we say that passages in parentheses are by definition backgrounded, it is significant that no historic presents appear in these passages.
 
-Before I proceed, however, I must deal with a general objection to the theory of the historic present as narrative foreground. As I mentioned in my discussion of the story of the killing of the Magi, Herodotus does not always employ the historic present for the peak of a narrative even when he uses it extensively elsewhere in that same narrative. How is it that the historic present, which is normally used for marked, foreground events, is not used for the most important event of the story? Fleischman (1990: 77) explains that the high points of narratives "constitute a marked discourse context in which the markedness relationships normally operative in a text predictably reverse." De Jong (1991: 41) theorizes that the alternation between historic present and aorist, even at the high points of a narrative, is a case of simple variatio. These explanations ignore the possibility that there could be less correlation between the narrative foreground and narrative peak than has been postulated. Nothing prohibits an author from placing the formal "climax" of a story more in the background than other events. Herodotus wants us to be impressed when the fornerly passive Gyges decides to kill Candaules and not so much when he actually carries out the deed. He wants the bloodbath of the Magiphonia to be more meriorable than how it actually ends.
+Before I proceed, however, I must deal with a general objection to the theory of the historic present as narrative foreground. As I mentioned in my discussion of the story of the killing of the Magi, Herodotus does not always employ the historic present for the peak of a narrative even when he uses it extensively elsewhere in that same narrative. How is it that the historic present, which is normally used for marked, foreground events, is not used for the most important event of the story? Fleischman (1990: 77) explains that the high points of narratives "constitute a marked discourse context in which the markedness relationships normally operative in a text predictably reverse." De Jong (1991: 41) theorizes that the alternation between historic present and aorist, even at the high points of a narrative, is a case of simple _variatio_. These explanations ignore the possibility that there could be less correlation between the narrative foreground and narrative peak than has been postulated. Nothing prohibits an author from placing the formal "climax" of a story more in the background than other events. Herodotus wants us to be impressed when the fornerly passive Gyges _decides_ to kill Candaules and not so much when he actually carries out the deed. He wants the bloodbath of the Magiphonia to be more memorable than how it actually ends.
 
-As we have seen above, a tension exists in the use of the historic present between the inherent character of the verb and the narrative function it serves.
+As we have seen above, a tension exists in the use of the historic present between the inherent character of the verb and the narrative function it serves. Some verbs, however, possess denotations that are particularly useful for delimiting and clarifying narrative structure. One most importart class of these verbs relates to rites of passage, "significant moments in a person's life such as birth, wedding, and death" (Rijksbaron 1984: 24). Although von Fritz (1949: 191) asserts that in these situations "no dramatic effect can possibly be intended," it is difficult to dismiss so lightly the weight of the matters recounted by such verbs as _tíktô_ (to give birth), _gaméô_ (to marry), and _teleutáô_ (to die, when applied to a person). Having examined all of the occurrences of these three verbs in Herodotus, I believe that this use of the historical present has in certain cases become so institutionalized as to lose its particular emotional effect and is employed instead for structural reasons.
 
-Some verbs, however, possess denotations that are particularly u. eful for delimiting and clarifying narrative structure. One most importart class of these verbs relates to rites of passage, "significant moments in a person's life such as birth, wedding, and death" (Rijksbaron 1984: 24). Although von Tritz (1949: 191) asserts that in these situations "no dramatic effect can possibly be intended," it is
+The birth of a royal child is, of course, a momentous event in a monarchy, especially when the succession is contested. To describe how Cleomenes came to the Spartan throne, Herodotus describes his birth.
 
-difficult to dismiss so lightly the weight of the matters recounted by such verbs as tíktô (to give birth), gaméô (to marry), and teleutáô (to die, when applied to a person). Having examined all of the occurrences of these three verbs in Herodotus, I believe that this use of the historical present has in certain cases become so institutionalized as to lose its particular emotional effet and is employed instead for structural reasons.
+> τῆς δὲ Σπάρτης Ἀναξανδρίδης μὲν ὁ Λέοντος οὐκέτι περιεὼν ἐβασίλευε ἀλλὰ ἐτετελευτήκεε, Κλεομένης δὲ ὁ Ἀναξανδρίδεω εἶχε τὴν βασιληίην, οὐ κατ᾽ ἀνδραγαθίην σχὼν ἀλλὰ κατὰ γένος...χρόνου δὲ οὐ πολλοῦ διελθόντος ἡ ἐσύστερον ἐπελθοῦσα γυνὴ <ins>τίκτει</ins> τὸν δὴ Κλεομένεα τοῦτον.\
+> At Sparta, Anaxandrides the son of Leon, who had been king, was now no longer alive but was dead, and Cleomenes son of Anaxandrides held the royal power. This he had won not by manly merit but by right of birth...\[A description follows of the barrenness of Anaxandrides' first wife and his coercion by the ephors into marrying a second wife.]...After no long time the second wife <ins>gives birth</ins> to Cleomenes.\
+> ([Hdt. 5.39.1-41.1](http://data.perseus.org/citations/urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:5.41.1))[^40]
 
-The birth of a royal child is, of course, a momentous event in a monarchy, especially when the succession is contested. To describe how Cle menes came to the Spartan throne, Herodotus describes his birth.
+Equally momentous are the circumstances, told in an aside, of Pericles' birth.
 
-AvaEavpiEns EV O AEOVTOS OUKEEL TEPLEV EBaOiAEVE
+> ἣ συνοικήσασά τε Ξανθίππῳ τῷ Ἀρίφρονος καὶ ἔγκυος ἐοῦσα εἶδε ὄψιν ἐν τῷ ὕπνῳ, ἐδόκεε δὲ λέοντα τεκεῖν, καὶ μετ᾽ ὀλίγας ἡμέρας <ins>τίκτει</ins> Περικλέα Ξανθίππῳ.\
+> She \[Agariste] was married to Xanthippus son of Ariphron, and when she was pregnant she saw in her sleep a vision in which she thought she gave birth to a lion. In a few days she <ins>bears</ins> Xanthippus a son, Pericles.\
+> ([Hdt. 6.131.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:6.131.2))
 
-GANO ETETENEUTHKEE, KAEOMEUNS GE d AVaEavEpiGEN ETXE Tทุบ
+When Cleomenes slanders Demaratus on account of the circumstances of his birth, Herodotus inserts a long digression on the birth of Demartus that ends thus:
 
-BaoiAninv, ou kar' avSpayaBiny oxwv anAd kard yEvos…xpovou 6E ov
+> οὕτω μὲν δὴ τὴν τρίτην ἐσηγάγετο γυναῖκα ὁ Ἀρίστων, τὴν δευτέρην ἀποπεμψάμενος. ἐν δέ οἱ χρόνῳ ἐλάσσονι καὶ οὐ πληρώσασα τοὺς δέκα μῆνας ἡ γυνὴ αὕτη <ins>τίκτει</ins> τοῦτον δὴ τὸν Δημάρητον.\
+> In this way Ariston married his third wife, after divorcing the second une. But his new wife <ins>gives</ins> birth to Demaratus too soon, before ten lunar months had passed.\
+> ([Hdt. 6.63.1](http://data.perseus.org/citations/urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:6.63.1))
 
-HOLLOU BLEABOVTOS H EOUOTEDON EMEABOUEC YUUn TiKTEL TOV 6ท
+I shall examine the narrative context of these examples in more detail below. For now, let it be noted that all of these births are in fact presented as turning-points.
 
-KREONÉVEA TOÚTOV.
+[^40]: Right after this passage, in [5.41.3](http://data.perseus.org/citations/urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:5.41.3), when the first wife finally does give birth, there is an example of what could be conjunction reduction if, in fact, there were a conjunction present. The historic present verbs govern the verb in the aorist.
+  > ἣ δὲ ὡς ἔτεκε Δωριέα ἰθέως <ins>ἴσχει</ins> Λεωνίδην, καὶ μετὰ τοῦτον ἰθέως <ins>ἴσχει</ins> Κλεόμβροτον: οἳ δὲ καὶ διδύμους λέγουσι Κλεόμβροτον καὶ Λεωνίδην γενέσθαι.\
+  > She gave birth first to Dorieus, then straightway to Leonidas, and right after him to Cleombrotus. Some, however, say that Cleombrotus and Leonidas were twins.
+  Note, however, that the use of verbs in the present tense does not destroy the temporal sequence of events. If this were true, there would not be a contradiction to say that the sacond and third children (whose births are in the present tense) were born at the same time.
 
-> At Sparta, Anaxandrides the son of Leon, who had been king, was now no longer alive but was dead, and Cleomenes son of Anaxandrides held the royal power. This he had won not by manly merit but by right of birth...\[A description follows of the barrenness of Anaxandrides' first wife and his coercion by the ephors into marrying a second wife.] ...After no long time the second wife gives birth to Cleomenes.\
-> (Hdt. 5.39.1-41.1)[^40]
-
-Equally momentous are the circumstances, told in an aside, of Pe. icles' birth.
-
-ทีuvoKnoaTE EaveinTe TApiopovos kai yuos oioa E0062
-
-6v TnvA.
-
-ESOKEE 6E NEOVTA TEKEV, Kai LEr' bAiyas กuipas LitE
-
-Перскла Eaveinnw.
-
-She [Agariste] was married to Xanthippus son of Ariphron, and when she was pregnant she saw in her sleep a vision in which she thought she gave birth to a lion. In a few days she bears Xanthippus a son, Pericles.
-
-(Hdt. 6.132.2)
-
-When Cleomenes slanders Demaratus on account of the circumstances of his birth, Herodotus inserts a long digression on the birth of Demartus that ends
-
-thus:
-
-อบTH LEบท InuTpiEnu EonyayEroyuvaira dApiotav, tav BeurEpnu
-
-In this way Ariston married his third wife, after divorcing the second une. But his new wife gives birth to Demaratus too soon, before ten lunar months had y assed.
-
-(Hdt. 6.63.1)
-
-I shall examine the narrative context of these examples in more d. tail below. For now, let it be noted that all of these births are in fact presented as turning-points.
-
-
-
-[^40]: Right after this passage, in 5.41.3, when the first wife finally does give birth, there is an example of what could be conjunction reduction if, in fact, there were a conjunction present. The historic present verbs govern the verb in the aorist.
-
-RSE WEETEKE AWpLEa iBEws IOXEL AEWVinv, Kai uerd Toutor iaews
-
-'OXEL KREÓMBPOTOV OI SE KaI GOÚMOUS REYOUOL KREÓMBPOTOV Kai
-
-NEWVIONY YEVÉO8aL.
-
-She gave birth first to Dorieus, then straightway to Leonidas, and right after him to Cleombrotus. Some, however, say that Cleombrotus and Leonidas were twins.
-
-Note, however, that the use of verbs in the present tense does not destroy the temporal sequence of events. If this were true, there would not be a contradiction to say that the sacond and third children (whose births are in the present tense) were born at the same time.
-
-
-
-The Historic Present and Narrative Grounding
-
-34
 
 In a like manner, Herodotus recounts important dynastic marriages in the historic present. Pisistratus' union with the daughter of Megacles is crucial for his rise to power.
 
