@@ -453,7 +453,7 @@ It is precisely the power of these tools that I wish to stress. Using morphologi
 
 ## Bibliography
 
-<a name="comrie76">Comrie, Bernard. _Aspect_. Cambridge: Cambridge University Press, 1976.</a>
+<a name="comrie76"></a>Comrie, Bernard. _Aspect_. Cambridge: Cambridge University Press, 1976.
 
 Comrie, Bernard. _Tense_. Cambridge: Cambridge University Press, 1985.
 
