@@ -156,7 +156,7 @@ The tags contained in angle brackets define the various chunks of the text. A se
 
 Let me digress for a moment about what information we can derive from a classical text. When Herodotus wrote his _Histories_, all letters were upper-case and there were neither word breaks nor diacritical marks nor pur.ctuation. An entirely naive study of Herodotus, therefore, would not use any riodern typographical information. Nevertheless, I have used the word breaks and diacriticals as they appear in the Godley's Loeb text (1926), for reconstructing them all _de novo_ is beyond the scope of this thesis. On the other hund, l ignore the editorial information conveyed by punctuation and structural breaks such as books, chapters, and sections. I do not, for example, conclude that Herodotus ends his sentences wherever a full stop appears in the text, nor that sentences in parentheses may automatically be treated as background material.[^15] This is not to say that this information is not usually accurate, but there are enough examples of grammatical constructions breaking the barriers of m.odern punctuation and structural segmentation to justify ignoring these barriers.[^16] From a formal standpoint, therefore, I will treat the text of Herodstus as an uninterrupted stream of words.
 
-[^15]: A study of the sentences that the editor has parenthesized is not totally with. out merit, especially as it is trivial to perform once the text is on-line.
+[^15]: A study of the sentences that the editor has parenthesized is not totally without merit, especially as it is trivial to perform once the text is on-line.
 
 [^16]: We find, for example, a string of historic presents crossing the boundary between books five and six.
 
@@ -351,30 +351,23 @@ Equally momentous are the circumstances, told in an aside, of Pericles' birth.
 When Cleomenes slanders Demaratus on account of the circumstances of his birth, Herodotus inserts a long digression on the birth of Demartus that ends thus:
 
 > οὕτω μὲν δὴ τὴν τρίτην ἐσηγάγετο γυναῖκα ὁ Ἀρίστων, τὴν δευτέρην ἀποπεμψάμενος. ἐν δέ οἱ χρόνῳ ἐλάσσονι καὶ οὐ πληρώσασα τοὺς δέκα μῆνας ἡ γυνὴ αὕτη <ins>τίκτει</ins> τοῦτον δὴ τὸν Δημάρητον.\
-> In this way Ariston married his third wife, after divorcing the second une. But his new wife <ins>gives</ins> birth to Demaratus too soon, before ten lunar months had passed.\
+> In this way Ariston married his third wife, after divorcing the second une. But his new wife <ins>gives birth</ins> to Demaratus too soon, before ten lunar months had passed.\
 > ([Hdt. 6.63.1](http://data.perseus.org/citations/urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:6.63.1))
 
 I shall examine the narrative context of these examples in more detail below. For now, let it be noted that all of these births are in fact presented as turning-points.
 
-[^40]: Right after this passage, in [5.41.3](http://data.perseus.org/citations/urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:5.41.3), when the first wife finally does give birth, there is an example of what could be conjunction reduction if, in fact, there were a conjunction present. The historic present verbs govern the verb in the aorist.
-  > ἣ δὲ ὡς ἔτεκε Δωριέα ἰθέως <ins>ἴσχει</ins> Λεωνίδην, καὶ μετὰ τοῦτον ἰθέως <ins>ἴσχει</ins> Κλεόμβροτον: οἳ δὲ καὶ διδύμους λέγουσι Κλεόμβροτον καὶ Λεωνίδην γενέσθαι.\
-  > She gave birth first to Dorieus, then straightway to Leonidas, and right after him to Cleombrotus. Some, however, say that Cleombrotus and Leonidas were twins.
+[^40]: Right after this passage, in [5.41.3](http://data.perseus.org/citations/urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:5.41.3), when the first wife finally does give birth, there is an example of what could be conjunction reduction if, in fact, there were a conjunction present. The historic present verbs govern the verb in the aorist.\
+  ἣ δὲ ὡς ἔτεκε Δωριέα ἰθέως <ins>ἴσχει</ins> Λεωνίδην, καὶ μετὰ τοῦτον ἰθέως <ins>ἴσχει</ins> Κλεόμβροτον: οἳ δὲ καὶ διδύμους λέγουσι Κλεόμβροτον καὶ Λεωνίδην γενέσθαι.\
+  She gave birth first to Dorieus, then straightway to Leonidas, and right after him to Cleombrotus. Some, however, say that Cleombrotus and Leonidas were twins.\
   Note, however, that the use of verbs in the present tense does not destroy the temporal sequence of events. If this were true, there would not be a contradiction to say that the sacond and third children (whose births are in the present tense) were born at the same time.
-
 
 In a like manner, Herodotus recounts important dynastic marriages in the historic present. Pisistratus' union with the daughter of Megacles is crucial for his rise to power.
 
-dmonap 5Etnv tupavvia tpone ri cipnueve o netoiocaros kard thy
+> ἀπολαβὼν δὲ τὴν τυραννίδα τρόπῳ τῷ εἰρημένῳ ὁ Πεισίστρατος κατὰ τὴν ὁμολογίην τὴν πρὸς Μεγακλέα γενομένην <ins>γαμέει</ins> τοῦ Μεγακλέος τὴν θυγατέρα.\
+> Having got back his sovereignty in the manner which I have described, Pisistratus <ins>marries</ins> Megacles' daughter according to his agreement with Megacles.\
+> ([Hdt. 1.61.1](http://data.perseus.org/citations/urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:1.61.1))
 
-bucAoyinv nv mpos MeYaKAEa YEvOuEn YOuEEL TOU ME/AKAEOG THU
-
-evyatépa.
-
-Having got back his sovereignty in the manner which I have describec, Pisistratus marries Megacles' daughter according to his agreement with Megacles.
-
-(Hdt. 1.61.1)
-
-Amasis, too, cements his alliance with Cyrene by marrying the d& ughter of a leading Cyrenan.
+Amasis, too, cements his alliance with Cyrene by marrying the daughter of a leading Cyrenan.
 
 เที่ ouvoanu naikn
 
