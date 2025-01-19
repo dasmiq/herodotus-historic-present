@@ -369,31 +369,19 @@ In a like manner, Herodotus recounts important dynastic marriages in the histori
 
 Amasis, too, cements his alliance with Cyrene by marrying the daughter of a leading Cyrenan.
 
-เที่ ouvoanu naikn
+> Κυρηναίοισι δὲ Ἄμασις φιλότητά τε καὶ συμμαχίην συνεθήκατο, ἐδικαίωσε δὲ καὶ γῆμαι αὐτόθεν...<ins>γαμέει</ins> δὲ ὦν οἳ μὲν λέγουσι Βάττου οἳ δ᾽ Ἀρκεσίλεω θυγατέρα, οἳ δὲ Κριτοβούλου ἀνδρὸς τῶν ἀστῶν δοκίμου, τῇ οὔνομα ἦν Λαδίκη\
+> Amasis made friends and allies of the people of Cyrene. And he decided to marry from there...in any case, he <ins>marries</ins> a certain Ladice, said by some to be the aughter of Battus, of Arcesilaus by others, and by others again of Critobulus, an esteemed citizen of the place.\
+> ([Hdt. 2.181.1–2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:2.181))
 
-Amasis made friends and allies of the people of Cyrene. And he decid d to marry from there...in any case, he marries a certain Ladice, said by some to be the aughter of Battus, of Arcesilaus by others, and by others again of Critobulus, an esteeme citizen of the place.
+In the account of Miltiades' marriage to the daughter of King Olorus, Herodotus equates the consolidation of power and the marriage by casting both in the historic present.
 
-(Hdt. 2.181.1)
-
-In the account of Miltiades' marriage to the daughter of King Olo us, Herodotus equates the consolidation of power and the marriage by casting both in the historic present.
-
-MATIONS TE En IOxEL TnV KEpGOUnOV, TEVTaKODIOUS BOCKWU
-
-Enikopous, kai youte 'opou Toบ opnixwy Bacieos tiy Buyarepa
-
-So Miltiades makes himself master of the Chersonese; there he maintained a guard of five hundred men, and marries Hegesipyle the daughter of Olorus, king of Thrace.
-
-(Hdt. 6.39.2)
+> Μιλτιάδης τε δὴ <ins>ἴσχει</ins> τὴν Χερσόνησον, πεντακοσίους βόσκων ἐπικούρους, καὶ <ins>γαμέει</ins> Ὀλόρου τοῦ Θρηίκων βασιλέος τὴν θυγατέρα Ἡγησιπύλην.\
+> So Miltiades <ins>makes himself master</ins> of the Chersonese; there he maintained a guard of five hundred men, and <ins>marries</ins> Hegesipyle the daughter of Olorus, king of Thrace.\
+> ([Hdt. 6.39.2](http://data.perseus.org/citations/urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:6.39.2))
 
 We may also cite again the story of Demaratus' birth (Hdt. 6.61.1-62.1). The marriage and remarriage of his mother, which contribute to his doubtful paternity, are both told in the historic present.
 
-
-
-The Historic Present and Narrative Grounding
-
-35
-
-Of all the verbs in the historical present, teleutáô exhibits th. highest proportion of historic presents to other narrative tenses, with 16 listoric presents and 15 aorists and imperfects. This means that 52% of all the uses of this verb in narrative are in the historic present. Most interestingly, Herodotts' use of teleutáô echoes an annalistic style, for when the death of a king or general is recorded with this verb, the length of the reign and the name of tie successor follow. These examples demonstrate the pattern.
+Of all the verbs in the historical present, _teleutáô_ exhibits the highest proportion of historic presents to other narrative tenses, with 16 historic presents and 15 aorists and imperfects. This means that 52% of all the uses of this verb in narrative are in the historic present. Most interestingly, Herodotts' use of _teleutáô_ echoes an annalistic style, for when the death of a king or general is recorded with this verb, the length of the reign and the name of the successor follow. These examples demonstrate the pattern.
 
 'AR UÁTTIS BÈ Ó NUÒC TÒY TPÒS MINNGÍOUS TÓMEMOV GIEVE KAS METÉTELTA
 
