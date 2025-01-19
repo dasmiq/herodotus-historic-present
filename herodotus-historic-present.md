@@ -411,7 +411,7 @@ Inscriptional evidence confirms that when Herodotus uses the historic present to
 
 It is interesting to note that tyrants are explicitly denied this treatment; for the year 368/7, we read:
 
-> ἀφ' οὗ Διονύσιος Σικελιώτης ἐτελεύτησεν, ὁ δὲ υἱὸς Διονύσιος ἐτυράννευσεν, καὶ Ἀλεξάνδρ\[ου τελευτήσαντος Πτολεμαῖος ὁ Ἀλωρίτης Μακεδόνων <ins>βασιλεύει</ins>, ἔτη ΗΙΙΙΙ, ἄρχοντος Ἀθήνησιν Ναυσιγένους.\
+> ἀφ' οὗ Διονύσιος Σικελιώτης ἐτελεύτησεν, ὁ δὲ υἱὸς Διονύσιος ἐτυράννευσεν, καὶ Ἀλέξανδρος <ins>τελευτᾶι</ins>, Περδίκκας δὲ ὁ Ἀμύντου Μακεδόνων <ins>βασιλεύει</ins>, ἔτη ΗΙΙΙΙ, ἄρχοντος Ἀθήνησιν Ναυσιγένους.\
 > One hundred four years before the present, Dionysius the Sicilian died, and his son Dionysius assumed his tyranny. Also, Alexander dies, and Perdiccas the son of Amyntus <ins>reigns</ins> over the Macedonians, this while Nausigenes is archon at Athens.\
 > (IG XII:5', 108)
 
@@ -427,7 +427,7 @@ Since the temporal structure of the Parian chronicle is quite clear, it provides
 
 The conjunction reduction theory would, in fact, expect the tenses in the above example to be reversed. These data also cannot support the assertion that the historic present records an event simultaneous with the event previous in the narrative. Since _basileúei_ in this passage occurs first in this entry, there is a gap of several years between it and the last event in the previous entry. Finally, one might say that since _basileúo_ is inherently a stative verb, we should expect it in the present. _Teleutáô_ (properly, "to come to an end") is an undeniably punctual verb, but in annalistic contexts, _basileúei_ is also punctual and inceptive, for in these sentences it clearly means "to take the kingship."[^45]
 
-[^43]: In one case, the historic present is not confined to the succession of a realm, but of a piece of territory. For 311/10: ἀφ' οὗ [Ν]ικοκρέων ἐτελεύτησεν καὶ Πτολεμαῖος <ins>κυριεύει</ins> τῆς νήσου..., "Before this time, Nicocreon died and Ptolemy <ins>has sovereignty</ins> over the island."
+[^43]: In one case, the historic present is not confined to the succession of a realm, but of a piece of territory. For 311/10: ἀφ' οὗ Νικοκρέων ἐτελεύτησεν καὶ Πτολεμαῖος <ins>κυριεύει</ins> τῆς νήσου..., "Before this time, Nicocreon died and Ptolemy <ins>has sovereignty</ins> over the island."
 
 [^44]: Especially if, as McKay says (1974: 247), "the 'annalistic' present, being less colorful, would, one might expect, lend itself to conjunction reduction." This argument need not be adduced, for even if we consider conjunction reduction a better explanation than vividness, we need not exclude all vivid events from the conjunction-reduced present.
 
