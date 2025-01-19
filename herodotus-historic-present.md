@@ -465,143 +465,38 @@ It is precisely the power of these tools that I wish to stress. Using morphologi
 
 <a name="fritz49"></a>Fritz, Kurt von. "The So-Called Historical Present in Early Greek". _Word_ 5 (1949) 186–201.
 
-Godley, A. D, trans. _Herodotus: With an English Translation by A. D. Godley in Four Volumes_. London: William Heinemann, 1926.
+<a name="godley26"></a>Godley, A. D, trans. _Herodotus: With an English Translation by A. D. Godley in Four Volumes_. London: William Heinemann, 1926.
 
-Goldfarb, Charles F. _The SGML Handbook_. Oxford: Oxford University Press, 1990.
+<a name="goldfarb90"></a>Goldfarb, Charles F. _The SGML Handbook_. Oxford: Oxford University Press, 1990.
 
-Herwijnen, Eric van. _Practical SGML_. Dordrecht: Kluwer Acaderic Publishers, 1990.
+<a name="herwijnen90"></a>Herwijnen, Eric van. _Practical SGML_. Dordrecht: Kluwer Acaderic Publishers, 1990.
 
 <a name="hopper79"></a>Hopper, Paul J. "Aspect and Foregrounding in Discourse". _Syntax and Semantics_ 12 (1979) 213-241.
 
 <a name="hopper80"></a>Hopper, P. J. and S. A. Thompson. "Transitivity in Grammar aná Discourse". _Language_ 56 (1980) 251-300.
 
-Hude, Charles, ed. _Herodoti Historiae_. Oxford: Oxford University Press, 1908.
+<a name="hude09"></a>Hude, Charles, ed. _Herodoti Historiae_. Oxford: Oxford University Press, 1908.
 
-Jong, Irene J. F. de. _Narrative in Drama: The Art of the Euripidean Nessenger-Speech_. Leiden: E. J. Brill, 1991.
+<a name="jong91"></a>Jong, Irene J. F. de. _Narrative in Drama: The Art of the Euripidean Nessenger-Speech_. Leiden: E. J. Brill, 1991.
 
-Kiparsky, Paul. "Tense and Mood in Indo-European Syntax". _Foundations of Language_ 4 (1968) 30-57.
+<a name="kiparsky68"></a>Kiparsky, Paul. "Tense and Mood in Indo-European Syntax". _Foundations of Language_ 4 (1968) 30-57.
 
-Levin, Saul. "Remarks on the 'Historical' Present and Comparable Phenomena of Syntax". _Foundations of Language_ 5 (1969) 386-90.
+<a name="levin69"></a>Levin, Saul. "Remarks on the 'Historical' Present and Comparable Phenomena of Syntax". _Foundations of Language_ 5 (1969) 386-90.
 
 <a name="longacre77"></a>Longacre, R. and S. Levinsohn. "Field Analysis of Discourse". ed. W. U. Dressler, _Current Trends in Textlinguistics_. Berlin, New York: De Gruyter (1977) 103-22.
 
-McKay, K. L. "Further Remarks on the 'Historical' Present and Other Phenomena". _Foundations of Language_ 11 (1974) 247-51.
+<a name="mckay74"></a>McKay, K. L. "Further Remarks on the 'Historical' Present and Other Phenomena". _Foundations of Language_ 11 (1974) 247-51.
 
-Rijksbaron, Albert. _The Syntax and Semantics of the Verb in Classical Greek_. Amsterdam: J. C. Gieben, 1984.
+<a name="rijksbaron84"></a>Rijksbaron, Albert. _The Syntax and Semantics of the Verb in Classical Greek_. Amsterdam: J. C. Gieben, 1984.
 
-Rijksbaron, A., H. A. Mulder, and G. C. Wakker, eds. _In the Footsteps of Raphael Kühner: Proceedings of the International Colloquium in Commemoration of the 150th Anniversary of the Publication of Raphael Kühner's Ausführliche Grammatik der Griechischen Sprache, II. Theil: Syntaxe_. Amsterdam: J. C Gieben, 1988.
+<a name="rijksbaron88"></a>Rijksbaron, A., H. A. Mulder, and G. C. Wakker, eds. _In the Footsteps of Raphael Kühner: Proceedings of the International Colloquium in Commemoration of the 150th Anniversary of the Publication of Raphael Kühner's Ausführliche Grammatik der Griechischen Sprache, II. Theil: Syntaxe_. Amsterdam: J. C Gieben, 1988.
 
-Rijksbaron, Albert. "The Discourse Function of the Imperfect". In: Rijksbaron, Mulder, and Wakker (eds.) (1988) 237-54.
+<a name="rijksbaron88b"></a>Rijksbaron, Albert. "The Discourse Function of the Imperfect". In: Rijksbaron, Mulder, and Wakker (eds.) (1988) 237-54.
 
-Smyth, Herbert Weir. _Greek Grammar_. Cambridge, Massachusetts: Harvard University Press, 1956.
+<a name="smyth56"></a>Smyth, Herbert Weir. _Greek Grammar_. Cambridge, Massachusetts: Harvard University Press, 1956.
 
-Sperberg-McQueen, C. M. and Lou Burnard. _Guidelines for the Encoding and Interchange of Machine-Readable Texts_. Draft version 1.0.
+<a name="sperberg-mcqueen"></a>Sperberg-McQueen, C. M. and Lou Burnard. _Guidelines for the Encoding and Interchange of Machine-Readable Texts_. Draft version 1.0.
 
-Stork, P. "Aspectual Variant Readings in Herodotus". In: Rijksbaron, Mulder, and Wakker (eds.) (1988) 265-89.
+<a name="stork88"></a>Stork, P. "Aspectual Variant Readings in Herodotus". In: Rijksbaron, Mulder, and Wakker (eds.) (1988) 265-89.
 
-Wolfson, Nessa. _CHP: The Conversational Historic Present in American English Narrative_. Dordrecht, Netherlands: Foris Publications, 1982.
-
-
-## Index Locorum
-
-Hdt. 1.10.1-2
-
-Hdt. 1.107.1
-
-Hdt. 1.11.4
-
-Hdt. 1.12.1
-
-Hdt. 1.21.1
-
-Hdt. 1.25.1-26.1
-
-Hdt. 1.59.3
-
-Hdt. 1.61.1
-
-Hdt. 2.181.1
-
-Hdt. 3.30.3
-
-Hdt. 3.65.3
-
-Hdt. 3.77.3-79.1
-
-Hdt. 4.102.1
-
-Hdt. 5.122.2-123.1
-
-Hdt. 5.39.1-41.1
-
-Hdt. 6.115.1
-
-Hdt. 6.132.2
-
-Hdt. 6.39.2
-
-Hdt. 6.40.1-2
-
-Hdt. 6.62.1
-
-Hdt. 6.63.1
-
-Hdt. 6.71.1-2
-
-Hdt. 7.239.3
-
-Hdt. 9.64.2
-
-Xen. Anab. 1.1.1
-
-
-
-22
-
-35
-
-22
-
-23
-
-30
-
-35
-
-30
-
-34
-
-34
-
-24
-
-25
-
-24
-
-30
-
-35
-
-33
-
-7
-
-33
-
-34
-
-26
-
-7
-
-33
-
-36
-
-30
-
-7
-
-7
+<a name="wolfson82"></a>Wolfson, Nessa. _CHP: The Conversational Historic Present in American English Narrative_. Dordrecht, Netherlands: Foris Publications, 1982.
