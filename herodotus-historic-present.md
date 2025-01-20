@@ -415,7 +415,7 @@ It is interesting to note that tyrants are explicitly denied this treatment; for
 > One hundred four years before the present, Dionysius the Sicilian died, and his son Dionysius assumed his tyranny. Also, Alexander dies, and Perdiccas the son of Amyntus <ins>reigns</ins> over the Macedonians, this while Nausigenes is archon at Athens.\
 > (IG XII:5', 108)
 
-[^42]: Occurrences of the historic present not quoted below are in the years: 420/19, 380/79, 336/35, 313/12, 310/09. All of these verbs are forms of <ins>teleutáô</ins> or <ins>basileúô</ins>.
+[^42]: Occurrences of the historic present not quoted below are in the years: 420/19, 380/79, 336/35, 313/12, 310/09. All of these verbs are forms of _teleutáô_ or _basileúô_.
 
 Dionysius, the tyrant of the powerful city of Syracuse, is distinguished from the kings of the then minor kingdom of Macedonia.[^43] In a gesture even more dismissive of tyrants (so to speak), the chronicle records the deaths of two poets — Philoxenus and Sosiphanes — in the present. The exact reason for this special dispensation is unclear; neither poet hailed from Paros, and neither had lived particularly recently.
 
