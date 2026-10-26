@@ -351,7 +351,7 @@ Equally momentous are the circumstances, told in an aside, of Pericles' birth.
 When Cleomenes slanders Demaratus on account of the circumstances of his birth, Herodotus inserts a long digression on the birth of Demartus that ends thus:
 
 > οὕτω μὲν δὴ τὴν τρίτην ἐσηγάγετο γυναῖκα ὁ Ἀρίστων, τὴν δευτέρην ἀποπεμψάμενος. ἐν δέ οἱ χρόνῳ ἐλάσσονι καὶ οὐ πληρώσασα τοὺς δέκα μῆνας ἡ γυνὴ αὕτη <ins>τίκτει</ins> τοῦτον δὴ τὸν Δημάρητον.\
-> In this way Ariston married his third wife, after divorcing the second une. But his new wife <ins>gives birth</ins> to Demaratus too soon, before ten lunar months had passed.\
+> In this way Ariston married his third wife, after divorcing the second one. But his new wife <ins>gives birth</ins> to Demaratus too soon, before ten lunar months had passed.\
 > ([Hdt. 6.63.1](http://data.perseus.org/citations/urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:6.63.1))
 
 I shall examine the narrative context of these examples in more detail below. For now, let it be noted that all of these births are in fact presented as turning-points.
